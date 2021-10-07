@@ -217,6 +217,8 @@ st.sidebar.write("""[Matthieu MORAND](https://www.linkedin.com/in/matthieu-moran
 ## PARTIE 0 : DÉFINITION DU PROJET                                           ##
 ###############################################################################
 
+import os # TEST
+
 if menu_sel == menu_lst[0]:
     st.header(title)
     st.subheader(menu_sel, anchor='Le-projet')
@@ -230,8 +232,7 @@ if menu_sel == menu_lst[0]:
                 """)
     
     # TEST
-    from os import getcwd
-    st.write(str(getcwd()))
+    st.write(str(os.getcwd()))
 
 
 ###############################################################################
