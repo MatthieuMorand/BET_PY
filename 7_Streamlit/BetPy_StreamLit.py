@@ -243,7 +243,7 @@ if menu_sel == menu_lst[1]:
                 allemande et italienne pour la saison 2017-2018. Ces données sont réparties sur les cinq
                 tables présentées ci-dessous.""")
     
-    st.image(path_imag + 'Table 00 - JDD de départ.png',
+    st.image(path_imag + 'Table_00_JDD_de_départ.png',
              caption='Les différentes tables du JDD avec leurs relations entre elles.')
     
     #######################################
@@ -698,7 +698,7 @@ if menu_sel == menu_lst[4]:
     st.markdown("""Le schéma, ci-dessous, représente le JDD après nettoyage. De celui-ci, nous ne nous servirons que des tables « match »
                 et « match_event » pour créer les *features*.""")
     
-    st.image(path_imag + 'Table 01 - JDD après nettoyage.png',
+    st.image(path_imag + 'Table_01_JDD_après_nettoyage.png',
              caption='Les différentes tables du JDD après nettoyage.')
     
     st.markdown("""
@@ -726,7 +726,7 @@ if menu_sel == menu_lst[4]:
                 </ol>
                 """, unsafe_allow_html=True)
     
-    st.image(path_imag + 'Schéma global du process.png',
+    st.image(path_imag + 'Schéma_global_du_process.png',
              caption="Schéma global du processus d'extraction des variables explicatives.")
     
     #######################################
@@ -738,7 +738,7 @@ if menu_sel == menu_lst[4]:
                 La description de ces colonnes, ainsi que le code utilisé pour les obtenir sont disponibles ci-dessous.""")
     
     # Schéma pour la création de la table
-    st.image(path_imag + 'Table 02 - match vers match_results.png',
+    st.image(path_imag + 'Table_02_match_vers_match_results.png',
              caption='Passage de la table « match » à la table « match_results ».')
     
     # Présentation détaillée des colonnes de la tables « match_results »
@@ -1117,7 +1117,7 @@ if menu_sel == menu_lst[4]:
                 La description de ces colonnes, ainsi que le code utilisé pour les obtenir sont disponibles ci-dessous.""")
     
     # Schéma pour la création de la table
-    st.image(path_imag + 'Table 03 - match_events vers match_infos.png',
+    st.image(path_imag + 'Table_03_match_events_vers_match_infos.png',
              caption='Passage de la table « match_event » à la table « match_infos ».')
     
     # Présentation détaillée des colonnes de la tables « match_infos »
@@ -1450,7 +1450,7 @@ if menu_sel == menu_lst[4]:
                 Cette dernière colonne n'existant pas dans la table « match_infos », elle est à récupérer depuis la table « club » (colonne « name »).""")
     
     # Schéma pour l'augmentation de la table « match_infos » (phase 1)
-    st.image(path_imag + 'Table 04 - augmentation match_infos phase 1.png',
+    st.image(path_imag + 'Table_04_augmentation_match_infos_phase_1.png',
              caption='Augmentation de la table « match_infos » (phase 1).')
     
     st.write("""Ci-dessous, le code permettant la réalisation de cette première phase.""")
@@ -1468,7 +1468,7 @@ if menu_sel == menu_lst[4]:
     st.write("""Le détail de chaque colonne de la table, ainsi que le code utilisé pour les obtenir sont disponibles ci-dessous.""")
     
     # Schéma pour l'augmentation de la table « match_infos » (phase 2)
-    st.image(path_imag + 'Table 05 - augmentation match_infos phase 2.png',
+    st.image(path_imag + 'Table_05_augmentation_match_infos_phase_2.png',
              caption='Augmentation de la table « match_infos » (phase 2).')
     
     # Présentation détaillée des colonnes de la tables « match_infos » augmentée
@@ -1828,7 +1828,7 @@ if menu_sel == menu_lst[4]:
                 Le détail de ces colonnes et le code utilisé pour les obtenir sont diponibles ci-dessous.""")
     
     # Schéma pour la création de la table « match_all »
-    st.image(path_imag + 'Table 06 - match_all.png',
+    st.image(path_imag + 'Table_06_match_all.png',
              caption='Fusion des tables « match_results » et « match_infos » pour donner la table « match_all ».')
     
     # Présentation détaillée des colonnes de la tables « match_all »
@@ -2064,7 +2064,7 @@ if menu_sel == menu_lst[4]:
     st.write("""Le détail de ces colonnes et le code utilisé pour les obtenir sont diponibles ci-dessous.""")
     
     # Schéma pour la création de la table « data »
-    st.image(path_imag + 'Table 07 - data.png',
+    st.image(path_imag + 'Table_07_data.png',
              caption='Création de la table « data ».')
     
     # Présentation détaillée des colonnes de la tables « data »
