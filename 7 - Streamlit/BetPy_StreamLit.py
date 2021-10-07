@@ -131,6 +131,15 @@ def display_ROC(algo, y_test, probs):
 
 # https://github.com/MatthieuMorand/BET_PY/tree/main/7%20-%20Streamlit
 
+# TEST
+
+import os
+current_path = os.getcwd()
+
+st.sidebar.write(current_path)
+
+# TEST
+
 chdir(r'D:\Users\User\Documents\GitHub\BET_PY_\7 - Streamlit')
 
 path_data = '1 - Data\\'
@@ -217,8 +226,6 @@ st.sidebar.write("""[Matthieu MORAND](https://www.linkedin.com/in/matthieu-moran
 ## PARTIE 0 : DÉFINITION DU PROJET                                           ##
 ###############################################################################
 
-import os # TEST
-
 if menu_sel == menu_lst[0]:
     st.header(title)
     st.subheader(menu_sel, anchor='Le-projet')
@@ -230,9 +237,6 @@ if menu_sel == menu_lst[0]:
                    Les meilleurs résultats que nous avons pu obtenir ne sont pas encore présent dans le *streamlit*, mais la partie **Machine Learning** vous permet
                    de tester vous même les variables que nous avons créées sur différents algorithmes.
                 """)
-    
-    # TEST
-    st.write(str(os.getcwd()))
 
 
 ###############################################################################
