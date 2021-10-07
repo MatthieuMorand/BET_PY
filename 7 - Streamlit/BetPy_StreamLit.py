@@ -129,8 +129,8 @@ def display_ROC(algo, y_test, probs):
 ## INITIALISATION                                                            ##
 ###############################################################################
 
-path_data = r'https://github.com/MatthieuMorand/BET_PY/tree/main/7%20-%20Streamlit/1%20-%20Data'
-path_imag = r'https://github.com/MatthieuMorand/BET_PY/tree/main/7%20-%20Streamlit/0%20-%20Images'
+path_data = r'https://github.com/MatthieuMorand/BET_PY/tree/main/7 - Streamlit/1 - Data'
+path_imag = r'https://github.com/MatthieuMorand/BET_PY/tree/main/7 - Streamlit/0 - Images'
 
 
 ###############################################################################
