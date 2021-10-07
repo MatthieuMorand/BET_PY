@@ -33,7 +33,6 @@ import streamlit         as st
 
 from datetime                import datetime as dt
 from dateutil.relativedelta  import relativedelta
-from os                      import chdir
 from sklearn                 import preprocessing, metrics
 from sklearn                 import svm, neighbors
 from sklearn.ensemble        import RandomForestClassifier
@@ -41,6 +40,7 @@ from sklearn.linear_model    import LogisticRegression
 from sklearn.metrics         import accuracy_score, auc, classification_report, roc_curve
 from sklearn.model_selection import GridSearchCV, train_test_split
 from time                    import sleep
+from urllib.request          import urlopen
 
 
 ###############################################################################
@@ -129,21 +129,8 @@ def display_ROC(algo, y_test, probs):
 ## INITIALISATION                                                            ##
 ###############################################################################
 
-# https://github.com/MatthieuMorand/BET_PY/tree/main/7%20-%20Streamlit
-
-# TEST
-
-import os
-current_path = os.getcwd()
-
-st.sidebar.write(current_path)
-
-# TEST
-
-chdir(r'D:\Users\User\Documents\GitHub\BET_PY_\7 - Streamlit')
-
-path_data = '1 - Data\\'
-path_imag = '0 - Images\\'
+path_data = r'https://github.com/MatthieuMorand/BET_PY/tree/main/7%20-%20Streamlit/1%20-%20Data'
+path_imag = r'https://github.com/MatthieuMorand/BET_PY/tree/main/7%20-%20Streamlit/0%20-%20Images'
 
 
 ###############################################################################
