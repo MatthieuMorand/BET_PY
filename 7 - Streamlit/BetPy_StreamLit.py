@@ -231,7 +231,7 @@ if menu_sel == menu_lst[0]:
     
     # TEST
     from os import getcwd
-    st.write(getcwd)
+    st.write(getcwd())
 
 
 ###############################################################################
