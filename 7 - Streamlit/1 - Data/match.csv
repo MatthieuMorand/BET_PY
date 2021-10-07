@@ -1,0 +1,1341 @@
+id,dateutc,competition,season,venue,home_club,away_club,winner,goal_by_home_club,goal_by_away_club,referee_id
+0,2018-05-20 18:45:00,Italian first division,2018,"""""",Lazio,Internazionale,Internazionale,2,3,356
+1,2018-05-20 18:45:00,Italian first division,2018,MAPEI Stadium - Citt\u00e0 del Tricolore,Sassuolo,Roma,Roma,0,1,338
+2,2018-05-20 16:00:00,Italian first division,2018,"""""",Cagliari,Atalanta,Cagliari,1,0,389
+3,2018-05-20 16:00:00,Italian first division,2018,"""""",Chievo,Benevento,Chievo,1,0,107
+4,2018-05-20 16:00:00,Italian first division,2018,"""""",Udinese,Bologna,Udinese,1,0,381
+5,2018-05-20 16:00:00,Italian first division,2018,"""""",Napoli,Crotone,Napoli,2,1,248
+6,2018-05-20 16:00:00,Italian first division,2018,"""""",Milan,Fiorentina,Milan,5,1,538
+7,2018-05-20 16:00:00,Italian first division,2018,"""""",SPAL,Sampdoria,SPAL,3,1,72
+8,2018-05-20 13:00:00,Italian first division,2018,"""""",Genoa,Torino,Torino,1,2,256
+9,2018-05-19 13:00:00,Italian first division,2018,"""""",Juventus,Hellas Verona,Juventus,2,1,603
+11,2018-05-13 18:45:00,Italian first division,2018,"""""",Sampdoria,Napoli,Napoli,0,2,381
+13,2018-05-13 13:00:00,Italian first division,2018,"""""",Fiorentina,Cagliari,Cagliari,0,1,189
+14,2018-05-13 13:00:00,Italian first division,2018,"""""",Bologna,Chievo,Chievo,1,2,575
+16,2018-05-13 13:00:00,Italian first division,2018,"""""",Torino,SPAL,Torino,2,1,360
+17,2018-05-13 13:00:00,Italian first division,2018,"""""",Hellas Verona,Udinese,Udinese,0,1,216
+18,2018-05-12 18:45:00,Italian first division,2018,"""""",Internazionale,Sassuolo,Sassuolo,1,2,142
+19,2018-05-12 16:00:00,Italian first division,2018,"""""",Benevento,Genoa,Benevento,1,0,192
+20,2018-05-06 18:45:00,Italian first division,2018,"""""",Cagliari,Roma,Roma,0,1,72
+21,2018-05-06 16:00:00,Italian first division,2018,"""""",Sassuolo,Sampdoria,Sassuolo,1,0,83
+23,2018-05-06 13:00:00,Italian first division,2018,"""""",SPAL,Benevento,SPAL,2,0,498
+24,2018-05-06 13:00:00,Italian first division,2018,"""""",Chievo,Crotone,Chievo,2,1,389
+25,2018-05-06 13:00:00,Italian first division,2018,"""""",Genoa,Fiorentina,Fiorentina,2,3,619
+27,2018-05-06 10:30:00,Italian first division,2018,"""""",Udinese,Internazionale,Internazionale,0,4,594
+28,2018-05-05 18:45:00,Italian first division,2018,"""""",Juventus,Bologna,Juventus,3,1,67
+29,2018-05-05 16:00:00,Italian first division,2018,"""""",Milan,Hellas Verona,Milan,4,1,107
+30,2018-04-29 18:45:00,Italian first division,2018,"""""",Torino,Lazio,Lazio,0,1,67
+31,2018-04-29 16:00:00,Italian first division,2018,"""""",Fiorentina,Napoli,Fiorentina,3,0,594
+32,2018-04-29 13:00:00,Italian first division,2018,"""""",Sampdoria,Cagliari,Sampdoria,4,1,142
+33,2018-04-29 13:00:00,Italian first division,2018,"""""",Atalanta,Genoa,Atalanta,3,1,538
+34,2018-04-29 13:00:00,Italian first division,2018,"""""",Bologna,Milan,Milan,1,2,317
+35,2018-04-29 13:00:00,Italian first division,2018,"""""",Hellas Verona,SPAL,SPAL,1,3,248
+37,2018-04-29 10:30:00,Italian first division,2018,"""""",Crotone,Sassuolo,Crotone,4,1,80
+38,2018-04-28 18:45:00,Italian first division,2018,"""""",Internazionale,Juventus,Juventus,2,3,359
+39,2018-04-28 16:00:00,Italian first division,2018,"""""",Roma,Chievo,Roma,4,1,216
+40,2018-04-23 18:45:00,Italian first division,2018,Stadio Comunale Luigi Ferraris,Genoa,Hellas Verona,Genoa,3,1,381
+41,2018-04-22 18:45:00,Italian first division,2018,"""""",Juventus,Napoli,Napoli,0,1,356
+42,2018-04-22 13:00:00,Italian first division,2018,"""""",Udinese,Crotone,Crotone,1,2,72
+43,2018-04-22 13:00:00,Italian first division,2018,"""""",Chievo,Internazionale,Internazionale,1,2,189
+44,2018-04-22 13:00:00,Italian first division,2018,"""""",Lazio,Sampdoria,Lazio,4,0,359
+45,2018-04-22 13:00:00,Italian first division,2018,"""""",Atalanta,Torino,Atalanta,2,1,346
+47,2018-04-21 18:45:00,Italian first division,2018,"""""",Milan,Benevento,Benevento,0,1,360
+48,2018-04-21 16:00:00,Italian first division,2018,"""""",Sassuolo,Fiorentina,Sassuolo,1,0,67
+49,2018-04-21 13:00:00,Italian first division,2018,"""""",SPAL,Roma,Roma,0,3,411
+50,2018-04-18 18:45:00,Italian first division,2018,"""""",Sampdoria,Bologna,Sampdoria,1,0,619
+52,2018-04-18 18:45:00,Italian first division,2018,"""""",Roma,Genoa,Roma,2,1,575
+54,2018-04-18 18:45:00,Italian first division,2018,"""""",Fiorentina,Lazio,Lazio,3,4,80
+56,2018-04-18 17:45:00,Italian first division,2018,"""""",Hellas Verona,Sassuolo,Sassuolo,0,1,498
+57,2018-04-18 18:45:00,Italian first division,2018,"""""",Napoli,Udinese,Napoli,4,2,216
+58,2018-04-18 16:00:00,Italian first division,2018,"""""",Benevento,Atalanta,Atalanta,0,3,517
+59,2018-04-17 18:45:00,Italian first division,2018,"""""",Internazionale,Cagliari,Internazionale,4,0,107
+61,2018-04-15 16:00:00,Italian first division,2018,"""""",Juventus,Sampdoria,Juventus,3,0,360
+63,2018-04-15 13:00:00,Italian first division,2018,"""""",Bologna,Hellas Verona,Bologna,2,0,142
+67,2018-04-14 16:00:00,Italian first division,2018,"""""",Genoa,Crotone,Genoa,1,0,67
+69,2018-04-14 13:00:00,Italian first division,2018,"""""",Cagliari,Udinese,Cagliari,2,1,317
+71,2018-04-08 16:00:00,Italian first division,2018,"""""",Udinese,Lazio,Lazio,1,2,356
+72,2018-04-08 13:00:00,Italian first division,2018,"""""",Crotone,Bologna,Crotone,1,0,216
+73,2018-04-08 13:00:00,Italian first division,2018,"""""",Hellas Verona,Cagliari,Hellas Verona,1,0,189
+74,2018-04-08 13:00:00,Italian first division,2018,"""""",Napoli,Chievo,Napoli,2,1,619
+75,2018-04-08 10:30:00,Italian first division,2018,"""""",Torino,Internazionale,Torino,1,0,411
+78,2018-04-07 16:00:00,Italian first division,2018,"""""",Roma,Fiorentina,Fiorentina,0,2,538
+79,2018-04-07 13:00:00,Italian first division,2018,Stadio Ciro Vigorito,Benevento,Juventus,Juventus,2,4,107
+80,2018-04-04 16:30:00,Italian first division,2018,Stadio Olimpico Grande Torino,Torino,Crotone,Torino,4,1,498
+83,2018-04-04 15:00:00,Italian first division,2018,Stadio Ciro Vigorito,Benevento,Hellas Verona,Benevento,3,0,153
+84,2018-04-03 16:30:00,Italian first division,2018,Stadio Comunale Luigi Ferraris,Genoa,Cagliari,Genoa,2,1,460
+85,2018-04-03 16:30:00,Italian first division,2018,Dacia Arena,Udinese,Fiorentina,Fiorentina,0,2,248
+86,2018-04-03 16:30:00,Italian first division,2018,Stadio Atleti Azzurri d'Italia,Atalanta,Sampdoria,Sampdoria,1,2,107
+87,2018-03-31 18:45:00,Italian first division,2018,"""""",Juventus,Milan,Juventus,3,1,594
+89,2018-03-31 16:00:00,Italian first division,2018,"""""",Chievo,Sampdoria,Chievo,2,1,359
+90,2018-03-31 13:00:00,Italian first division,2018,"""""",Lazio,Benevento,Lazio,6,2,216
+91,2018-03-31 13:00:00,Italian first division,2018,"""""",Fiorentina,Crotone,Fiorentina,2,0,189
+92,2018-03-31 13:00:00,Italian first division,2018,"""""",Internazionale,Hellas Verona,Internazionale,3,0,356
+94,2018-03-31 13:00:00,Italian first division,2018,"""""",Cagliari,Torino,Torino,0,4,83
+95,2018-03-31 13:00:00,Italian first division,2018,"""""",Atalanta,Udinese,Atalanta,2,0,575
+98,2018-03-18 19:45:00,Italian first division,2018,"""""",Napoli,Genoa,Napoli,1,0,107
+99,2018-03-18 14:00:00,Italian first division,2018,"""""",Hellas Verona,Atalanta,Atalanta,0,5,72
+100,2018-03-18 14:00:00,Italian first division,2018,"""""",Benevento,Cagliari,Cagliari,1,2,619
+101,2018-03-18 14:00:00,Italian first division,2018,"""""",Milan,Chievo,Milan,3,2,360
+102,2018-03-18 14:00:00,Italian first division,2018,"""""",Torino,Fiorentina,Fiorentina,1,2,381
+103,2018-03-18 14:00:00,Italian first division,2018,"""""",Crotone,Roma,Roma,0,2,248
+104,2018-03-18 11:30:00,Italian first division,2018,"""""",Sampdoria,Internazionale,Internazionale,0,5,411
+106,2018-03-17 17:00:00,Italian first division,2018,"""""",Udinese,Sassuolo,Sassuolo,1,2,142
+107,2018-03-14 17:00:00,Italian first division,2018,Allianz Stadium,Juventus,Atalanta,Juventus,2,0,360
+109,2018-03-11 17:00:00,Italian first division,2018,"""""",Genoa,Milan,Milan,0,1,538
+110,2018-03-11 14:00:00,Italian first division,2018,"""""",Bologna,Atalanta,Atalanta,0,1,216
+112,2018-03-11 14:00:00,Italian first division,2018,"""""",Crotone,Sampdoria,Crotone,4,1,594
+114,2018-03-11 14:00:00,Italian first division,2018,"""""",Juventus,Udinese,Juventus,2,0,317
+115,2018-03-11 11:30:00,Italian first division,2018,"""""",Fiorentina,Benevento,Fiorentina,1,0,107
+116,2018-03-10 19:45:00,Italian first division,2018,"""""",Hellas Verona,Chievo,Hellas Verona,1,0,80
+117,2018-03-09 19:45:00,Italian first division,2018,"""""",Roma,Torino,Roma,3,0,460
+118,2018-03-03 19:45:00,Italian first division,2018,Stadio San Paolo,Napoli,Roma,Roma,2,4,389
+119,2018-03-03 17:00:00,Italian first division,2018,Stadio Olimpico,Lazio,Juventus,Juventus,0,1,248
+120,2018-03-03 14:00:00,Italian first division,2018,Stadio Paolo Mazza,SPAL,Bologna,SPAL,1,0,356
+121,2018-02-26 19:45:00,Italian first division,2018,Sardegna Arena,Cagliari,Napoli,Napoli,0,5,317
+122,2018-02-25 19:45:00,Italian first division,2018,Stadio Olimpico,Roma,Milan,Milan,0,2,594
+123,2018-02-25 14:00:00,Italian first division,2018,Stadio Artemio Franchi,Fiorentina,Chievo,Fiorentina,1,0,142
+124,2018-02-25 14:00:00,Italian first division,2018,MAPEI Stadium - Citt\u00e0 del Tricolore,Sassuolo,Lazio,Lazio,0,3,619
+125,2018-02-25 14:00:00,Italian first division,2018,Stadio Marc'Antonio Bentegodi,Hellas Verona,Torino,Hellas Verona,2,1,389
+126,2018-02-25 14:00:00,Italian first division,2018,Stadio Comunale Luigi Ferraris,Sampdoria,Udinese,Sampdoria,2,1,80
+127,2018-02-25 11:30:00,Italian first division,2018,Stadio Ezio Scida,Crotone,SPAL,SPAL,2,3,359
+128,2018-02-24 19:45:00,Italian first division,2018,Stadio Giuseppe Meazza,Internazionale,Benevento,Internazionale,2,0,575
+129,2018-02-24 17:00:00,Italian first division,2018,Stadio Renato Dall'Ara,Bologna,Genoa,Bologna,2,0,468
+130,2018-02-19 19:45:00,Italian first division,2018,Stadio Olimpico,Lazio,Hellas Verona,Lazio,2,0,216
+131,2018-02-18 19:45:00,Italian first division,2018,Stadio Giuseppe Meazza,Milan,Sampdoria,Milan,1,0,153
+133,2018-02-18 14:00:00,Italian first division,2018,Stadio Ciro Vigorito,Benevento,Crotone,Benevento,3,2,356
+134,2018-02-18 14:00:00,Italian first division,2018,Stadio Renato Dall'Ara,Bologna,Sassuolo,Bologna,2,1,411
+135,2018-02-18 14:00:00,Italian first division,2018,Stadio San Paolo,Napoli,SPAL,Napoli,1,0,381
+136,2018-02-18 11:30:00,Italian first division,2018,Stadio Olimpico Grande Torino,Torino,Juventus,Juventus,0,1,359
+137,2018-02-17 19:45:00,Italian first division,2018,Stadio Comunale Luigi Ferraris,Genoa,Internazionale,Genoa,2,0,538
+138,2018-02-17 17:00:00,Italian first division,2018,Stadio Marc'Antonio Bentegodi,Chievo,Cagliari,Chievo,2,1,249
+139,2018-02-17 14:00:00,Italian first division,2018,Dacia Arena,Udinese,Roma,Roma,0,2,72
+140,2018-02-11 19:45:00,Italian first division,2018,Stadio Olimpico,Roma,Benevento,Roma,5,2,619
+141,2018-02-11 14:00:00,Italian first division,2018,Stadio Giuseppe Meazza,Internazionale,Bologna,Internazionale,2,1,189
+142,2018-02-11 14:00:00,Italian first division,2018,Stadio Marc'Antonio Bentegodi,Chievo,Genoa,Genoa,0,1,381
+143,2018-02-11 14:00:00,Italian first division,2018,Stadio Comunale Luigi Ferraris,Sampdoria,Hellas Verona,Sampdoria,2,0,575
+144,2018-02-11 14:00:00,Italian first division,2018,Stadio Olimpico Grande Torino,Torino,Udinese,Torino,2,0,142
+146,2018-02-10 19:45:00,Italian first division,2018,Stadio San Paolo,Napoli,Lazio,Napoli,4,1,248
+148,2018-02-10 14:00:00,Italian first division,2018,Stadio Paolo Mazza,SPAL,Milan,Milan,0,4,360
+149,2018-02-09 19:45:00,Italian first division,2018,Stadio Artemio Franchi,Fiorentina,Juventus,Juventus,0,2,498
+150,2018-02-05 19:45:00,Italian first division,2018,Stadio Olimpico,Lazio,Genoa,Genoa,1,2,460
+151,2018-02-04 19:45:00,Italian first division,2018,Stadio Ciro Vigorito,Benevento,Napoli,Napoli,0,2,72
+152,2018-02-04 14:00:00,Italian first division,2018,Stadio Atleti Azzurri d'Italia,Atalanta,Chievo,Atalanta,1,0,216
+153,2018-02-04 14:00:00,Italian first division,2018,Stadio Renato Dall'Ara,Bologna,Fiorentina,Fiorentina,1,2,153
+155,2018-02-04 14:00:00,Italian first division,2018,Allianz Stadium,Juventus,Sassuolo,Juventus,7,0,317
+156,2018-02-04 14:00:00,Italian first division,2018,Sardegna Arena,Cagliari,SPAL,Cagliari,2,0,389
+157,2018-02-04 11:30:00,Italian first division,2018,Stadio Marc'Antonio Bentegodi,Hellas Verona,Roma,Roma,0,1,538
+160,2018-01-28 19:45:00,Italian first division,2018,Stadio Olimpico,Roma,Sampdoria,Sampdoria,0,1,248
+161,2018-01-28 17:00:00,Italian first division,2018,Stadio Giuseppe Meazza,Milan,Lazio,Milan,2,1,67
+162,2018-01-28 14:00:00,Italian first division,2018,Stadio Olimpico Grande Torino,Torino,Benevento,Torino,3,0,360
+163,2018-01-28 14:00:00,Italian first division,2018,Stadio San Paolo,Napoli,Bologna,Napoli,3,1,594
+165,2018-01-28 14:00:00,Italian first division,2018,Stadio Artemio Franchi,Fiorentina,Hellas Verona,Hellas Verona,1,4,381
+166,2018-01-28 14:00:00,Italian first division,2018,Stadio Comunale Luigi Ferraris,Genoa,Udinese,Udinese,0,1,575
+168,2018-01-27 19:45:00,Italian first division,2018,Stadio Marc'Antonio Bentegodi,Chievo,Juventus,Juventus,0,2,460
+169,2018-01-27 17:00:00,Italian first division,2018,MAPEI Stadium - Citt\u00e0 del Tricolore,Sassuolo,Atalanta,Atalanta,0,3,189
+171,2018-01-24 17:30:00,Italian first division,2018,Stadio Olimpico,Lazio,Udinese,Lazio,3,0,248
+172,2018-01-22 19:45:00,Italian first division,2018,Allianz Stadium,Juventus,Genoa,Juventus,1,0,72
+174,2018-01-21 17:00:00,Italian first division,2018,Sardegna Arena,Cagliari,Milan,Milan,1,2,498
+175,2018-01-21 14:00:00,Italian first division,2018,Stadio Renato Dall'Ara,Bologna,Benevento,Bologna,3,0,338
+176,2018-01-21 14:00:00,Italian first division,2018,Stadio Olimpico,Lazio,Chievo,Lazio,5,1,142
+177,2018-01-21 14:00:00,Italian first division,2018,Stadio Marc'Antonio Bentegodi,Hellas Verona,Crotone,Crotone,0,3,356
+178,2018-01-21 14:00:00,Italian first division,2018,Stadio Comunale Luigi Ferraris,Sampdoria,Fiorentina,Sampdoria,3,1,107
+181,2018-01-21 11:30:00,Italian first division,2018,Stadio Atleti Azzurri d'Italia,Atalanta,Napoli,Napoli,0,1,359
+182,2018-01-06 19:45:00,Italian first division,2018,Sardegna Arena,Cagliari,Juventus,Juventus,0,1,216
+183,2018-01-06 17:00:00,Italian first division,2018,Stadio Olimpico,Roma,Atalanta,Atalanta,1,2,498
+184,2018-01-06 14:00:00,Italian first division,2018,Stadio Giuseppe Meazza,Milan,Crotone,Milan,1,0,460
+185,2018-01-06 14:00:00,Italian first division,2018,Stadio San Paolo,Napoli,Hellas Verona,Napoli,2,0,142
+186,2018-01-06 14:00:00,Italian first division,2018,Stadio Paolo Mazza,SPAL,Lazio,Lazio,2,5,411
+187,2018-01-06 14:00:00,Italian first division,2018,Stadio Ciro Vigorito,Benevento,Sampdoria,Benevento,3,2,619
+188,2018-01-06 14:00:00,Italian first division,2018,Stadio Comunale Luigi Ferraris,Genoa,Sassuolo,Genoa,1,0,317
+189,2018-01-06 11:30:00,Italian first division,2018,Stadio Olimpico Grande Torino,Torino,Bologna,Torino,3,0,80
+192,2017-12-30 19:45:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Hellas Verona,Juventus,Juventus,1,3,594
+194,2017-12-30 14:00:00,Italian first division,2017,Stadio Atleti Azzurri d'Italia,Atalanta,Cagliari,Cagliari,1,2,107
+195,2017-12-30 14:00:00,Italian first division,2017,Stadio Ciro Vigorito,Benevento,Chievo,Benevento,1,0,352
+196,2017-12-30 14:00:00,Italian first division,2017,Stadio Renato Dall'Ara,Bologna,Udinese,Udinese,1,2,381
+198,2017-12-30 14:00:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Sampdoria,SPAL,Sampdoria,2,0,575
+201,2017-12-29 19:45:00,Italian first division,2017,Stadio Ezio Scida,Crotone,Napoli,Napoli,0,1,360
+202,2017-12-23 19:45:00,Italian first division,2017,Allianz Stadium,Juventus,Roma,Juventus,1,0,411
+203,2017-12-23 17:00:00,Italian first division,2017,Stadio Giuseppe Meazza,Milan,Atalanta,Atalanta,0,2,538
+204,2017-12-23 14:00:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Genoa,Benevento,Genoa,1,0,142
+205,2017-12-23 14:00:00,Italian first division,2017,Stadio San Paolo,Napoli,Sampdoria,Napoli,3,2,389
+206,2017-12-23 14:00:00,Italian first division,2017,MAPEI Stadium - Citt\u00e0 del Tricolore,Sassuolo,Internazionale,Sassuolo,1,0,153
+208,2017-12-23 14:00:00,Italian first division,2017,Dacia Arena,Udinese,Hellas Verona,Udinese,4,0,460
+209,2017-12-23 11:30:00,Italian first division,2017,Stadio Olimpico,Lazio,Crotone,Lazio,4,0,216
+210,2017-12-22 19:45:00,Italian first division,2017,Sardegna Arena,Cagliari,Fiorentina,Fiorentina,0,1,72
+211,2017-12-22 17:00:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Chievo,Bologna,Bologna,2,3,619
+213,2017-12-17 17:00:00,Italian first division,2017,Stadio Ciro Vigorito,Benevento,SPAL,SPAL,1,2,107
+214,2017-12-17 14:00:00,Italian first division,2017,Stadio Renato Dall'Ara,Bologna,Juventus,Juventus,0,3,248
+215,2017-12-17 14:00:00,Italian first division,2017,Stadio Ezio Scida,Crotone,Chievo,Crotone,1,0,575
+217,2017-12-17 14:00:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Sampdoria,Sassuolo,Sassuolo,0,1,381
+218,2017-12-17 11:30:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Hellas Verona,Milan,Hellas Verona,3,0,359
+219,2017-12-16 19:45:00,Italian first division,2017,Stadio Olimpico,Roma,Cagliari,Roma,1,0,80
+220,2017-12-16 17:00:00,Italian first division,2017,Stadio Olimpico Grande Torino,Torino,Napoli,Napoli,1,3,594
+221,2017-12-16 14:00:00,Italian first division,2017,Stadio Giuseppe Meazza,Internazionale,Udinese,Udinese,1,3,360
+222,2017-12-12 18:00:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Genoa,Atalanta,Atalanta,1,2,153
+223,2017-12-11 20:00:00,Italian first division,2017,Stadio Olimpico,Lazio,Torino,Torino,1,3,317
+224,2017-12-10 19:45:00,Italian first division,2017,Stadio Giuseppe Meazza,Milan,Bologna,Milan,2,1,498
+225,2017-12-10 17:00:00,Italian first division,2017,MAPEI Stadium - Citt\u00e0 del Tricolore,Sassuolo,Crotone,Sassuolo,2,1,619
+228,2017-12-10 14:00:00,Italian first division,2017,Dacia Arena,Udinese,Benevento,Udinese,2,0,346
+232,2017-12-04 20:00:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Hellas Verona,Genoa,Genoa,0,1,80
+233,2017-12-04 18:00:00,Italian first division,2017,Stadio Ezio Scida,Crotone,Udinese,Udinese,0,3,389
+234,2017-12-03 19:45:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Sampdoria,Lazio,Lazio,1,2,594
+236,2017-12-03 14:00:00,Italian first division,2017,Stadio Artemio Franchi,Fiorentina,Sassuolo,Fiorentina,3,0,248
+237,2017-12-03 14:00:00,Italian first division,2017,Stadio Giuseppe Meazza,Internazionale,Chievo,Internazionale,5,0,216
+240,2017-12-01 19:45:00,Italian first division,2017,Stadio San Paolo,Napoli,Juventus,Juventus,0,1,359
+241,2017-12-01 17:30:00,Italian first division,2017,Stadio Olimpico,Roma,SPAL,Roma,3,1,142
+242,2017-11-27 19:45:00,Italian first division,2017,Stadio Atleti Azzurri d'Italia,Atalanta,Benevento,Atalanta,1,0,107
+243,2017-11-26 19:45:00,Italian first division,2017,Allianz Stadium,Juventus,Crotone,Juventus,3,0,381
+247,2017-11-26 14:00:00,Italian first division,2017,Dacia Arena,Udinese,Napoli,Napoli,0,1,72
+248,2017-11-25 19:45:00,Italian first division,2017,Sardegna Arena,Cagliari,Internazionale,Internazionale,1,3,575
+249,2017-11-25 17:00:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Chievo,SPAL,Chievo,2,1,112
+250,2017-11-25 17:00:00,Italian first division,2017,MAPEI Stadium - Citt\u00e0 del Tricolore,Sassuolo,Hellas Verona,Hellas Verona,0,2,189
+251,2017-11-25 14:00:00,Italian first division,2017,Stadio Renato Dall'Ara,Bologna,Sampdoria,Bologna,3,0,460
+252,2017-11-20 19:45:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Hellas Verona,Bologna,Bologna,2,3,360
+253,2017-11-19 19:45:00,Italian first division,2017,Stadio Giuseppe Meazza,Internazionale,Atalanta,Internazionale,2,0,538
+254,2017-11-19 14:00:00,Italian first division,2017,Stadio Ciro Vigorito,Benevento,Sassuolo,Sassuolo,1,2,594
+255,2017-11-19 14:00:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Sampdoria,Juventus,Sampdoria,3,2,498
+258,2017-11-19 14:00:00,Italian first division,2017,Dacia Arena,Udinese,Cagliari,Cagliari,0,1,619
+259,2017-11-19 11:30:00,Italian first division,2017,Stadio Ezio Scida,Crotone,Genoa,Genoa,0,1,411
+260,2017-11-18 19:45:00,Italian first division,2017,Stadio San Paolo,Napoli,Milan,Napoli,2,1,153
+261,2017-11-18 17:00:00,Italian first division,2017,Stadio Olimpico,Roma,Lazio,Roma,2,1,356
+262,2017-11-05 19:45:00,Italian first division,2017,MAPEI Stadium - Citt\u00e0 del Tricolore,Sassuolo,Milan,Milan,0,2,80
+264,2017-11-05 14:00:00,Italian first division,2017,Sardegna Arena,Cagliari,Hellas Verona,Cagliari,2,1,498
+266,2017-11-05 14:00:00,Italian first division,2017,Stadio Artemio Franchi,Fiorentina,Roma,Roma,2,4,72
+267,2017-11-05 14:00:00,Italian first division,2017,Allianz Stadium,Juventus,Benevento,Juventus,2,1,142
+269,2017-11-04 19:45:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Genoa,Sampdoria,Sampdoria,0,2,67
+270,2017-11-04 17:00:00,Italian first division,2017,Stadio Renato Dall'Ara,Bologna,Crotone,Crotone,2,3,107
+271,2017-10-30 19:45:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Hellas Verona,Internazionale,Internazionale,1,2,381
+272,2017-10-29 19:45:00,Italian first division,2017,Stadio Olimpico Grande Torino,Torino,Cagliari,Torino,2,1,216
+273,2017-10-29 14:00:00,Italian first division,2017,Stadio Ezio Scida,Crotone,Fiorentina,Crotone,2,1,460
+274,2017-10-29 14:00:00,Italian first division,2017,Stadio San Paolo,Napoli,Sassuolo,Napoli,3,1,575
+275,2017-10-29 14:00:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Sampdoria,Chievo,Sampdoria,4,1,153
+276,2017-10-29 14:00:00,Italian first division,2017,Stadio Paolo Mazza,SPAL,Genoa,SPAL,1,0,359
+277,2017-10-29 14:00:00,Italian first division,2017,Dacia Arena,Udinese,Atalanta,Udinese,2,1,356
+278,2017-10-29 11:30:00,Italian first division,2017,Stadio Ciro Vigorito,Benevento,Lazio,Lazio,1,5,317
+279,2017-10-28 18:45:00,Italian first division,2017,Stadio Olimpico,Roma,Bologna,Roma,1,0,538
+280,2017-10-28 16:00:00,Italian first division,2017,Stadio Giuseppe Meazza,Milan,Juventus,Juventus,0,2,189
+281,2017-10-25 18:45:00,Italian first division,2017,Stadio Renato Dall'Ara,Bologna,Lazio,Lazio,1,2,389
+282,2017-10-25 18:45:00,Italian first division,2017,Sardegna Arena,Cagliari,Benevento,Cagliari,2,1,67
+283,2017-10-25 18:45:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Chievo,Milan,Milan,1,4,72
+284,2017-10-25 18:45:00,Italian first division,2017,Stadio Artemio Franchi,Fiorentina,Torino,Fiorentina,3,0,360
+285,2017-10-25 18:45:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Genoa,Napoli,Napoli,2,3,594
+286,2017-10-25 18:45:00,Italian first division,2017,Allianz Stadium,Juventus,SPAL,Juventus,4,1,107
+287,2017-10-25 18:45:00,Italian first division,2017,Stadio Olimpico,Roma,Crotone,Roma,1,0,619
+288,2017-10-25 18:45:00,Italian first division,2017,MAPEI Stadium - Citt\u00e0 del Tricolore,Sassuolo,Udinese,Udinese,0,1,411
+289,2017-10-25 16:30:00,Italian first division,2017,Stadio Atleti Azzurri d'Italia,Atalanta,Hellas Verona,Atalanta,3,0,584
+290,2017-10-24 18:45:00,Italian first division,2017,Stadio Giuseppe Meazza,Internazionale,Sampdoria,Internazionale,3,2,498
+291,2017-10-22 18:45:00,Italian first division,2017,Stadio Olimpico,Lazio,Cagliari,Lazio,3,0,575
+292,2017-10-22 16:00:00,Italian first division,2017,Dacia Arena,Udinese,Juventus,Juventus,2,6,153
+293,2017-10-22 13:00:00,Italian first division,2017,Stadio Atleti Azzurri d'Italia,Atalanta,Bologna,Atalanta,1,0,460
+294,2017-10-22 13:00:00,Italian first division,2017,Stadio Ciro Vigorito,Benevento,Fiorentina,Fiorentina,0,3,381
+296,2017-10-22 13:00:00,Italian first division,2017,Stadio Paolo Mazza,SPAL,Sassuolo,Sassuolo,0,1,538
+297,2017-10-22 13:00:00,Italian first division,2017,Stadio Olimpico Grande Torino,Torino,Roma,Roma,0,1,80
+298,2017-10-22 10:30:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Chievo,Hellas Verona,Chievo,3,2,142
+300,2017-10-21 16:00:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Sampdoria,Crotone,Sampdoria,5,0,216
+301,2017-10-16 18:45:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Hellas Verona,Benevento,Hellas Verona,1,0,72
+302,2017-10-15 18:45:00,Italian first division,2017,Stadio Giuseppe Meazza,Internazionale,Milan,Internazionale,3,2,411
+303,2017-10-15 13:00:00,Italian first division,2017,Stadio Renato Dall'Ara,Bologna,SPAL,Bologna,2,1,498
+304,2017-10-15 13:00:00,Italian first division,2017,Sardegna Arena,Cagliari,Genoa,Genoa,2,3,389
+306,2017-10-15 13:00:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Sampdoria,Atalanta,Sampdoria,3,1,360
+308,2017-10-15 10:30:00,Italian first division,2017,Stadio Artemio Franchi,Fiorentina,Udinese,Fiorentina,2,1,67
+309,2017-10-14 18:45:00,Italian first division,2017,Stadio Olimpico,Roma,Napoli,Napoli,0,1,356
+310,2017-10-14 16:00:00,Italian first division,2017,Allianz Stadium,Juventus,Lazio,Lazio,1,2,594
+312,2017-10-01 16:00:00,Italian first division,2017,Stadio Giuseppe Meazza,Milan,Roma,Roma,0,2,248
+313,2017-10-01 13:00:00,Italian first division,2017,Stadio Ciro Vigorito,Benevento,Internazionale,Internazionale,1,2,153
+314,2017-10-01 13:00:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Chievo,Fiorentina,Chievo,2,1,317
+315,2017-10-01 13:00:00,Italian first division,2017,Stadio Olimpico,Lazio,Sassuolo,Lazio,6,1,460
+318,2017-10-01 10:30:00,Italian first division,2017,Stadio San Paolo,Napoli,Cagliari,Napoli,3,0,142
+319,2017-09-30 18:45:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Genoa,Bologna,Bologna,0,1,356
+320,2017-09-30 16:00:00,Italian first division,2017,Dacia Arena,Udinese,Sampdoria,Udinese,4,0,538
+322,2017-09-24 16:00:00,Italian first division,2017,MAPEI Stadium - Citt\u00e0 del Tricolore,Sassuolo,Bologna,Bologna,0,1,411
+323,2017-09-24 13:00:00,Italian first division,2017,Sardegna Arena,Cagliari,Chievo,Chievo,0,2,346
+324,2017-09-24 13:00:00,Italian first division,2017,Stadio Ezio Scida,Crotone,Benevento,Crotone,2,0,359
+325,2017-09-24 13:00:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Hellas Verona,Lazio,Lazio,0,3,67
+326,2017-09-24 13:00:00,Italian first division,2017,Stadio Giuseppe Meazza,Internazionale,Genoa,Internazionale,1,0,498
+327,2017-09-24 10:30:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Sampdoria,Milan,Sampdoria,2,0,189
+328,2017-09-23 18:45:00,Italian first division,2017,Allianz Stadium,Juventus,Torino,Juventus,4,0,317
+329,2017-09-23 16:00:00,Italian first division,2017,Stadio Paolo Mazza,SPAL,Napoli,Napoli,2,3,360
+330,2017-09-23 13:00:00,Italian first division,2017,Stadio Olimpico,Roma,Udinese,Roma,3,1,389
+331,2017-09-20 18:45:00,Italian first division,2017,Stadio Atleti Azzurri d'Italia,Atalanta,Crotone,Atalanta,5,1,227
+332,2017-09-20 18:45:00,Italian first division,2017,Sardegna Arena,Cagliari,Sassuolo,Sassuolo,0,1,381
+335,2017-09-20 18:45:00,Italian first division,2017,Allianz Stadium,Juventus,Fiorentina,Juventus,1,0,153
+336,2017-09-20 18:45:00,Italian first division,2017,Stadio Olimpico,Lazio,Napoli,Napoli,1,4,80
+337,2017-09-20 18:45:00,Italian first division,2017,Stadio Giuseppe Meazza,Milan,SPAL,Milan,2,0,142
+338,2017-09-20 18:45:00,Italian first division,2017,Dacia Arena,Udinese,Torino,Torino,2,3,356
+339,2017-09-20 16:00:00,Italian first division,2017,Stadio Ciro Vigorito,Benevento,Roma,Roma,0,4,538
+341,2017-09-17 18:45:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Genoa,Lazio,Lazio,2,3,359
+343,2017-09-17 13:00:00,Italian first division,2017,Stadio Giuseppe Meazza,Milan,Udinese,Milan,2,1,498
+344,2017-09-17 13:00:00,Italian first division,2017,Stadio San Paolo,Napoli,Benevento,Napoli,6,0,67
+345,2017-09-17 13:00:00,Italian first division,2017,Stadio Paolo Mazza,SPAL,Cagliari,Cagliari,0,2,338
+347,2017-09-17 10:30:00,Italian first division,2017,MAPEI Stadium - Citt\u00e0 del Tricolore,Sassuolo,Juventus,Juventus,1,3,389
+348,2017-09-16 18:45:00,Italian first division,2017,Stadio Olimpico,Roma,Hellas Verona,Roma,3,0,575
+349,2017-09-16 16:00:00,Italian first division,2017,Stadio Artemio Franchi,Fiorentina,Bologna,Fiorentina,2,1,189
+350,2017-09-16 13:00:00,Italian first division,2017,Stadio Ezio Scida,Crotone,Internazionale,Internazionale,0,2,248
+351,2017-09-10 18:45:00,Italian first division,2017,Stadio Renato Dall'Ara,Bologna,Napoli,Napoli,0,3,317
+352,2017-09-10 16:00:00,Italian first division,2017,Stadio Ciro Vigorito,Benevento,Torino,Torino,0,1,142
+353,2017-09-10 14:00:00,Italian first division,2017,Stadio Olimpico,Lazio,Milan,Lazio,4,1,356
+354,2017-09-10 13:00:00,Italian first division,2017,Stadio Atleti Azzurri d'Italia,Atalanta,Sassuolo,Atalanta,2,1,619
+355,2017-09-10 13:00:00,Italian first division,2017,Sardegna Arena,Cagliari,Crotone,Cagliari,1,0,153
+356,2017-09-10 13:00:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Hellas Verona,Fiorentina,Fiorentina,0,5,80
+357,2017-09-10 13:00:00,Italian first division,2017,Dacia Arena,Udinese,Genoa,Udinese,1,0,460
+358,2017-09-10 10:30:00,Italian first division,2017,Stadio Giuseppe Meazza,Internazionale,SPAL,Internazionale,2,0,381
+359,2017-09-09 16:00:00,Italian first division,2017,Allianz Stadium,Juventus,Chievo,Juventus,3,0,538
+360,2017-08-27 18:45:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Chievo,Lazio,Lazio,1,2,619
+362,2017-08-27 18:45:00,Italian first division,2017,Stadio Artemio Franchi,Fiorentina,Sampdoria,Sampdoria,1,2,153
+363,2017-08-27 18:45:00,Italian first division,2017,Stadio Giuseppe Meazza,Milan,Cagliari,Milan,2,1,575
+364,2017-08-27 18:45:00,Italian first division,2017,Stadio San Paolo,Napoli,Atalanta,Napoli,3,1,72
+365,2017-08-27 18:45:00,Italian first division,2017,Stadio Renato Dall'Ara,SPAL,Udinese,SPAL,3,2,189
+366,2017-08-27 16:00:00,Italian first division,2017,Stadio Olimpico Grande Torino,Torino,Sassuolo,Torino,3,0,594
+367,2017-08-26 18:45:00,Italian first division,2017,Stadio Olimpico,Roma,Internazionale,Internazionale,1,3,67
+368,2017-08-26 16:00:00,Italian first division,2017,Stadio Ciro Vigorito,Benevento,Bologna,Bologna,0,1,216
+369,2017-08-26 16:00:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Genoa,Juventus,Juventus,2,4,248
+371,2017-08-20 18:45:00,Italian first division,2017,Stadio Ezio Scida,Crotone,Milan,Milan,0,3,360
+372,2017-08-20 18:45:00,Italian first division,2017,Stadio Giuseppe Meazza,Internazionale,Fiorentina,Internazionale,3,0,411
+374,2017-08-20 18:45:00,Italian first division,2017,Stadio Comunale Luigi Ferraris,Sampdoria,Benevento,Sampdoria,2,1,107
+376,2017-08-20 18:45:00,Italian first division,2017,Dacia Arena,Udinese,Chievo,Chievo,1,2,381
+377,2017-08-20 16:00:00,Italian first division,2017,Stadio Atleti Azzurri d'Italia,Atalanta,Roma,Roma,0,1,317
+378,2017-08-19 18:45:00,Italian first division,2017,Stadio Marc'Antonio Bentegodi,Hellas Verona,Napoli,Napoli,1,3,538
+379,2017-08-19 16:00:00,Italian first division,2017,Allianz Stadium,Juventus,Cagliari,Juventus,3,0,460
+382,2018-05-19 19:00:00,French first division,2018,Groupama Stadium,Olympique Lyonnais,Nice,Olympique Lyonnais,3,2,66
+383,2018-05-19 19:00:00,French first division,2018,Stade V\u00e9lodrome,Olympique Marseille,Amiens SC,Olympique Marseille,2,1,444
+384,2018-05-19 19:00:00,French first division,2018,Stade Saint-Symphorien,Metz,Bordeaux,Bordeaux,0,4,437
+385,2018-05-19 19:00:00,French first division,2018,Stade de la Beaujoire - Louis Fonteneau,Nantes,Strasbourg,Nantes,1,0,543
+387,2018-05-19 19:00:00,French first division,2018,Stade Geoffroy-Guichard,Saint,\u00c9tienne,Saint-\u00c9tienne,5,0,458
+388,2018-05-19 19:00:00,French first division,2018,Stadium Municipal,Toulouse,Guingamp,Toulouse,2,1,361
+389,2018-05-19 19:00:00,French first division,2018,Stade de l'Aube,Troyes,Monaco,Monaco,0,3,161
+390,2018-05-12 19:00:00,French first division,2018,Stade de la Licorne,Amiens SC,Metz,Amiens SC,2,0,27
+392,2018-05-12 19:00:00,French first division,2018,Stade Matmut-Atlantique,Bordeaux,Toulouse,Bordeaux,4,2,543
+393,2018-05-12 19:00:00,French first division,2018,Stade Pierre-Mauroy,Lille,Dijon,Lille,2,1,345
+394,2018-05-12 18:00:00,French first division,2018,Stade Louis II.,Monaco,Saint,Monaco,1,0,66
+396,2018-05-12 18:00:00,French first division,2018,Allianz Riviera,Nice,Caen,Nice,4,1,106
+397,2018-05-12 19:00:00,French first division,2018,Parc des Princes,PSG,Rennes,Rennes,0,2,444
+398,2018-05-12 18:00:00,French first division,2018,Stade de la Meinau,Strasbourg,Olympique Lyonnais,Strasbourg,3,2,161
+400,2018-05-06 19:05:00,French first division,2018,Stade V\u00e9lodrome,Olympique Marseille,Nice,Olympique Marseille,2,1,199
+401,2018-05-06 15:00:00,French first division,2018,Stade Michel d'Ornano,Caen,Monaco,Monaco,1,2,543
+402,2018-05-06 15:00:00,French first division,2018,Stade Gaston-G\u00e9rard,Dijon,Guingamp,Dijon,3,1,304
+403,2018-05-06 15:00:00,French first division,2018,Stade Saint-Symphorien,Metz,Angers SCO,Angers,1,2,59
+404,2018-05-06 15:00:00,French first division,2018,Stade de la Beaujoire - Louis Fonteneau,Nantes,Montpellier,Montpellier,0,2,106
+405,2018-05-06 15:00:00,French first division,2018,Roazhon Park,Rennes,Strasbourg,Rennes,2,1,223
+406,2018-05-06 15:00:00,French first division,2018,Stadium Municipal,Toulouse,Lille,Lille,2,3,161
+407,2018-05-06 14:30:00,French first division,2018,Groupama Stadium,Olympique Lyonnais,Troyes,Olympique Lyonnais,3,0,345
+408,2018-05-06 13:00:00,French first division,2018,Stade Geoffroy-Guichard,Saint,\u00c9tienne,Bordeaux,1,3,372
+412,2018-04-29 13:00:00,French first division,2018,Roazhon Park,Rennes,Toulouse,Rennes,2,1,229
+413,2018-04-28 18:00:00,French first division,2018,Stade Matmut-Atlantique,Bordeaux,Dijon,Bordeaux,3,1,27
+414,2018-04-28 18:00:00,French first division,2018,Stade Pierre-Mauroy,Lille,Metz,Lille,3,1,458
+417,2018-04-28 18:00:00,French first division,2018,Stade de l'Aube,Troyes,Caen,Troyes,3,1,437
+418,2018-04-28 15:00:00,French first division,2018,Groupama Stadium,Olympique Lyonnais,Nantes,Olympique Lyonnais,2,0,199
+419,2018-04-27 18:45:00,French first division,2018,Stade de la Mosson,Montpellier,Saint,Saint-\u00c9tienne,0,1,388
+421,2018-04-22 19:00:00,French first division,2018,Stade Matmut-Atlantique,Bordeaux,PSG,PSG,0,1,199
+422,2018-04-22 15:00:00,French first division,2018,Stade Geoffroy-Guichard,Saint,\u00c9tienne,Saint-\u00c9tienne,2,1,229
+423,2018-04-22 13:00:00,French first division,2018,Allianz Riviera,Nice,Montpellier,Nice,1,0,543
+424,2018-04-21 18:00:00,French first division,2018,Stade de la Licorne,Amiens SC,Strasbourg,Amiens SC,3,1,59
+425,2018-04-21 18:00:00,French first division,2018,Stade du Roudourou,Guingamp,Monaco,Guingamp,3,1,223
+427,2018-04-21 18:00:00,French first division,2018,Stadium Municipal,Toulouse,Angers SCO,Toulouse,2,0,444
+428,2018-04-21 15:00:00,French first division,2018,Stade V\u00e9lodrome,Olympique Marseille,Lille,Olympique Marseille,5,1,347
+429,2018-04-20 19:00:00,French first division,2018,Stade Gaston-G\u00e9rard,Dijon,Olympique Lyonnais,Olympique Lyonnais,2,5,106
+431,2018-04-15 19:00:00,French first division,2018,Parc des Princes,PSG,Monaco,PSG,7,1,543
+432,2018-04-15 15:00:00,French first division,2018,Stade de l'Aube,Troyes,Olympique Marseille,Olympique Marseille,2,3,372
+433,2018-04-15 13:00:00,French first division,2018,Stade de la Mosson,Montpellier,Bordeaux,Bordeaux,1,3,304
+436,2018-04-14 18:00:00,French first division,2018,Roazhon Park,Rennes,Metz,Metz,1,2,437
+437,2018-04-14 18:00:00,French first division,2018,Stade de la Meinau,Strasbourg,Saint,Saint-\u00c9tienne,0,1,361
+438,2018-04-14 15:00:00,French first division,2018,Groupama Stadium,Olympique Lyonnais,Amiens SC,Olympique Lyonnais,3,0,27
+441,2018-04-08 15:00:00,French first division,2018,Stade Saint-Symphorien,Metz,Olympique Lyonnais,Olympique Lyonnais,0,5,199
+443,2018-04-07 18:00:00,French first division,2018,Stade de la Licorne,Amiens SC,Caen,Amiens SC,3,0,223
+445,2018-04-07 18:00:00,French first division,2018,Stade Matmut-Atlantique,Bordeaux,Lille,Bordeaux,2,1,388
+446,2018-04-07 18:00:00,French first division,2018,Stade du Roudourou,Guingamp,Troyes,Guingamp,4,0,106
+447,2018-04-07 18:00:00,French first division,2018,Stadium Municipal,Toulouse,Dijon,Dijon,0,1,437
+448,2018-04-07 15:00:00,French first division,2018,Stade Louis II.,Monaco,Nantes,Monaco,2,1,458
+451,2018-04-01 19:00:00,French first division,2018,Groupama Stadium,Olympique Lyonnais,Toulouse,Olympique Lyonnais,2,0,66
+452,2018-04-01 15:00:00,French first division,2018,Stade Michel d'Ornano,Caen,Montpellier,Montpellier,1,3,386
+453,2018-04-01 15:00:00,French first division,2018,Stade Pierre-Mauroy,Lille,Amiens SC,Amiens SC,0,1,304
+454,2018-04-01 15:00:00,French first division,2018,Stade de la Beaujoire - Louis Fonteneau,Nantes,Saint,Saint-\u00c9tienne,0,3,261
+456,2018-04-01 15:00:00,French first division,2018,Stade de l'Aube,Troyes,Nice,Nice,0,2,27
+457,2018-04-01 13:00:00,French first division,2018,Stade du Roudourou,Guingamp,Bordeaux,Guingamp,2,1,372
+458,2018-03-31 15:00:00,French first division,2018,Stade Gaston-G\u00e9rard,Dijon,Olympique Marseille,Olympique Marseille,1,3,444
+459,2018-03-18 20:00:00,French first division,2018,Stade V\u00e9lodrome,Olympique Marseille,Olympique Lyonnais,Olympique Lyonnais,2,3,543
+460,2018-03-18 16:00:00,French first division,2018,Stade Geoffroy-Guichard,Saint,\u00c9tienne,Saint-\u00c9tienne,2,0,347
+462,2018-03-18 12:00:00,French first division,2018,Allianz Riviera,Nice,PSG,PSG,1,2,458
+464,2018-03-17 19:00:00,French first division,2018,Stade Raymond Kopa,Angers SCO,Caen,Angers,3,0,59
+467,2018-03-17 16:00:00,French first division,2018,Stade Matmut-Atlantique,Bordeaux,Rennes,Rennes,0,2,361
+468,2018-03-16 19:45:00,French first division,2018,Stade Louis II.,Monaco,Lille,Monaco,2,1,161
+469,2018-03-14 16:00:00,French first division,2018,Parc des Princes,PSG,Angers SCO,PSG,2,1,386
+470,2018-03-11 20:00:00,French first division,2018,Stadium Municipal,Toulouse,Olympique Marseille,Olympique Marseille,1,2,458
+471,2018-03-11 16:00:00,French first division,2018,Groupama Stadium,Olympique Lyonnais,Caen,Olympique Lyonnais,1,0,161
+472,2018-03-11 14:00:00,French first division,2018,Stade du Roudourou,Guingamp,Nice,Nice,2,5,229
+476,2018-03-10 19:00:00,French first division,2018,Stade de la Beaujoire - Louis Fonteneau,Nantes,Troyes,Nantes,1,0,444
+478,2018-03-10 16:00:00,French first division,2018,Parc des Princes,PSG,Metz,PSG,5,0,347
+479,2018-03-09 19:45:00,French first division,2018,Stade de la Meinau,Strasbourg,Monaco,Monaco,1,3,199
+482,2018-03-04 14:00:00,French first division,2018,Stade Michel d'Ornano,Caen,Strasbourg,Caen,2,0,27
+483,2018-03-03 19:00:00,French first division,2018,Stade de la Licorne,Amiens SC,Rennes,Rennes,0,2,345
+484,2018-03-03 19:00:00,French first division,2018,Stade Raymond Kopa,Angers SCO,Guingamp,Angers,3,0,161
+487,2018-03-03 16:00:00,French first division,2018,Stade de l'Aube,Troyes,PSG,PSG,0,2,304
+488,2018-03-02 18:45:00,French first division,2018,Stade Louis II.,Monaco,Bordeaux,Monaco,2,1,543
+489,2018-03-02 18:00:00,French first division,2018,Allianz Riviera,Nice,Lille,Nice,2,1,388
+490,2018-02-25 20:00:00,French first division,2018,Parc des Princes,PSG,Olympique Marseille,PSG,3,0,66
+493,2018-02-24 19:00:00,French first division,2018,Stade Gaston-G\u00e9rard,Dijon,Caen,Dijon,2,0,386
+495,2018-02-24 19:00:00,French first division,2018,Stade Pierre-Mauroy,Lille,Angers SCO,Angers,1,2,458
+496,2018-02-24 19:00:00,French first division,2018,Stade de la Beaujoire - Louis Fonteneau,Nantes,Amiens SC,Amiens SC,0,1,229
+497,2018-02-24 19:00:00,French first division,2018,Roazhon Park,Rennes,Troyes,Rennes,2,0,388
+501,2018-02-18 20:00:00,French first division,2018,Stade V\u00e9lodrome,Olympique Marseille,Bordeaux,Olympique Marseille,1,0,361
+505,2018-02-17 19:00:00,French first division,2018,Stade Raymond Kopa,Angers SCO,Saint,Saint-\u00c9tienne,0,1,199
+508,2018-02-17 19:00:00,French first division,2018,Stade de l'Aube,Troyes,Metz,Troyes,1,0,59
+509,2018-02-17 16:00:00,French first division,2018,Parc des Princes,PSG,Strasbourg,PSG,5,2,388
+510,2018-02-16 19:45:00,French first division,2018,Stade Louis II.,Monaco,Dijon,Monaco,4,0,27
+511,2018-02-11 20:00:00,French first division,2018,Groupama Stadium,Olympique Lyonnais,Rennes,Rennes,0,2,347
+514,2018-02-10 19:00:00,French first division,2018,Stade Raymond Kopa,Angers SCO,Monaco,Monaco,0,4,388
+515,2018-02-10 19:00:00,French first division,2018,Stade Matmut-Atlantique,Bordeaux,Amiens SC,Bordeaux,3,2,66
+516,2018-02-10 19:00:00,French first division,2018,Stade Gaston-G\u00e9rard,Dijon,Nice,Dijon,3,2,345
+518,2018-02-10 19:00:00,French first division,2018,Stade Saint-Symphorien,Metz,Montpellier,Montpellier,0,1,386
+519,2018-02-10 16:00:00,French first division,2018,Stadium Municipal,Toulouse,PSG,PSG,0,1,543
+521,2018-02-04 20:00:00,French first division,2018,Stade Louis II.,Monaco,Olympique Lyonnais,Monaco,3,2,66
+522,2018-02-04 16:00:00,French first division,2018,Stade Michel d'Ornano,Caen,Nantes,Caen,3,2,304
+523,2018-02-04 14:00:00,French first division,2018,Roazhon Park,Rennes,Guingamp,Guingamp,0,1,543
+524,2018-02-03 19:00:00,French first division,2018,Stade de la Licorne,Amiens SC,Saint,Saint-\u00c9tienne,0,2,388
+525,2018-02-03 19:00:00,French first division,2018,Stade de la Mosson,Montpellier,Angers SCO,Montpellier,2,1,229
+526,2018-02-03 19:00:00,French first division,2018,Allianz Riviera,Nice,Toulouse,Toulouse,0,1,199
+527,2018-02-03 19:00:00,French first division,2018,Stade de la Meinau,Strasbourg,Bordeaux,Bordeaux,0,2,444
+528,2018-02-03 16:00:00,French first division,2018,Stade Pierre-Mauroy,Lille,PSG,PSG,0,3,27
+529,2018-02-02 19:45:00,French first division,2018,Stade V\u00e9lodrome,Olympique Marseille,Metz,Olympique Marseille,6,3,59
+531,2018-01-28 16:00:00,French first division,2018,Stade Matmut-Atlantique,Bordeaux,Olympique Lyonnais,Bordeaux,3,1,458
+532,2018-01-28 14:00:00,French first division,2018,Stade Pierre-Mauroy,Lille,Strasbourg,Lille,2,1,386
+533,2018-01-27 19:00:00,French first division,2018,Stade Raymond Kopa,Angers SCO,Amiens SC,Angers,1,0,59
+534,2018-01-27 19:00:00,French first division,2018,Stade du Roudourou,Guingamp,Nantes,Nantes,0,3,223
+535,2018-01-27 19:00:00,French first division,2018,Stade Saint-Symphorien,Metz,Nice,Metz,2,1,27
+536,2018-01-27 19:00:00,French first division,2018,Stade Geoffroy-Guichard,Saint,\u00c9tienne,Saint-\u00c9tienne,2,1,372
+537,2018-01-27 19:00:00,French first division,2018,Stadium Municipal,Toulouse,Troyes,Toulouse,1,0,66
+538,2018-01-27 16:00:00,French first division,2018,Parc des Princes,PSG,Montpellier,PSG,4,0,106
+539,2018-01-26 19:45:00,French first division,2018,Stade Gaston-G\u00e9rard,Dijon,Rennes,Dijon,2,1,444
+540,2018-01-21 20:00:00,French first division,2018,Groupama Stadium,Olympique Lyonnais,PSG,Olympique Lyonnais,2,1,161
+541,2018-01-21 16:00:00,French first division,2018,Stade Louis II.,Monaco,Metz,Monaco,3,1,361
+542,2018-01-21 14:00:00,French first division,2018,Allianz Riviera,Nice,Saint,Nice,1,0,106
+543,2018-01-20 19:00:00,French first division,2018,Stade de la Licorne,Amiens SC,Guingamp,Amiens SC,3,1,386
+544,2018-01-20 19:00:00,French first division,2018,Stade de la Mosson,Montpellier,Toulouse,Montpellier,2,1,444
+545,2018-01-20 19:00:00,French first division,2018,Roazhon Park,Rennes,Angers SCO,Rennes,1,0,372
+549,2018-01-19 19:45:00,French first division,2018,Stade Michel d'Ornano,Caen,Olympique Marseille,Olympique Marseille,0,2,458
+550,2018-01-17 20:00:00,French first division,2018,Parc des Princes,PSG,Dijon,PSG,8,0,59
+552,2018-01-17 18:00:00,French first division,2018,Stade Raymond Kopa,Angers SCO,Troyes,Angers,3,1,347
+553,2018-01-17 18:00:00,French first division,2018,Stade du Roudourou,Guingamp,Olympique Lyonnais,Olympique Lyonnais,0,2,345
+554,2018-01-17 18:00:00,French first division,2018,Stade Pierre-Mauroy,Lille,Rennes,Rennes,1,2,361
+555,2018-01-17 18:00:00,French first division,2018,Stade Saint-Symphorien,Metz,Saint,Metz,3,0,223
+558,2018-01-16 18:00:00,French first division,2018,Stade Matmut-Atlantique,Bordeaux,Caen,Caen,0,2,229
+559,2018-01-16 18:00:00,French first division,2018,Stade V\u00e9lodrome,Olympique Marseille,Strasbourg,Olympique Marseille,2,0,543
+560,2018-01-14 20:00:00,French first division,2018,Stade de la Beaujoire - Louis Fonteneau,Nantes,PSG,PSG,0,1,430
+562,2018-01-14 14:00:00,French first division,2018,Stade Geoffroy-Guichard,Saint,\u00c9tienne,Saint-\u00c9tienne,2,0,361
+563,2018-01-13 19:00:00,French first division,2018,Stade Michel d'Ornano,Caen,Lille,Lille,0,1,27
+566,2018-01-13 19:00:00,French first division,2018,Allianz Riviera,Nice,Amiens SC,Nice,1,0,347
+567,2018-01-13 19:00:00,French first division,2018,Stade de l'Aube,Troyes,Bordeaux,Bordeaux,0,1,444
+568,2018-01-13 16:00:00,French first division,2018,Roazhon Park,Rennes,Olympique Marseille,Olympique Marseille,0,3,161
+569,2018-01-12 19:45:00,French first division,2018,Stade de la Meinau,Strasbourg,Guingamp,Guingamp,0,2,372
+570,2017-12-20 19:50:00,French first division,2017,Stade Raymond Kopa,Angers SCO,Dijon,Angers,2,1,347
+572,2017-12-20 19:50:00,French first division,2017,Stade V\u00e9lodrome,Olympique Marseille,Troyes,Olympique Marseille,3,1,59
+573,2017-12-20 19:50:00,French first division,2017,Parc des Princes,PSG,Caen,PSG,3,1,304
+574,2017-12-20 19:50:00,French first division,2017,Stade de la Licorne,Amiens SC,Nantes,Nantes,0,1,444
+575,2017-12-20 19:50:00,French first division,2017,Stade Matmut-Atlantique,Bordeaux,Montpellier,Montpellier,0,2,386
+576,2017-12-20 19:50:00,French first division,2017,Stade du Roudourou,Guingamp,Saint,Guingamp,2,1,27
+577,2017-12-20 19:50:00,French first division,2017,Stade Saint-Symphorien,Metz,Strasbourg,Metz,3,0,161
+578,2017-12-20 19:50:00,French first division,2017,Stade Louis II.,Monaco,Rennes,Monaco,2,1,66
+579,2017-12-20 19:50:00,French first division,2017,Stadium Municipal,Toulouse,Olympique Lyonnais,Olympique Lyonnais,1,2,458
+580,2017-12-17 20:00:00,French first division,2017,Groupama Stadium,Olympique Lyonnais,Olympique Marseille,Olympique Lyonnais,2,0,66
+581,2017-12-17 16:00:00,French first division,2017,Allianz Riviera,Nice,Bordeaux,Nice,1,0,543
+582,2017-12-17 14:00:00,French first division,2017,Stade de la Beaujoire - Louis Fonteneau,Nantes,Angers SCO,Nantes,1,0,304
+583,2017-12-16 19:00:00,French first division,2017,Stade de la Mosson,Montpellier,Metz,Metz,1,3,223
+585,2017-12-16 19:00:00,French first division,2017,Stade Gaston-G\u00e9rard,Dijon,Lille,Dijon,3,0,388
+586,2017-12-16 19:00:00,French first division,2017,Stade de la Meinau,Strasbourg,Toulouse,Strasbourg,2,1,435
+587,2017-12-16 19:00:00,French first division,2017,Stade de l'Aube,Troyes,Amiens SC,Troyes,1,0,458
+588,2017-12-16 16:00:00,French first division,2017,Roazhon Park,Rennes,PSG,PSG,1,4,199
+589,2017-12-15 19:45:00,French first division,2017,Stade Geoffroy-Guichard,Saint,\u00c9tienne,Monaco,0,4,347
+590,2017-12-10 20:00:00,French first division,2017,Stade V\u00e9lodrome,Olympique Marseille,Saint,Olympique Marseille,3,0,345
+591,2017-12-10 16:00:00,French first division,2017,Stade de la Beaujoire - Louis Fonteneau,Nantes,Nice,Nice,1,2,435
+592,2017-12-10 14:00:00,French first division,2017,Stade de la Licorne,Amiens SC,Olympique Lyonnais,Olympique Lyonnais,1,2,59
+594,2017-12-09 19:00:00,French first division,2017,Stade du Roudourou,Guingamp,Dijon,Guingamp,4,0,361
+596,2017-12-09 19:00:00,French first division,2017,Stade Louis II.,Monaco,Troyes,Monaco,3,2,106
+597,2017-12-09 19:00:00,French first division,2017,Stadium Municipal,Toulouse,Caen,Toulouse,2,0,372
+598,2017-12-09 16:00:00,French first division,2017,Parc des Princes,PSG,Lille,PSG,3,1,27
+599,2017-12-08 19:45:00,French first division,2017,Stade Matmut-Atlantique,Bordeaux,Strasbourg,Strasbourg,0,3,444
+601,2017-12-03 16:00:00,French first division,2017,Stade Michel d'Ornano,Caen,Olympique Lyonnais,Olympique Lyonnais,1,2,347
+603,2017-12-02 19:00:00,French first division,2017,Stade Pierre-Mauroy,Lille,Toulouse,Lille,1,0,223
+604,2017-12-02 19:00:00,French first division,2017,Stade Louis II.,Monaco,Angers SCO,Monaco,1,0,199
+605,2017-12-02 19:00:00,French first division,2017,Allianz Riviera,Nice,Metz,Nice,3,1,361
+606,2017-12-02 19:00:00,French first division,2017,Roazhon Park,Rennes,Amiens SC,Rennes,2,0,388
+607,2017-12-02 19:00:00,French first division,2017,Stade de l'Aube,Troyes,Guingamp,Guingamp,0,1,386
+608,2017-12-02 16:00:00,French first division,2017,Stade de la Meinau,Strasbourg,PSG,Strasbourg,2,1,543
+609,2017-12-01 19:45:00,French first division,2017,Stade Gaston-G\u00e9rard,Dijon,Bordeaux,Dijon,3,2,66
+610,2017-11-29 20:00:00,French first division,2017,Parc des Princes,PSG,Troyes,PSG,2,0,444
+611,2017-11-29 18:00:00,French first division,2017,Stade Raymond Kopa,Angers SCO,Rennes,Rennes,1,2,345
+613,2017-11-29 18:00:00,French first division,2017,Groupama Stadium,Olympique Lyonnais,Lille,Lille,1,2,435
+614,2017-11-29 18:00:00,French first division,2017,Stade Saint-Symphorien,Metz,Olympique Marseille,Olympique Marseille,0,3,430
+615,2017-11-29 18:00:00,French first division,2017,Stade de la Beaujoire - Louis Fonteneau,Nantes,Monaco,Nantes,1,0,223
+616,2017-11-29 18:00:00,French first division,2017,Stadium Municipal,Toulouse,Nice,Nice,1,2,27
+617,2017-11-28 20:00:00,French first division,2017,Stade Matmut-Atlantique,Bordeaux,Saint,Bordeaux,3,0,361
+618,2017-11-28 18:00:00,French first division,2017,Stade de la Licorne,Amiens SC,Dijon,Amiens SC,2,1,304
+620,2017-11-26 20:00:00,French first division,2017,Stade Louis II.,Monaco,PSG,PSG,1,2,458
+621,2017-11-26 16:00:00,French first division,2017,Stade V\u00e9lodrome,Olympique Marseille,Guingamp,Olympique Marseille,1,0,347
+622,2017-11-26 14:00:00,French first division,2017,Allianz Riviera,Nice,Olympique Lyonnais,Olympique Lyonnais,0,5,106
+623,2017-11-25 19:00:00,French first division,2017,Stade Michel d'Ornano,Caen,Bordeaux,Caen,1,0,304
+624,2017-11-25 19:00:00,French first division,2017,Stade Gaston-G\u00e9rard,Dijon,Toulouse,Dijon,3,1,229
+625,2017-11-25 19:00:00,French first division,2017,Stade Saint-Symphorien,Metz,Amiens SC,Amiens SC,0,2,199
+626,2017-11-25 19:00:00,French first division,2017,Stade de la Mosson,Montpellier,Lille,Montpellier,3,0,388
+627,2017-11-25 19:00:00,French first division,2017,Stade de l'Aube,Troyes,Angers SCO,Troyes,3,0,437
+628,2017-11-25 16:00:00,French first division,2017,Roazhon Park,Rennes,Nantes,Rennes,2,1,543
+630,2017-11-20 18:00:00,French first division,2017,Stade de la Licorne,Amiens SC,Lille,Amiens SC,3,0,361
+634,2017-11-18 19:00:00,French first division,2017,Stade Gaston-G\u00e9rard,Dijon,Troyes,Dijon,3,1,106
+636,2017-11-18 19:00:00,French first division,2017,Stade de la Meinau,Strasbourg,Rennes,Strasbourg,2,1,430
+638,2017-11-18 16:00:00,French first division,2017,Parc des Princes,PSG,Nantes,PSG,4,1,345
+640,2017-11-17 18:00:00,French first division,2017,Stade Pierre-Mauroy,Lille,Saint,Lille,3,1,27
+641,2017-11-05 20:00:00,French first division,2017,Stade Geoffroy-Guichard,Saint,\u00c9tienne,Olympique Lyonnais,0,5,161
+642,2017-11-05 16:00:00,French first division,2017,Stade V\u00e9lodrome,Olympique Marseille,Caen,Olympique Marseille,5,0,345
+643,2017-11-05 16:00:00,French first division,2017,Stade Saint-Symphorien,Metz,Lille,Lille,0,3,444
+644,2017-11-05 14:00:00,French first division,2017,Allianz Riviera,Nice,Dijon,Nice,1,0,59
+645,2017-11-04 19:00:00,French first division,2017,Stade Louis II.,Monaco,Guingamp,Monaco,6,0,361
+647,2017-11-04 19:00:00,French first division,2017,Stade de la Beaujoire - Louis Fonteneau,Nantes,Toulouse,Nantes,2,1,199
+648,2017-11-04 19:00:00,French first division,2017,Stade de l'Aube,Troyes,Strasbourg,Troyes,3,0,388
+649,2017-11-04 16:00:00,French first division,2017,Stade Raymond Kopa,Angers SCO,PSG,PSG,0,5,66
+650,2017-11-03 19:45:00,French first division,2017,Roazhon Park,Rennes,Bordeaux,Rennes,1,0,543
+651,2017-10-29 20:00:00,French first division,2017,Stade Pierre-Mauroy,Lille,Olympique Marseille,Olympique Marseille,0,1,458
+653,2017-10-29 14:00:00,French first division,2017,Groupama Stadium,Olympique Lyonnais,Metz,Olympique Lyonnais,2,0,223
+654,2017-10-28 18:00:00,French first division,2017,Stade Michel d'Ornano,Caen,Troyes,Caen,1,0,435
+655,2017-10-28 18:00:00,French first division,2017,Stade Gaston-G\u00e9rard,Dijon,Nantes,Dijon,1,0,437
+657,2017-10-28 18:00:00,French first division,2017,Stade de la Mosson,Montpellier,Rennes,Rennes,0,1,66
+659,2017-10-28 15:00:00,French first division,2017,Stade Matmut-Atlantique,Bordeaux,Monaco,Monaco,0,2,199
+660,2017-10-27 18:45:00,French first division,2017,Parc des Princes,PSG,Nice,PSG,3,0,430
+662,2017-10-22 15:00:00,French first division,2017,Stade de l'Aube,Troyes,Olympique Lyonnais,Olympique Lyonnais,0,5,458
+663,2017-10-22 13:00:00,French first division,2017,Allianz Riviera,Nice,Strasbourg,Strasbourg,1,2,345
+664,2017-10-21 18:00:00,French first division,2017,Stade de la Licorne,Amiens SC,Bordeaux,Amiens SC,1,0,386
+665,2017-10-21 18:00:00,French first division,2017,Stade Raymond Kopa,Angers SCO,Toulouse,Toulouse,0,1,27
+666,2017-10-21 18:00:00,French first division,2017,Stade Saint-Symphorien,Metz,Dijon,Dijon,1,2,361
+667,2017-10-21 18:00:00,French first division,2017,Stade de la Beaujoire - Louis Fonteneau,Nantes,Guingamp,Nantes,2,1,347
+668,2017-10-21 18:00:00,French first division,2017,Roazhon Park,Rennes,Lille,Rennes,1,0,59
+669,2017-10-21 15:00:00,French first division,2017,Stade Louis II.,Monaco,Caen,Monaco,2,0,388
+670,2017-10-20 18:45:00,French first division,2017,Stade Geoffroy-Guichard,Saint,\u00c9tienne,Montpellier,0,1,106
+672,2017-10-15 15:00:00,French first division,2017,Stade de la Mosson,Montpellier,Nice,Montpellier,2,0,444
+674,2017-10-14 18:00:00,French first division,2017,Stade Michel d'Ornano,Caen,Angers SCO,Angers,0,2,223
+675,2017-10-14 18:00:00,French first division,2017,Stade du Roudourou,Guingamp,Rennes,Guingamp,2,0,106
+677,2017-10-14 18:00:00,French first division,2017,Stade Geoffroy-Guichard,Saint,\u00c9tienne,Saint-\u00c9tienne,3,1,59
+678,2017-10-14 18:00:00,French first division,2017,Stadium Municipal,Toulouse,Amiens SC,Toulouse,1,0,458
+679,2017-10-14 15:00:00,French first division,2017,Stade Gaston-G\u00e9rard,Dijon,PSG,PSG,1,2,435
+680,2017-10-13 18:45:00,French first division,2017,Groupama Stadium,Olympique Lyonnais,Monaco,Olympique Lyonnais,3,2,66
+681,2017-10-01 19:00:00,French first division,2017,Allianz Riviera,Nice,Olympique Marseille,Olympique Marseille,2,4,66
+683,2017-10-01 13:00:00,French first division,2017,Stade de l'Aube,Troyes,Saint,Troyes,2,1,345
+686,2017-09-30 18:00:00,French first division,2017,Stade de la Beaujoire - Louis Fonteneau,Nantes,Metz,Nantes,1,0,27
+687,2017-09-30 18:00:00,French first division,2017,Roazhon Park,Rennes,Caen,Caen,0,1,347
+688,2017-09-30 15:00:00,French first division,2017,Parc des Princes,PSG,Bordeaux,PSG,6,2,458
+690,2017-09-24 19:00:00,French first division,2017,Stade V\u00e9lodrome,Olympique Marseille,Toulouse,Olympique Marseille,2,0,223
+691,2017-09-24 15:00:00,French first division,2017,Stade de la Meinau,Strasbourg,Nantes,Nantes,1,2,386
+693,2017-09-23 18:00:00,French first division,2017,Stade Matmut-Atlantique,Bordeaux,Guingamp,Bordeaux,3,1,66
+694,2017-09-23 18:00:00,French first division,2017,Stade Michel d'Ornano,Caen,Amiens SC,Caen,1,0,437
+696,2017-09-23 18:00:00,French first division,2017,Stade Saint-Symphorien,Metz,Troyes,Troyes,0,1,304
+698,2017-09-22 18:45:00,French first division,2017,Stade Pierre-Mauroy,Lille,Monaco,Monaco,0,4,106
+700,2017-09-17 19:00:00,French first division,2017,Parc des Princes,PSG,Olympique Lyonnais,PSG,2,0,543
+701,2017-09-17 15:00:00,French first division,2017,Stade Raymond Kopa,Angers SCO,Metz,Metz,0,1,229
+702,2017-09-17 15:00:00,French first division,2017,Roazhon Park,Rennes,Nice,Nice,0,1,345
+703,2017-09-17 13:00:00,French first division,2017,Stade de la Licorne,Amiens SC,Olympique Marseille,Olympique Marseille,0,2,361
+704,2017-09-16 18:00:00,French first division,2017,Stade Gaston-G\u00e9rard,Dijon,Saint,Saint-\u00c9tienne,0,1,66
+705,2017-09-16 18:00:00,French first division,2017,Stade du Roudourou,Guingamp,Lille,Guingamp,1,0,444
+706,2017-09-16 18:00:00,French first division,2017,Stade de la Beaujoire - Louis Fonteneau,Nantes,Caen,Nantes,1,0,59
+707,2017-09-16 18:00:00,French first division,2017,Stade de l'Aube,Troyes,Montpellier,Montpellier,0,1,347
+708,2017-09-16 15:00:00,French first division,2017,Stade Louis II.,Monaco,Strasbourg,Monaco,3,0,27
+709,2017-09-15 18:45:00,French first division,2017,Stadium Municipal,Toulouse,Bordeaux,Bordeaux,0,1,161
+710,2017-09-10 19:00:00,French first division,2017,Stade V\u00e9lodrome,Olympique Marseille,Rennes,Rennes,1,3,199
+711,2017-09-10 15:00:00,French first division,2017,Groupama Stadium,Olympique Lyonnais,Guingamp,Olympique Lyonnais,2,1,223
+713,2017-09-09 18:00:00,French first division,2017,Stade Michel d'Ornano,Caen,Dijon,Caen,2,1,388
+714,2017-09-09 18:00:00,French first division,2017,Stade de la Mosson,Montpellier,Nantes,Nantes,0,1,435
+715,2017-09-09 18:00:00,French first division,2017,Stade de la Meinau,Strasbourg,Amiens SC,Amiens SC,0,1,444
+717,2017-09-09 15:00:00,French first division,2017,Allianz Riviera,Nice,Monaco,Nice,4,0,161
+718,2017-09-08 18:45:00,French first division,2017,Stade Saint-Symphorien,Metz,PSG,PSG,1,5,386
+720,2017-08-27 19:00:00,French first division,2017,Stade Louis II.,Monaco,Olympique Marseille,Monaco,6,1,543
+722,2017-08-27 13:00:00,French first division,2017,Stade du Roudourou,Guingamp,Strasbourg,Guingamp,2,0,361
+723,2017-08-26 18:00:00,French first division,2017,Stade de la Licorne,Amiens SC,Nice,Amiens SC,3,0,27
+724,2017-08-26 18:00:00,French first division,2017,Stade Matmut-Atlantique,Bordeaux,Troyes,Bordeaux,2,1,430
+725,2017-08-26 18:00:00,French first division,2017,Stade Michel d'Ornano,Caen,Metz,Caen,1,0,444
+726,2017-08-26 18:00:00,French first division,2017,Stade Gaston-G\u00e9rard,Dijon,Montpellier,Dijon,2,1,229
+727,2017-08-26 18:00:00,French first division,2017,Stadium Municipal,Toulouse,Rennes,Toulouse,3,2,106
+729,2017-08-25 18:45:00,French first division,2017,Parc des Princes,PSG,Saint,PSG,3,0,161
+730,2017-08-20 19:00:00,French first division,2017,Parc des Princes,PSG,Toulouse,PSG,6,2,347
+732,2017-08-20 13:00:00,French first division,2017,Stade Pierre-Mauroy,Lille,Caen,Caen,0,2,304
+734,2017-08-19 18:00:00,French first division,2017,Allianz Riviera,Nice,Guingamp,Nice,2,0,223
+736,2017-08-19 18:00:00,French first division,2017,Stade Geoffroy-Guichard,Saint,\u00c9tienne,Saint-\u00c9tienne,3,0,444
+737,2017-08-19 18:00:00,French first division,2017,Stade de l'Aube,Troyes,Nantes,Nantes,0,1,386
+739,2017-08-18 18:45:00,French first division,2017,Stade Saint-Symphorien,Metz,Monaco,Monaco,0,1,458
+740,2017-08-13 19:00:00,French first division,2017,Stade du Roudourou,Guingamp,PSG,PSG,0,3,199
+741,2017-08-13 15:00:00,French first division,2017,Stade Gaston-G\u00e9rard,Dijon,Monaco,Monaco,1,4,430
+742,2017-08-13 13:00:00,French first division,2017,Stade de la Meinau,Strasbourg,Lille,Strasbourg,3,0,27
+743,2017-08-12 18:00:00,French first division,2017,Stade de la Licorne,Amiens SC,Angers SCO,Angers,0,2,437
+744,2017-08-12 18:00:00,French first division,2017,Stade Matmut-Atlantique,Bordeaux,Metz,Bordeaux,2,0,361
+745,2017-08-12 18:00:00,French first division,2017,Stade Michel d'Ornano,Caen,Saint,Saint-\u00c9tienne,0,1,229
+746,2017-08-12 18:00:00,French first division,2017,Stadium Municipal,Toulouse,Montpellier,Toulouse,1,0,543
+747,2017-08-12 15:00:00,French first division,2017,Stade de la Beaujoire - Louis Fonteneau,Nantes,Olympique Marseille,Olympique Marseille,0,1,106
+748,2017-08-11 18:45:00,French first division,2017,Roazhon Park,Rennes,Olympique Lyonnais,Olympique Lyonnais,1,2,223
+749,2017-08-11 17:00:00,French first division,2017,Allianz Riviera,Nice,Troyes,Troyes,1,2,435
+750,2017-08-06 19:00:00,French first division,2017,Stade V\u00e9lodrome,Olympique Marseille,Dijon,Olympique Marseille,3,0,66
+752,2017-08-06 13:00:00,French first division,2017,Stade Pierre-Mauroy,Lille,Nantes,Lille,3,0,223
+753,2017-08-05 18:00:00,French first division,2017,Groupama Stadium,Olympique Lyonnais,Strasbourg,Olympique Lyonnais,4,0,543
+754,2017-08-05 18:00:00,French first division,2017,Stade Saint-Symphorien,Metz,Guingamp,Guingamp,1,3,435
+755,2017-08-05 18:00:00,French first division,2017,Stade de la Mosson,Montpellier,Caen,Montpellier,1,0,388
+756,2017-08-05 18:00:00,French first division,2017,Stade Geoffroy-Guichard,Saint,\u00c9tienne,Saint-\u00c9tienne,1,0,458
+758,2017-08-05 15:15:00,French first division,2017,Parc des Princes,PSG,Amiens SC,PSG,2,0,361
+759,2017-08-04 18:45:00,French first division,2017,Stade Louis II.,Monaco,Toulouse,Monaco,3,2,161
+760,2018-05-20 18:45:00,Spanish first division,2018,Camp Nou,Barcelona,Real Sociedad,Barcelona,1,0,383
+762,2018-05-20 14:15:00,Spanish first division,2018,San Mam\u00e9s Barria,Athletic Club,Espanyol,Espanyol,0,1,344
+763,2018-05-20 10:00:00,Spanish first division,2018,Estadio de Mestalla,Valencia,Deportivo La Coru\u00f1a,Valencia,2,1,273
+765,2018-05-19 16:30:00,Spanish first division,2018,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,Sevilla,Deportivo Alav\u00e9s,Sevilla,1,0,97
+766,2018-05-19 16:30:00,Spanish first division,2018,Estadio La Rosaleda,M\u00e1laga,Getafe,Getafe,0,1,395
+767,2018-05-19 16:30:00,Spanish first division,2018,Estadio de Gran Canaria,Las Palmas,Girona,Girona,1,2,155
+768,2018-05-19 14:15:00,Spanish first division,2018,Estadio Municipal de Butarque,Legan\u00e9s,Real Betis,Legan\u00e9s,3,2,405
+769,2018-05-19 11:00:00,Spanish first division,2018,Estadio de Bala\u00eddos,Celta de Vigo,Levante,Celta de Vigo,4,2,284
+770,2018-05-13 18:45:00,Spanish first division,2018,Estadio Ciudad de Valencia,Levante,Barcelona,Levante,5,4,551
+771,2018-05-13 14:15:00,Spanish first division,2018,RCDE Stadium,Espanyol,M\u00e1laga,Espanyol,4,1,150
+772,2018-05-12 18:45:00,Spanish first division,2018,Estadio Santiago Bernab\u00e9u,Real Madrid,Celta de Vigo,Real Madrid,6,0,232
+773,2018-05-12 15:30:00,Spanish first division,2018,Estadi Municipal de Montilivi,Girona,Valencia,Valencia,0,1,74
+774,2018-05-12 15:30:00,Spanish first division,2018,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Athletic Club,Deportivo Alav\u00e9s,3,1,16
+775,2018-05-12 16:30:00,Spanish first division,2018,Estadio Municipal de Riazor,Deportivo La Coru\u00f1a,Villarreal,Villarreal,2,4,239
+776,2018-05-12 15:30:00,Spanish first division,2018,Coliseum Alfonso P\u00e9rez,Getafe,Atl\u00e9tico Madrid,Atl\u00e9tico Madrid,0,1,533
+778,2018-05-12 15:30:00,Spanish first division,2018,Estadio Municipal de Ipur\u00faa,Eibar,Las Palmas,Eibar,1,0,68
+779,2018-05-12 13:15:00,Spanish first division,2018,Estadio Municipal de Anoeta,Real Sociedad,Legan\u00e9s,Real Sociedad,3,2,273
+780,2018-05-09 19:30:00,Spanish first division,2018,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,Sevilla,Real Madrid,Sevilla,3,2,68
+781,2018-05-09 18:00:00,Spanish first division,2018,Camp Nou,Barcelona,Villarreal,Barcelona,5,1,119
+782,2018-05-07 19:00:00,Spanish first division,2018,Estadio Municipal de Butarque,Legan\u00e9s,Levante,Levante,0,3,119
+784,2018-05-06 16:30:00,Spanish first division,2018,Estadio de Gran Canaria,Las Palmas,Getafe,Getafe,0,1,195
+785,2018-05-06 14:15:00,Spanish first division,2018,Estadio Wanda Metropolitano,Atl\u00e9tico Madrid,Espanyol,Espanyol,0,2,383
+786,2018-05-06 10:00:00,Spanish first division,2018,Estadio La Rosaleda,M\u00e1laga,Deportivo Alav\u00e9s,Deportivo Alav\u00e9s,0,3,555
+787,2018-05-05 18:45:00,Spanish first division,2018,Estadio de la Cer\u00e1mica,Villarreal,Valencia,Villarreal,1,0,405
+790,2018-05-05 11:00:00,Spanish first division,2018,Estadi Municipal de Montilivi,Girona,Eibar,Eibar,1,4,395
+791,2018-05-04 19:00:00,Spanish first division,2018,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,Sevilla,Real Sociedad,Sevilla,1,0,155
+792,2018-04-30 19:00:00,Spanish first division,2018,Estadio Benito Villamar\u00edn,Real Betis,M\u00e1laga,Real Betis,2,1,97
+793,2018-04-29 18:45:00,Spanish first division,2018,Estadio Municipal de Riazor,Deportivo La Coru\u00f1a,Barcelona,Barcelona,2,4,284
+795,2018-04-29 14:15:00,Spanish first division,2018,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Atl\u00e9tico Madrid,Atl\u00e9tico Madrid,0,1,344
+797,2018-04-28 18:45:00,Spanish first division,2018,Estadio de la Cer\u00e1mica,Villarreal,Celta de Vigo,Villarreal,4,1,533
+798,2018-04-28 16:30:00,Spanish first division,2018,Estadio Santiago Bernab\u00e9u,Real Madrid,Legan\u00e9s,Real Madrid,2,1,74
+799,2018-04-28 14:15:00,Spanish first division,2018,Estadio Municipal de Anoeta,Real Sociedad,Athletic Club,Real Sociedad,3,1,119
+801,2018-04-27 19:00:00,Spanish first division,2018,Estadio Ciudad de Valencia,Levante,Sevilla,Levante,2,1,555
+802,2018-04-23 19:00:00,Spanish first division,2018,San Mam\u00e9s Barria,Athletic Club,Levante,Levante,1,3,383
+804,2018-04-22 16:30:00,Spanish first division,2018,Estadio de Gran Canaria,Las Palmas,Deportivo Alav\u00e9s,Deportivo Alav\u00e9s,0,4,551
+805,2018-04-22 14:15:00,Spanish first division,2018,Estadio La Rosaleda,M\u00e1laga,Real Sociedad,M\u00e1laga,2,0,16
+806,2018-04-22 10:00:00,Spanish first division,2018,Estadi Municipal de Montilivi,Girona,Espanyol,Espanyol,0,2,533
+808,2018-04-21 11:00:00,Spanish first division,2018,Estadio Municipal de Ipur\u00faa,Eibar,Getafe,Getafe,0,1,74
+810,2018-04-19 19:30:00,Spanish first division,2018,Estadio Ciudad de Valencia,Levante,M\u00e1laga,Levante,1,0,155
+811,2018-04-19 19:30:00,Spanish first division,2018,Estadio Benito Villamar\u00edn,Real Betis,Las Palmas,Real Betis,1,0,119
+812,2018-04-19 17:30:00,Spanish first division,2018,Estadio Municipal de Anoeta,Real Sociedad,Atl\u00e9tico Madrid,Real Sociedad,3,0,533
+813,2018-04-19 17:30:00,Spanish first division,2018,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Girona,Girona,1,2,232
+815,2018-04-18 16:30:00,Spanish first division,2018,RCDE Stadium,Espanyol,Eibar,Eibar,0,1,239
+816,2018-04-18 16:30:00,Spanish first division,2018,Estadio de Mestalla,Valencia,Getafe,Getafe,1,2,284
+817,2018-04-17 19:30:00,Spanish first division,2018,Estadio de la Cer\u00e1mica,Villarreal,Legan\u00e9s,Villarreal,2,1,395
+820,2018-04-15 18:45:00,Spanish first division,2018,Estadio La Rosaleda,M\u00e1laga,Real Madrid,Real Madrid,1,2,284
+822,2018-04-15 14:15:00,Spanish first division,2018,Estadio Wanda Metropolitano,Atl\u00e9tico Madrid,Levante,Atl\u00e9tico Madrid,3,0,405
+823,2018-04-15 10:00:00,Spanish first division,2018,Estadio Municipal de Ipur\u00faa,Eibar,Deportivo Alav\u00e9s,Deportivo Alav\u00e9s,0,1,195
+824,2018-04-14 18:45:00,Spanish first division,2018,San Mam\u00e9s Barria,Athletic Club,Deportivo La Coru\u00f1a,Deportivo La Coru\u00f1a,2,3,555
+825,2018-04-14 16:30:00,Spanish first division,2018,Estadio de Gran Canaria,Las Palmas,Real Sociedad,Real Sociedad,0,1,7
+826,2018-04-14 16:30:00,Spanish first division,2018,Estadio Municipal de Butarque,Legan\u00e9s,Celta de Vigo,Legan\u00e9s,1,0,239
+827,2018-04-14 14:15:00,Spanish first division,2018,Camp Nou,Barcelona,Valencia,Barcelona,2,1,97
+829,2018-04-13 19:00:00,Spanish first division,2018,Estadi Municipal de Montilivi,Girona,Real Betis,Real Betis,0,1,155
+830,2018-04-09 19:00:00,Spanish first division,2018,Estadio de la Cer\u00e1mica,Villarreal,Athletic Club,Athletic Club,1,3,74
+831,2018-04-08 18:45:00,Spanish first division,2018,Estadio de Mestalla,Valencia,Espanyol,Valencia,1,0,405
+832,2018-04-08 16:30:00,Spanish first division,2018,Estadio Municipal de Anoeta,Real Sociedad,Girona,Real Sociedad,5,0,383
+834,2018-04-08 10:00:00,Spanish first division,2018,Estadio Ciudad de Valencia,Levante,Las Palmas,Levante,2,1,344
+835,2018-04-07 18:45:00,Spanish first division,2018,Camp Nou,Barcelona,Legan\u00e9s,Barcelona,3,1,284
+836,2018-04-07 16:30:00,Spanish first division,2018,Estadio Benito Villamar\u00edn,Real Betis,Eibar,Real Betis,2,0,273
+837,2018-04-07 14:15:00,Spanish first division,2018,Estadio de Bala\u00eddos,Celta de Vigo,Sevilla,Celta de Vigo,4,0,7
+838,2018-04-07 11:00:00,Spanish first division,2018,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Getafe,Deportivo Alav\u00e9s,2,0,155
+839,2018-04-06 19:00:00,Spanish first division,2018,Estadio Municipal de Riazor,Deportivo La Coru\u00f1a,M\u00e1laga,Deportivo La Coru\u00f1a,3,2,68
+840,2018-04-02 19:00:00,Spanish first division,2018,Coliseum Alfonso P\u00e9rez,Getafe,Real Betis,Real Betis,0,1,195
+841,2018-04-01 18:45:00,Spanish first division,2018,Estadio Wanda Metropolitano,Atl\u00e9tico Madrid,Deportivo La Coru\u00f1a,Atl\u00e9tico Madrid,1,0,395
+843,2018-04-01 16:30:00,Spanish first division,2018,Estadio La Rosaleda,M\u00e1laga,Villarreal,M\u00e1laga,1,0,7
+844,2018-04-01 14:15:00,Spanish first division,2018,Estadio Municipal de Butarque,Legan\u00e9s,Valencia,Valencia,0,1,551
+847,2018-03-31 16:30:00,Spanish first division,2018,Estadio de Gran Canaria,Las Palmas,Real Madrid,Real Madrid,0,3,232
+850,2018-03-18 19:45:00,Spanish first division,2018,Estadio Santiago Bernab\u00e9u,Real Madrid,Girona,Real Madrid,6,3,405
+851,2018-03-18 17:30:00,Spanish first division,2018,Estadio de la Cer\u00e1mica,Villarreal,Atl\u00e9tico Madrid,Villarreal,2,1,344
+853,2018-03-18 15:15:00,Spanish first division,2018,Camp Nou,Barcelona,Athletic Club,Barcelona,2,0,155
+854,2018-03-18 11:00:00,Spanish first division,2018,Estadio Municipal de Butarque,Legan\u00e9s,Sevilla,Legan\u00e9s,2,1,533
+855,2018-03-17 19:45:00,Spanish first division,2018,Estadio Benito Villamar\u00edn,Real Betis,Espanyol,Real Betis,3,0,284
+856,2018-03-17 17:30:00,Spanish first division,2018,Estadio Municipal de Anoeta,Real Sociedad,Getafe,Getafe,1,2,16
+857,2018-03-17 15:15:00,Spanish first division,2018,Estadio de Mestalla,Valencia,Deportivo Alav\u00e9s,Valencia,3,1,383
+859,2018-03-16 20:00:00,Spanish first division,2018,Estadio Ciudad de Valencia,Levante,Eibar,Levante,2,1,74
+860,2018-03-12 20:00:00,Spanish first division,2018,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Real Betis,Real Betis,1,3,97
+861,2018-03-11 19:45:00,Spanish first division,2018,San Mam\u00e9s Barria,Athletic Club,Legan\u00e9s,Athletic Club,2,0,119
+862,2018-03-11 17:30:00,Spanish first division,2018,Estadio de Gran Canaria,Las Palmas,Villarreal,Villarreal,0,2,273
+863,2018-03-11 15:15:00,Spanish first division,2018,Estadio Wanda Metropolitano,Atl\u00e9tico Madrid,Celta de Vigo,Atl\u00e9tico Madrid,3,0,533
+864,2018-03-11 11:00:00,Spanish first division,2018,RCDE Stadium,Espanyol,Real Sociedad,Espanyol,2,1,68
+865,2018-03-10 19:45:00,Spanish first division,2018,Estadio La Rosaleda,M\u00e1laga,Barcelona,Barcelona,0,2,150
+866,2018-03-10 17:30:00,Spanish first division,2018,Coliseum Alfonso P\u00e9rez,Getafe,Levante,Levante,0,1,395
+867,2018-03-10 15:15:00,Spanish first division,2018,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,Sevilla,Valencia,Valencia,0,2,284
+868,2018-03-10 12:00:00,Spanish first division,2018,Estadio Municipal de Ipur\u00faa,Eibar,Real Madrid,Real Madrid,1,2,383
+869,2018-03-09 20:00:00,Spanish first division,2018,Estadi Municipal de Montilivi,Girona,Deportivo La Coru\u00f1a,Girona,2,0,195
+870,2018-03-05 20:00:00,Spanish first division,2018,Estadio de Bala\u00eddos,Celta de Vigo,Las Palmas,Celta de Vigo,2,1,284
+871,2018-03-04 19:45:00,Spanish first division,2018,Estadio de Mestalla,Valencia,Real Betis,Valencia,2,0,239
+872,2018-03-04 17:30:00,Spanish first division,2018,Estadio Municipal de Anoeta,Real Sociedad,Deportivo Alav\u00e9s,Real Sociedad,2,1,150
+873,2018-03-04 15:15:00,Spanish first division,2018,Camp Nou,Barcelona,Atl\u00e9tico Madrid,Barcelona,1,0,405
+875,2018-03-03 19:45:00,Spanish first division,2018,Estadio Santiago Bernab\u00e9u,Real Madrid,Getafe,Real Madrid,3,1,551
+876,2018-03-03 17:30:00,Spanish first division,2018,Estadio Municipal de Butarque,Legan\u00e9s,M\u00e1laga,Legan\u00e9s,2,0,74
+878,2018-03-03 15:15:00,Spanish first division,2018,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,Sevilla,Athletic Club,Sevilla,2,0,195
+879,2018-03-03 12:00:00,Spanish first division,2018,Estadio de la Cer\u00e1mica,Villarreal,Girona,Girona,0,2,245
+880,2018-03-01 20:30:00,Spanish first division,2018,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Levante,Deportivo Alav\u00e9s,1,0,344
+883,2018-02-28 20:30:00,Spanish first division,2018,Estadio Wanda Metropolitano,Atl\u00e9tico Madrid,Legan\u00e9s,Atl\u00e9tico Madrid,4,0,16
+884,2018-02-28 20:30:00,Spanish first division,2018,Estadio Municipal de Ipur\u00faa,Eibar,Villarreal,Eibar,1,0,551
+885,2018-02-28 18:30:00,Spanish first division,2018,Coliseum Alfonso P\u00e9rez,Getafe,Deportivo La Coru\u00f1a,Getafe,3,0,383
+887,2018-02-28 18:30:00,Spanish first division,2018,Estadio La Rosaleda,M\u00e1laga,Sevilla,Sevilla,0,1,97
+888,2018-02-27 20:30:00,Spanish first division,2018,Estadi Municipal de Montilivi,Girona,Celta de Vigo,Girona,1,0,395
+889,2018-02-27 19:00:00,Spanish first division,2018,RCDE Stadium,Espanyol,Real Madrid,Espanyol,1,0,119
+891,2018-02-25 19:45:00,Spanish first division,2018,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,Sevilla,Atl\u00e9tico Madrid,Atl\u00e9tico Madrid,2,5,150
+892,2018-02-25 17:30:00,Spanish first division,2018,Estadio de Mestalla,Valencia,Real Sociedad,Valencia,2,1,232
+893,2018-02-25 15:15:00,Spanish first division,2018,San Mam\u00e9s Barria,Athletic Club,M\u00e1laga,Athletic Club,2,1,239
+894,2018-02-25 11:00:00,Spanish first division,2018,Estadio de la Cer\u00e1mica,Villarreal,Getafe,Villarreal,1,0,119
+895,2018-02-24 19:45:00,Spanish first division,2018,Camp Nou,Barcelona,Girona,Barcelona,6,1,533
+897,2018-02-24 15:15:00,Spanish first division,2018,Estadio Santiago Bernab\u00e9u,Real Madrid,Deportivo Alav\u00e9s,Real Madrid,4,0,16
+898,2018-02-24 12:00:00,Spanish first division,2018,Estadio de Bala\u00eddos,Celta de Vigo,Eibar,Celta de Vigo,2,0,97
+900,2018-02-21 17:45:00,Spanish first division,2018,Estadio Municipal de Butarque,Legan\u00e9s,Real Madrid,Real Madrid,1,3,555
+901,2018-02-19 20:00:00,Spanish first division,2018,Coliseum Alfonso P\u00e9rez,Getafe,Celta de Vigo,Getafe,3,0,232
+902,2018-02-18 19:45:00,Spanish first division,2018,Estadio Benito Villamar\u00edn,Real Betis,Real Madrid,Real Madrid,3,5,405
+904,2018-02-18 15:15:00,Spanish first division,2018,Estadio Wanda Metropolitano,Atl\u00e9tico Madrid,Athletic Club,Atl\u00e9tico Madrid,2,0,555
+905,2018-02-18 11:00:00,Spanish first division,2018,Estadio Municipal de Anoeta,Real Sociedad,Levante,Real Sociedad,3,0,155
+906,2018-02-17 19:45:00,Spanish first division,2018,Estadio La Rosaleda,M\u00e1laga,Valencia,Valencia,1,2,395
+907,2018-02-17 17:30:00,Spanish first division,2018,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Deportivo La Coru\u00f1a,Deportivo Alav\u00e9s,1,0,551
+908,2018-02-17 15:15:00,Spanish first division,2018,Estadio Municipal de Ipur\u00faa,Eibar,Barcelona,Barcelona,0,2,239
+909,2018-02-17 12:00:00,Spanish first division,2018,Estadio de Gran Canaria,Las Palmas,Sevilla,Sevilla,1,2,74
+910,2018-02-16 20:00:00,Spanish first division,2018,Estadi Municipal de Montilivi,Girona,Legan\u00e9s,Girona,3,0,68
+911,2018-02-12 20:00:00,Spanish first division,2018,Estadio Municipal de Riazor,Deportivo La Coru\u00f1a,Real Betis,Real Betis,0,1,97
+912,2018-02-11 19:45:00,Spanish first division,2018,Estadio de Mestalla,Valencia,Levante,Valencia,3,1,273
+915,2018-02-11 11:00:00,Spanish first division,2018,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,Sevilla,Girona,Sevilla,1,0,155
+916,2018-02-10 19:45:00,Spanish first division,2018,Estadio Santiago Bernab\u00e9u,Real Madrid,Real Sociedad,Real Madrid,5,2,239
+917,2018-02-10 17:30:00,Spanish first division,2018,Estadio Municipal de Butarque,Legan\u00e9s,Eibar,Eibar,0,1,232
+918,2018-02-10 15:15:00,Spanish first division,2018,Estadio La Rosaleda,M\u00e1laga,Atl\u00e9tico Madrid,Atl\u00e9tico Madrid,0,1,119
+919,2018-02-10 12:00:00,Spanish first division,2018,Estadio de la Cer\u00e1mica,Villarreal,Deportivo Alav\u00e9s,Deportivo Alav\u00e9s,1,2,395
+921,2018-02-05 20:00:00,Spanish first division,2018,Estadio de Gran Canaria,Las Palmas,M\u00e1laga,Las Palmas,1,0,284
+922,2018-02-04 19:45:00,Spanish first division,2018,Estadio Wanda Metropolitano,Atl\u00e9tico Madrid,Valencia,Atl\u00e9tico Madrid,1,0,74
+923,2018-02-04 17:30:00,Spanish first division,2018,Estadi Municipal de Montilivi,Girona,Athletic Club,Girona,2,0,383
+927,2018-02-03 17:30:00,Spanish first division,2018,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Celta de Vigo,Deportivo Alav\u00e9s,2,1,150
+928,2018-02-03 15:15:00,Spanish first division,2018,Estadio Benito Villamar\u00edn,Real Betis,Villarreal,Real Betis,2,1,533
+929,2018-02-03 12:00:00,Spanish first division,2018,Estadio Municipal de Ipur\u00faa,Eibar,Sevilla,Eibar,5,1,395
+930,2018-02-02 20:00:00,Spanish first division,2018,Estadio Municipal de Anoeta,Real Sociedad,Deportivo La Coru\u00f1a,Real Sociedad,5,0,195
+931,2018-01-29 20:00:00,Spanish first division,2018,Estadio de Bala\u00eddos,Celta de Vigo,Real Betis,Celta de Vigo,3,2,119
+932,2018-01-28 19:45:00,Spanish first division,2018,Camp Nou,Barcelona,Deportivo Alav\u00e9s,Barcelona,2,1,74
+934,2018-01-28 15:15:00,Spanish first division,2018,Estadio Wanda Metropolitano,Atl\u00e9tico Madrid,Las Palmas,Atl\u00e9tico Madrid,3,0,76
+935,2018-01-28 11:00:00,Spanish first division,2018,Estadio Municipal de Butarque,Legan\u00e9s,Espanyol,Legan\u00e9s,3,2,150
+936,2018-01-27 19:45:00,Spanish first division,2018,Estadio de la Cer\u00e1mica,Villarreal,Real Sociedad,Villarreal,4,2,97
+938,2018-01-27 15:15:00,Spanish first division,2018,Estadio de Mestalla,Valencia,Real Madrid,Real Madrid,1,4,16
+943,2018-01-21 17:30:00,Spanish first division,2018,Estadio Municipal de Anoeta,Real Sociedad,Celta de Vigo,Celta de Vigo,1,2,68
+944,2018-01-21 15:15:00,Spanish first division,2018,Estadio Santiago Bernab\u00e9u,Real Madrid,Deportivo La Coru\u00f1a,Real Madrid,7,1,344
+946,2018-01-20 19:45:00,Spanish first division,2018,Estadio de Gran Canaria,Las Palmas,Valencia,Las Palmas,2,1,383
+947,2018-01-20 17:30:00,Spanish first division,2018,Estadio de la Cer\u00e1mica,Villarreal,Levante,Villarreal,2,1,555
+951,2018-01-15 20:00:00,Spanish first division,2018,Estadio Benito Villamar\u00edn,Real Betis,Legan\u00e9s,Real Betis,3,2,74
+952,2018-01-14 19:45:00,Spanish first division,2018,Estadio Municipal de Anoeta,Real Sociedad,Barcelona,Barcelona,2,4,555
+954,2018-01-14 15:15:00,Spanish first division,2018,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Sevilla,Deportivo Alav\u00e9s,1,0,119
+955,2018-01-14 11:00:00,Spanish first division,2018,Estadio Ciudad de Valencia,Levante,Celta de Vigo,Celta de Vigo,0,1,7
+956,2018-01-13 19:45:00,Spanish first division,2018,Estadio Municipal de Riazor,Deportivo La Coru\u00f1a,Valencia,Valencia,1,2,533
+957,2018-01-13 17:30:00,Spanish first division,2018,Estadio Municipal de Ipur\u00faa,Eibar,Atl\u00e9tico Madrid,Atl\u00e9tico Madrid,0,1,68
+958,2018-01-13 15:15:00,Spanish first division,2018,Estadio Santiago Bernab\u00e9u,Real Madrid,Villarreal,Villarreal,0,1,195
+959,2018-01-13 12:00:00,Spanish first division,2018,Estadi Municipal de Montilivi,Girona,Las Palmas,Girona,6,0,551
+960,2018-01-12 20:00:00,Spanish first division,2018,Coliseum Alfonso P\u00e9rez,Getafe,M\u00e1laga,Getafe,1,0,150
+961,2018-01-08 20:00:00,Spanish first division,2018,Estadio La Rosaleda,M\u00e1laga,Espanyol,Espanyol,0,1,68
+964,2018-01-07 17:30:00,Spanish first division,2018,San Mam\u00e9s Barria,Athletic Club,Deportivo Alav\u00e9s,Athletic Club,2,0,217
+965,2018-01-07 15:15:00,Spanish first division,2018,Camp Nou,Barcelona,Levante,Barcelona,3,0,97
+966,2018-01-07 11:00:00,Spanish first division,2018,Estadio Municipal de Butarque,Legan\u00e9s,Real Sociedad,Legan\u00e9s,1,0,16
+967,2018-01-06 19:45:00,Spanish first division,2018,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,Sevilla,Real Betis,Real Betis,3,5,405
+969,2018-01-06 15:15:00,Spanish first division,2018,Estadio de Mestalla,Valencia,Girona,Valencia,2,1,344
+970,2018-01-06 12:00:00,Spanish first division,2018,Estadio Wanda Metropolitano,Atl\u00e9tico Madrid,Getafe,Atl\u00e9tico Madrid,2,0,383
+971,2017-12-23 17:30:00,Spanish first division,2017,Estadio Municipal de Riazor,Deportivo La Coru\u00f1a,Celta de Vigo,Celta de Vigo,1,3,195
+972,2017-12-23 15:15:00,Spanish first division,2017,Estadio de Mestalla,Valencia,Villarreal,Villarreal,0,1,395
+973,2017-12-23 12:00:00,Spanish first division,2017,Estadio Santiago Bernab\u00e9u,Real Madrid,Barcelona,Barcelona,0,3,119
+974,2017-12-22 20:30:00,Spanish first division,2017,RCDE Stadium,Espanyol,Atl\u00e9tico Madrid,Espanyol,1,0,551
+975,2017-12-22 18:30:00,Spanish first division,2017,Estadio Benito Villamar\u00edn,Real Betis,Athletic Club,Athletic Club,0,2,150
+976,2017-12-21 20:30:00,Spanish first division,2017,Estadio de Mendizorroza,Deportivo Alav\u00e9s,M\u00e1laga,Deportivo Alav\u00e9s,1,0,7
+977,2017-12-21 18:30:00,Spanish first division,2017,Estadio Municipal de Ipur\u00faa,Eibar,Girona,Eibar,4,1,74
+978,2017-12-20 20:30:00,Spanish first division,2017,Estadio Municipal de Anoeta,Real Sociedad,Sevilla,Real Sociedad,3,1,239
+979,2017-12-20 18:30:00,Spanish first division,2017,Coliseum Alfonso P\u00e9rez,Getafe,Las Palmas,Getafe,2,0,284
+981,2017-12-18 20:00:00,Spanish first division,2017,Estadio La Rosaleda,M\u00e1laga,Real Betis,Real Betis,0,2,533
+982,2017-12-17 19:45:00,Spanish first division,2017,Camp Nou,Barcelona,Deportivo La Coru\u00f1a,Barcelona,4,0,68
+984,2017-12-17 15:15:00,Spanish first division,2017,Estadio de Bala\u00eddos,Celta de Vigo,Villarreal,Villarreal,0,1,16
+985,2017-12-17 11:00:00,Spanish first division,2017,Estadi Municipal de Montilivi,Girona,Getafe,Girona,1,0,195
+986,2017-12-16 19:45:00,Spanish first division,2017,Estadio Wanda Metropolitano,Atl\u00e9tico Madrid,Deportivo Alav\u00e9s,Atl\u00e9tico Madrid,1,0,405
+987,2017-12-16 17:30:00,Spanish first division,2017,Estadio Municipal de Ipur\u00faa,Eibar,Valencia,Eibar,2,1,232
+990,2017-12-11 20:00:00,Spanish first division,2017,RCDE Stadium,Espanyol,Girona,Girona,0,1,555
+991,2017-12-10 19:45:00,Spanish first division,2017,Estadio de la Cer\u00e1mica,Villarreal,Barcelona,Barcelona,0,2,284
+992,2017-12-10 17:30:00,Spanish first division,2017,Estadio Ciudad de Valencia,Levante,Athletic Club,Athletic Club,1,2,16
+993,2017-12-10 15:15:00,Spanish first division,2017,Estadio Benito Villamar\u00edn,Real Betis,Atl\u00e9tico Madrid,Atl\u00e9tico Madrid,0,1,239
+994,2017-12-10 11:00:00,Spanish first division,2017,Estadio Municipal de Anoeta,Real Sociedad,M\u00e1laga,M\u00e1laga,0,2,97
+995,2017-12-09 19:45:00,Spanish first division,2017,Estadio de Mestalla,Valencia,Celta de Vigo,Valencia,2,1,383
+996,2017-12-09 17:30:00,Spanish first division,2017,Estadio Municipal de Riazor,Deportivo La Coru\u00f1a,Legan\u00e9s,Deportivo La Coru\u00f1a,1,0,551
+997,2017-12-09 15:15:00,Spanish first division,2017,Estadio Santiago Bernab\u00e9u,Real Madrid,Sevilla,Real Madrid,5,0,150
+999,2017-12-08 20:00:00,Spanish first division,2017,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Las Palmas,Deportivo Alav\u00e9s,2,0,273
+1000,2017-12-04 20:00:00,Spanish first division,2017,Estadi Municipal de Montilivi,Girona,Deportivo Alav\u00e9s,Deportivo Alav\u00e9s,2,3,533
+1001,2017-12-03 19:45:00,Spanish first division,2017,Estadio de Gran Canaria,Las Palmas,Real Betis,Las Palmas,1,0,16
+1002,2017-12-03 17:30:00,Spanish first division,2017,Estadio Municipal de Ipur\u00faa,Eibar,Espanyol,Eibar,3,1,195
+1003,2017-12-03 15:15:00,Spanish first division,2017,Coliseum Alfonso P\u00e9rez,Getafe,Valencia,Getafe,1,0,273
+1004,2017-12-03 11:00:00,Spanish first division,2017,Estadio Municipal de Butarque,Legan\u00e9s,Villarreal,Legan\u00e9s,3,1,344
+1006,2017-12-02 17:30:00,Spanish first division,2017,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,Sevilla,Deportivo La Coru\u00f1a,Sevilla,2,0,119
+1007,2017-12-02 15:15:00,Spanish first division,2017,Estadio Wanda Metropolitano,Atl\u00e9tico Madrid,Real Sociedad,Atl\u00e9tico Madrid,2,1,155
+1010,2017-11-27 20:00:00,Spanish first division,2017,RCDE Stadium,Espanyol,Getafe,Espanyol,1,0,150
+1012,2017-11-26 17:30:00,Spanish first division,2017,Estadio de la Cer\u00e1mica,Villarreal,Sevilla,Sevilla,2,3,533
+1015,2017-11-25 19:45:00,Spanish first division,2017,Estadio Ciudad de Valencia,Levante,Atl\u00e9tico Madrid,Atl\u00e9tico Madrid,0,5,395
+1017,2017-11-25 15:15:00,Spanish first division,2017,Estadio Santiago Bernab\u00e9u,Real Madrid,M\u00e1laga,Real Madrid,3,2,405
+1018,2017-11-25 12:00:00,Spanish first division,2017,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Eibar,Eibar,1,2,383
+1019,2017-11-24 20:00:00,Spanish first division,2017,Estadio de Bala\u00eddos,Celta de Vigo,Legan\u00e9s,Celta de Vigo,1,0,239
+1020,2017-11-20 20:00:00,Spanish first division,2017,Estadio Municipal de Ipur\u00faa,Eibar,Real Betis,Eibar,5,0,555
+1022,2017-11-19 17:30:00,Spanish first division,2017,Estadio de Gran Canaria,Las Palmas,Levante,Levante,0,2,551
+1023,2017-11-19 15:15:00,Spanish first division,2017,RCDE Stadium,Espanyol,Valencia,Valencia,0,2,239
+1024,2017-11-19 11:00:00,Spanish first division,2017,Estadio La Rosaleda,M\u00e1laga,Deportivo La Coru\u00f1a,M\u00e1laga,3,2,150
+1026,2017-11-18 17:30:00,Spanish first division,2017,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,Sevilla,Celta de Vigo,Sevilla,2,1,97
+1027,2017-11-18 15:15:00,Spanish first division,2017,Estadio Municipal de Butarque,Legan\u00e9s,Barcelona,Barcelona,0,3,195
+1028,2017-11-18 12:00:00,Spanish first division,2017,Coliseum Alfonso P\u00e9rez,Getafe,Deportivo Alav\u00e9s,Getafe,4,1,155
+1030,2017-11-05 19:45:00,Spanish first division,2017,Estadio Santiago Bernab\u00e9u,Real Madrid,Las Palmas,Real Madrid,3,0,119
+1031,2017-11-05 17:30:00,Spanish first division,2017,Estadio Municipal de Anoeta,Real Sociedad,Eibar,Real Sociedad,3,1,395
+1032,2017-11-05 17:30:00,Spanish first division,2017,Estadio de la Cer\u00e1mica,Villarreal,M\u00e1laga,Villarreal,2,0,16
+1033,2017-11-05 15:15:00,Spanish first division,2017,Estadio de Bala\u00eddos,Celta de Vigo,Athletic Club,Celta de Vigo,3,1,405
+1034,2017-11-05 11:00:00,Spanish first division,2017,Estadio Ciudad de Valencia,Levante,Girona,Girona,1,2,383
+1035,2017-11-04 19:45:00,Spanish first division,2017,Camp Nou,Barcelona,Sevilla,Barcelona,2,1,555
+1036,2017-11-04 17:30:00,Spanish first division,2017,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Espanyol,Deportivo Alav\u00e9s,1,0,232
+1037,2017-11-04 15:15:00,Spanish first division,2017,Estadio Municipal de Riazor,Deportivo La Coru\u00f1a,Atl\u00e9tico Madrid,Atl\u00e9tico Madrid,0,1,7
+1038,2017-11-04 12:00:00,Spanish first division,2017,Estadio de Mestalla,Valencia,Legan\u00e9s,Valencia,3,0,284
+1040,2017-10-30 20:00:00,Spanish first division,2017,RCDE Stadium,Espanyol,Real Betis,Espanyol,1,0,74
+1041,2017-10-30 20:00:00,Spanish first division,2017,Estadio de Gran Canaria,Las Palmas,Deportivo La Coru\u00f1a,Deportivo La Coru\u00f1a,1,3,97
+1042,2017-10-29 19:45:00,Spanish first division,2017,Estadio La Rosaleda,M\u00e1laga,Celta de Vigo,M\u00e1laga,2,1,155
+1044,2017-10-29 15:15:00,Spanish first division,2017,Estadi Municipal de Montilivi,Girona,Real Madrid,Girona,2,1,239
+1045,2017-10-29 11:00:00,Spanish first division,2017,Coliseum Alfonso P\u00e9rez,Getafe,Real Sociedad,Getafe,2,1,119
+1046,2017-10-28 20:30:00,Spanish first division,2017,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,Sevilla,Legan\u00e9s,Sevilla,2,1,273
+1047,2017-10-28 18:45:00,Spanish first division,2017,San Mam\u00e9s Barria,Athletic Club,Barcelona,Barcelona,0,2,150
+1049,2017-10-28 11:00:00,Spanish first division,2017,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Valencia,Valencia,1,2,555
+1050,2017-10-23 19:00:00,Spanish first division,2017,Estadio Municipal de Riazor,Deportivo La Coru\u00f1a,Girona,Girona,1,2,405
+1052,2017-10-22 18:45:00,Spanish first division,2017,Estadio Santiago Bernab\u00e9u,Real Madrid,Eibar,Real Madrid,3,0,7
+1053,2017-10-22 16:30:00,Spanish first division,2017,Estadio Municipal de Butarque,Legan\u00e9s,Athletic Club,Legan\u00e9s,1,0,68
+1054,2017-10-22 14:15:00,Spanish first division,2017,Estadio de Bala\u00eddos,Celta de Vigo,Atl\u00e9tico Madrid,Atl\u00e9tico Madrid,0,1,383
+1055,2017-10-22 10:00:00,Spanish first division,2017,Estadio de la Cer\u00e1mica,Villarreal,Las Palmas,Villarreal,4,0,344
+1056,2017-10-21 18:45:00,Spanish first division,2017,Camp Nou,Barcelona,M\u00e1laga,Barcelona,2,0,232
+1057,2017-10-21 16:30:00,Spanish first division,2017,Estadio de Mestalla,Valencia,Sevilla,Valencia,4,0,16
+1058,2017-10-21 14:15:00,Spanish first division,2017,Estadio Benito Villamar\u00edn,Real Betis,Deportivo Alav\u00e9s,Real Betis,2,0,395
+1060,2017-10-16 19:00:00,Spanish first division,2017,Estadio de Gran Canaria,Las Palmas,Celta de Vigo,Celta de Vigo,2,5,273
+1061,2017-10-15 18:45:00,Spanish first division,2017,Estadio Benito Villamar\u00edn,Real Betis,Valencia,Valencia,3,6,119
+1062,2017-10-15 16:30:00,Spanish first division,2017,Estadio La Rosaleda,M\u00e1laga,Legan\u00e9s,Legan\u00e9s,0,2,555
+1063,2017-10-15 14:15:00,Spanish first division,2017,Estadi Municipal de Montilivi,Girona,Villarreal,Villarreal,1,2,97
+1066,2017-10-14 16:30:00,Spanish first division,2017,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Real Sociedad,Real Sociedad,0,2,533
+1067,2017-10-14 14:15:00,Spanish first division,2017,Coliseum Alfonso P\u00e9rez,Getafe,Real Madrid,Real Madrid,1,2,150
+1068,2017-10-14 11:00:00,Spanish first division,2017,San Mam\u00e9s Barria,Athletic Club,Sevilla,Athletic Club,1,0,74
+1070,2017-10-01 18:45:00,Spanish first division,2017,Estadio Santiago Bernab\u00e9u,Real Madrid,Espanyol,Real Madrid,2,0,555
+1071,2017-10-01 16:30:00,Spanish first division,2017,Estadio de Mestalla,Valencia,Athletic Club,Valencia,3,2,239
+1072,2017-10-01 16:30:00,Spanish first division,2017,Estadio de la Cer\u00e1mica,Villarreal,Eibar,Villarreal,3,0,551
+1073,2017-10-01 14:15:00,Spanish first division,2017,Camp Nou,Barcelona,Las Palmas,Barcelona,3,0,383
+1076,2017-09-30 16:30:00,Spanish first division,2017,Estadio Ciudad de Valencia,Levante,Deportivo Alav\u00e9s,Deportivo Alav\u00e9s,0,2,344
+1077,2017-09-30 14:15:00,Spanish first division,2017,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,Sevilla,M\u00e1laga,Sevilla,2,0,395
+1078,2017-09-30 11:00:00,Spanish first division,2017,Estadio Municipal de Riazor,Deportivo La Coru\u00f1a,Getafe,Deportivo La Coru\u00f1a,2,1,16
+1080,2017-09-25 19:00:00,Spanish first division,2017,Estadio Benito Villamar\u00edn,Real Betis,Levante,Real Betis,4,0,232
+1081,2017-09-24 18:45:00,Spanish first division,2017,Estadio Municipal de Anoeta,Real Sociedad,Valencia,Valencia,2,3,155
+1082,2017-09-24 16:30:00,Spanish first division,2017,Estadio de Gran Canaria,Las Palmas,Legan\u00e9s,Legan\u00e9s,0,2,533
+1083,2017-09-24 16:30:00,Spanish first division,2017,Estadio Municipal de Ipur\u00faa,Eibar,Celta de Vigo,Celta de Vigo,0,4,344
+1084,2017-09-24 14:15:00,Spanish first division,2017,Coliseum Alfonso P\u00e9rez,Getafe,Villarreal,Getafe,4,0,74
+1085,2017-09-24 10:00:00,Spanish first division,2017,RCDE Stadium,Espanyol,Deportivo La Coru\u00f1a,Espanyol,4,1,284
+1086,2017-09-23 18:45:00,Spanish first division,2017,Estadi Municipal de Montilivi,Girona,Barcelona,Barcelona,0,3,119
+1088,2017-09-23 14:15:00,Spanish first division,2017,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Real Madrid,Real Madrid,1,2,195
+1089,2017-09-23 11:00:00,Spanish first division,2017,Estadio Wanda Metropolitano,Atl\u00e9tico Madrid,Sevilla,Atl\u00e9tico Madrid,2,0,150
+1090,2017-09-21 20:00:00,Spanish first division,2017,Estadio Ciudad de Valencia,Levante,Real Sociedad,Levante,3,0,405
+1093,2017-09-20 20:00:00,Spanish first division,2017,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,Sevilla,Las Palmas,Sevilla,1,0,555
+1094,2017-09-20 20:00:00,Spanish first division,2017,Estadio Santiago Bernab\u00e9u,Real Madrid,Real Betis,Real Betis,0,1,68
+1095,2017-09-20 19:00:00,Spanish first division,2017,Estadio Municipal de Riazor,Deportivo La Coru\u00f1a,Deportivo Alav\u00e9s,Deportivo La Coru\u00f1a,1,0,273
+1096,2017-09-20 18:00:00,Spanish first division,2017,San Mam\u00e9s Barria,Athletic Club,Atl\u00e9tico Madrid,Atl\u00e9tico Madrid,1,2,16
+1098,2017-09-19 20:00:00,Spanish first division,2017,Camp Nou,Barcelona,Eibar,Barcelona,6,1,239
+1099,2017-09-19 18:00:00,Spanish first division,2017,Estadio de Mestalla,Valencia,M\u00e1laga,Valencia,5,0,7
+1100,2017-09-18 19:00:00,Spanish first division,2017,RCDE Stadium,Espanyol,Celta de Vigo,Espanyol,2,1,533
+1101,2017-09-17 18:45:00,Spanish first division,2017,Estadio Municipal de Anoeta,Real Sociedad,Real Madrid,Real Madrid,1,3,74
+1102,2017-09-17 16:30:00,Spanish first division,2017,Estadio de Gran Canaria,Las Palmas,Athletic Club,Las Palmas,1,0,232
+1103,2017-09-17 14:15:00,Spanish first division,2017,Estadi Municipal de Montilivi,Girona,Sevilla,Sevilla,0,1,284
+1104,2017-09-17 10:00:00,Spanish first division,2017,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Villarreal,Villarreal,0,3,155
+1105,2017-09-16 18:45:00,Spanish first division,2017,Estadio Wanda Metropolitano,Atl\u00e9tico Madrid,M\u00e1laga,Atl\u00e9tico Madrid,1,0,119
+1106,2017-09-16 16:30:00,Spanish first division,2017,Estadio Benito Villamar\u00edn,Real Betis,Deportivo La Coru\u00f1a,Real Betis,2,1,195
+1107,2017-09-16 14:15:00,Spanish first division,2017,Coliseum Alfonso P\u00e9rez,Getafe,Barcelona,Barcelona,1,2,344
+1109,2017-09-15 19:00:00,Spanish first division,2017,Estadio Municipal de Ipur\u00faa,Eibar,Legan\u00e9s,Eibar,1,0,150
+1110,2017-09-11 19:00:00,Spanish first division,2017,Estadio La Rosaleda,M\u00e1laga,Las Palmas,Las Palmas,1,3,16
+1111,2017-09-10 18:45:00,Spanish first division,2017,Estadio de la Cer\u00e1mica,Villarreal,Real Betis,Villarreal,3,1,273
+1112,2017-09-10 16:30:00,Spanish first division,2017,Estadio de Bala\u00eddos,Celta de Vigo,Deportivo Alav\u00e9s,Celta de Vigo,1,0,551
+1113,2017-09-10 14:15:00,Spanish first division,2017,San Mam\u00e9s Barria,Athletic Club,Girona,Athletic Club,2,0,395
+1114,2017-09-10 10:00:00,Spanish first division,2017,Estadio Municipal de Riazor,Deportivo La Coru\u00f1a,Real Sociedad,Real Sociedad,2,4,383
+1115,2017-09-09 18:45:00,Spanish first division,2017,Camp Nou,Barcelona,Espanyol,Barcelona,5,0,405
+1116,2017-09-09 16:30:00,Spanish first division,2017,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,Sevilla,Eibar,Sevilla,3,0,68
+1119,2017-09-08 19:00:00,Spanish first division,2017,Estadio Municipal de Butarque,Legan\u00e9s,Getafe,Getafe,1,2,7
+1121,2017-08-27 18:15:00,Spanish first division,2017,Coliseum Alfonso P\u00e9rez,Getafe,Sevilla,Sevilla,0,1,195
+1122,2017-08-27 16:15:00,Spanish first division,2017,RCDE Stadium,Espanyol,Legan\u00e9s,Legan\u00e9s,0,1,232
+1123,2017-08-27 16:15:00,Spanish first division,2017,Estadio Municipal de Ipur\u00faa,Eibar,Athletic Club,Athletic Club,0,1,119
+1124,2017-08-26 20:15:00,Spanish first division,2017,Estadio de Gran Canaria,Las Palmas,Atl\u00e9tico Madrid,Atl\u00e9tico Madrid,1,5,74
+1126,2017-08-26 18:15:00,Spanish first division,2017,Estadi Municipal de Montilivi,Girona,M\u00e1laga,Girona,1,0,155
+1127,2017-08-26 16:15:00,Spanish first division,2017,Estadio de Mendizorroza,Deportivo Alav\u00e9s,Barcelona,Barcelona,0,2,97
+1128,2017-08-25 20:00:00,Spanish first division,2017,Estadio Benito Villamar\u00edn,Real Betis,Celta de Vigo,Real Betis,2,1,284
+1129,2017-08-25 18:15:00,Spanish first division,2017,Estadio Municipal de Anoeta,Real Sociedad,Villarreal,Real Sociedad,3,0,16
+1130,2017-08-21 20:00:00,Spanish first division,2017,Estadio La Rosaleda,M\u00e1laga,Eibar,Eibar,0,1,273
+1131,2017-08-21 18:15:00,Spanish first division,2017,Estadio Ciudad de Valencia,Levante,Villarreal,Levante,1,0,7
+1132,2017-08-20 20:15:00,Spanish first division,2017,Estadio Municipal de Riazor,Deportivo La Coru\u00f1a,Real Madrid,Real Madrid,0,3,555
+1133,2017-08-20 18:15:00,Spanish first division,2017,Camp Nou,Barcelona,Real Betis,Barcelona,2,0,395
+1137,2017-08-19 16:15:00,Spanish first division,2017,Estadio de Bala\u00eddos,Celta de Vigo,Real Sociedad,Real Sociedad,2,3,68
+1138,2017-08-18 20:15:00,Spanish first division,2017,Estadio de Mestalla,Valencia,Las Palmas,Valencia,1,0,405
+1139,2017-08-18 18:15:00,Spanish first division,2017,Estadio Municipal de Butarque,Legan\u00e9s,Deportivo Alav\u00e9s,Legan\u00e9s,1,0,383
+1140,2018-05-13 14:00:00,English first division,2018,Turf Moor,Burnley,AFC Bournemouth,AFC Bournemouth,1,2,110
+1141,2018-05-13 14:00:00,English first division,2018,Selhurst Park,Crystal Palace,West Bromwich Albion,Crystal Palace,2,0,495
+1143,2018-05-13 14:00:00,English first division,2018,Anfield,Liverpool,Brighton & Hove Albion,Liverpool,4,0,502
+1144,2018-05-13 14:00:00,English first division,2018,Old Trafford,Manchester United,Watford,Manchester United,1,0,19
+1145,2018-05-13 14:00:00,English first division,2018,St. James' Park,Newcastle United,Chelsea,Newcastle United,3,0,482
+1146,2018-05-13 14:00:00,English first division,2018,St. Mary's Stadium,Southampton,Manchester City,Manchester City,0,1,70
+1147,2018-05-13 14:00:00,English first division,2018,Liberty Stadium,Swansea City,Stoke City,Stoke City,1,2,433
+1148,2018-05-13 14:00:00,English first division,2018,Wembley Stadium,Tottenham Hotspur,Leicester City,Tottenham Hotspur,5,4,44
+1149,2018-05-13 14:00:00,English first division,2018,London Stadium,West Ham United,Everton,West Ham United,3,1,11
+1151,2018-05-09 19:00:00,English first division,2018,Etihad Stadium,Manchester City,Brighton & Hove Albion,Manchester City,3,1,110
+1152,2018-05-09 19:00:00,English first division,2018,Wembley Stadium,Tottenham Hotspur,Newcastle United,Tottenham Hotspur,1,0,169
+1153,2018-05-09 18:45:00,English first division,2018,King Power Stadium,Leicester City,Arsenal,Leicester City,3,1,11
+1156,2018-05-06 15:30:00,English first division,2018,Emirates Stadium,Arsenal,Burnley,Arsenal,5,0,70
+1157,2018-05-06 15:30:00,English first division,2018,Stamford Bridge,Chelsea,Liverpool,Chelsea,1,0,433
+1160,2018-05-05 14:00:00,English first division,2018,Vitality Stadium,AFC Bournemouth,Swansea City,AFC Bournemouth,1,0,502
+1161,2018-05-05 14:00:00,English first division,2018,King Power Stadium,Leicester City,West Ham United,West Ham United,0,2,431
+1162,2018-05-05 14:00:00,English first division,2018,Vicarage Road Stadium,Watford,Newcastle United,Watford,2,1,162
+1163,2018-05-05 14:00:00,English first division,2018,The Hawthorns,West Bromwich Albion,Tottenham Hotspur,West Bromwich Albion,1,0,197
+1164,2018-05-05 11:30:00,English first division,2018,Bet365 Stadium,Stoke City,Crystal Palace,Crystal Palace,1,2,482
+1165,2018-05-04 19:00:00,English first division,2018,The American Express Community Stadium,Brighton & Hove Albion,Manchester United,Brighton & Hove Albion,1,0,44
+1167,2018-04-29 15:30:00,English first division,2018,Old Trafford,Manchester United,Arsenal,Manchester United,2,1,502
+1168,2018-04-29 13:15:00,English first division,2018,London Stadium,West Ham United,Manchester City,Manchester City,1,4,169
+1169,2018-04-28 16:30:00,English first division,2018,Liberty Stadium,Swansea City,Chelsea,Chelsea,0,1,495
+1171,2018-04-28 14:00:00,English first division,2018,Selhurst Park,Crystal Palace,Leicester City,Crystal Palace,5,0,219
+1172,2018-04-28 14:00:00,English first division,2018,The John Smith's Stadium,Huddersfield Town,Everton,Everton,0,2,429
+1173,2018-04-28 14:00:00,English first division,2018,St. James' Park,Newcastle United,West Bromwich Albion,West Bromwich Albion,0,1,393
+1174,2018-04-28 14:00:00,English first division,2018,St. Mary's Stadium,Southampton,AFC Bournemouth,Southampton,2,1,433
+1176,2018-04-23 19:00:00,English first division,2018,Goodison Park,Everton,Newcastle United,Everton,1,0,378
+1177,2018-04-22 15:30:00,English first division,2018,Etihad Stadium,Manchester City,Swansea City,Manchester City,5,0,44
+1178,2018-04-22 12:30:00,English first division,2018,Emirates Stadium,Arsenal,West Ham United,Arsenal,4,1,19
+1182,2018-04-19 18:45:00,English first division,2018,Turf Moor,Burnley,Chelsea,Chelsea,1,2,378
+1184,2018-04-18 18:45:00,English first division,2018,Vitality Stadium,AFC Bournemouth,Manchester United,Manchester United,0,2,11
+1187,2018-04-15 15:00:00,English first division,2018,Old Trafford,Manchester United,West Bromwich Albion,West Bromwich Albion,0,1,110
+1188,2018-04-15 12:30:00,English first division,2018,St. James' Park,Newcastle United,Arsenal,Newcastle United,2,1,433
+1189,2018-04-14 18:45:00,English first division,2018,Wembley Stadium,Tottenham Hotspur,Manchester City,Manchester City,1,3,495
+1190,2018-04-14 16:30:00,English first division,2018,Anfield,Liverpool,AFC Bournemouth,Liverpool,3,0,431
+1191,2018-04-14 14:00:00,English first division,2018,Turf Moor,Burnley,Leicester City,Burnley,2,1,482
+1192,2018-04-14 14:00:00,English first division,2018,Selhurst Park,Crystal Palace,Brighton & Hove Albion,Crystal Palace,3,2,70
+1193,2018-04-14 14:00:00,English first division,2018,The John Smith's Stadium,Huddersfield Town,Watford,Huddersfield Town,1,0,44
+1195,2018-04-14 11:30:00,English first division,2018,St. Mary's Stadium,Southampton,Chelsea,Chelsea,2,3,219
+1197,2018-04-08 13:15:00,English first division,2018,Emirates Stadium,Arsenal,Southampton,Arsenal,3,2,70
+1198,2018-04-07 16:30:00,English first division,2018,Etihad Stadium,Manchester City,Manchester United,Manchester United,2,3,482
+1201,2018-04-07 14:00:00,English first division,2018,King Power Stadium,Leicester City,Newcastle United,Newcastle United,1,2,518
+1202,2018-04-07 14:00:00,English first division,2018,Bet365 Stadium,Stoke City,Tottenham Hotspur,Tottenham Hotspur,1,2,11
+1203,2018-04-07 14:00:00,English first division,2018,Vicarage Road Stadium,Watford,Burnley,Burnley,1,2,110
+1206,2018-04-01 15:00:00,English first division,2018,Stamford Bridge,Chelsea,Tottenham Hotspur,Tottenham Hotspur,1,3,70
+1207,2018-04-01 12:30:00,English first division,2018,Emirates Stadium,Arsenal,Stoke City,Arsenal,3,0,44
+1208,2018-03-31 16:30:00,English first division,2018,Goodison Park,Everton,Manchester City,Manchester City,1,3,110
+1209,2018-03-31 14:00:00,English first division,2018,London Stadium,West Ham United,Southampton,West Ham United,3,0,495
+1210,2018-03-31 14:00:00,English first division,2018,The American Express Community Stadium,Brighton & Hove Albion,Leicester City,Leicester City,0,2,431
+1211,2018-03-31 14:00:00,English first division,2018,Old Trafford,Manchester United,Swansea City,Manchester United,2,0,378
+1212,2018-03-31 14:00:00,English first division,2018,St. James' Park,Newcastle United,Huddersfield Town,Newcastle United,1,0,482
+1214,2018-03-31 14:00:00,English first division,2018,The Hawthorns,West Bromwich Albion,Burnley,Burnley,1,2,429
+1215,2018-03-31 11:30:00,English first division,2018,Selhurst Park,Crystal Palace,Liverpool,Liverpool,1,2,169
+1216,2018-03-17 17:30:00,English first division,2018,Anfield,Liverpool,Watford,Liverpool,5,0,433
+1217,2018-03-17 14:00:00,English first division,2018,Vitality Stadium,AFC Bournemouth,West Bromwich Albion,AFC Bournemouth,2,1,11
+1218,2018-03-17 15:00:00,English first division,2018,The John Smith's Stadium,Huddersfield Town,Crystal Palace,Crystal Palace,0,2,219
+1219,2018-03-17 14:00:00,English first division,2018,Bet365 Stadium,Stoke City,Everton,Everton,1,2,482
+1220,2018-03-12 20:00:00,English first division,2018,Bet365 Stadium,Stoke City,Manchester City,Manchester City,0,2,495
+1221,2018-03-11 16:00:00,English first division,2018,Vitality Stadium,AFC Bournemouth,Tottenham Hotspur,Tottenham Hotspur,1,4,219
+1222,2018-03-11 13:30:00,English first division,2018,Emirates Stadium,Arsenal,Watford,Arsenal,3,0,482
+1223,2018-03-10 17:30:00,English first division,2018,Stamford Bridge,Chelsea,Crystal Palace,Chelsea,2,1,433
+1226,2018-03-10 15:00:00,English first division,2018,St. James' Park,Newcastle United,Southampton,Newcastle United,3,0,70
+1227,2018-03-10 15:00:00,English first division,2018,The Hawthorns,West Bromwich Albion,Leicester City,Leicester City,1,4,378
+1228,2018-03-10 15:00:00,English first division,2018,London Stadium,West Ham United,Burnley,Burnley,0,3,19
+1229,2018-03-10 12:30:00,English first division,2018,Old Trafford,Manchester United,Liverpool,Manchester United,2,1,44
+1230,2018-03-05 20:00:00,English first division,2018,Selhurst Park,Crystal Palace,Manchester United,Manchester United,2,3,169
+1232,2018-03-04 13:30:00,English first division,2018,The American Express Community Stadium,Brighton & Hove Albion,Arsenal,Brighton & Hove Albion,2,1,518
+1233,2018-03-03 17:30:00,English first division,2018,Anfield,Liverpool,Newcastle United,Liverpool,2,0,11
+1236,2018-03-03 15:00:00,English first division,2018,Liberty Stadium,Swansea City,West Ham United,Swansea City,4,1,482
+1237,2018-03-03 15:00:00,English first division,2018,Wembley Stadium,Tottenham Hotspur,Huddersfield Town,Tottenham Hotspur,2,0,502
+1238,2018-03-03 15:00:00,English first division,2018,Vicarage Road Stadium,Watford,West Bromwich Albion,Watford,1,0,110
+1239,2018-03-03 12:30:00,English first division,2018,Turf Moor,Burnley,Everton,Burnley,2,1,431
+1240,2018-03-01 19:45:00,English first division,2018,Emirates Stadium,Arsenal,Manchester City,Manchester City,0,3,70
+1241,2018-02-25 14:05:00,English first division,2018,Old Trafford,Manchester United,Chelsea,Manchester United,2,1,482
+1242,2018-02-25 12:00:00,English first division,2018,Selhurst Park,Crystal Palace,Tottenham Hotspur,Tottenham Hotspur,0,1,502
+1245,2018-02-24 15:00:00,English first division,2018,The American Express Community Stadium,Brighton & Hove Albion,Swansea City,Brighton & Hove Albion,4,1,219
+1247,2018-02-24 15:00:00,English first division,2018,Anfield,Liverpool,West Ham United,Liverpool,4,1,518
+1248,2018-02-24 15:00:00,English first division,2018,The Hawthorns,West Bromwich Albion,Huddersfield Town,Huddersfield Town,1,2,495
+1250,2018-02-12 20:00:00,English first division,2018,Stamford Bridge,Chelsea,West Bromwich Albion,Chelsea,3,0,19
+1251,2018-02-11 16:30:00,English first division,2018,St. Mary's Stadium,Southampton,Liverpool,Liverpool,0,2,482
+1252,2018-02-11 14:15:00,English first division,2018,St. James' Park,Newcastle United,Manchester United,Newcastle United,1,0,44
+1254,2018-02-10 17:30:00,English first division,2018,Etihad Stadium,Manchester City,Leicester City,Manchester City,5,1,197
+1255,2018-02-10 15:00:00,English first division,2018,Goodison Park,Everton,Crystal Palace,Everton,3,1,495
+1257,2018-02-10 15:00:00,English first division,2018,Liberty Stadium,Swansea City,Burnley,Swansea City,1,0,70
+1258,2018-02-10 15:00:00,English first division,2018,London Stadium,West Ham United,Watford,West Ham United,2,0,11
+1259,2018-02-10 12:30:00,English first division,2018,Wembley Stadium,Tottenham Hotspur,Arsenal,Tottenham Hotspur,1,0,433
+1260,2018-02-05 20:00:00,English first division,2018,Vicarage Road Stadium,Watford,Chelsea,Watford,4,1,219
+1263,2018-02-03 17:30:00,English first division,2018,Emirates Stadium,Arsenal,Everton,Arsenal,5,1,169
+1264,2018-02-03 15:00:00,English first division,2018,Vitality Stadium,AFC Bournemouth,Stoke City,AFC Bournemouth,2,1,110
+1265,2018-02-03 15:00:00,English first division,2018,The American Express Community Stadium,Brighton & Hove Albion,West Ham United,Brighton & Hove Albion,3,1,162
+1267,2018-02-03 15:00:00,English first division,2018,Old Trafford,Manchester United,Huddersfield Town,Manchester United,2,0,518
+1270,2018-01-31 20:00:00,English first division,2018,Etihad Stadium,Manchester City,West Bromwich Albion,Manchester City,3,0,378
+1272,2018-01-31 20:00:00,English first division,2018,Wembley Stadium,Tottenham Hotspur,Manchester United,Tottenham Hotspur,2,0,70
+1273,2018-01-31 19:45:00,English first division,2018,Stamford Bridge,Chelsea,AFC Bournemouth,AFC Bournemouth,0,3,429
+1274,2018-01-31 19:45:00,English first division,2018,Goodison Park,Everton,Leicester City,Everton,2,1,431
+1277,2018-01-30 20:00:00,English first division,2018,The John Smith's Stadium,Huddersfield Town,Liverpool,Liverpool,0,3,502
+1278,2018-01-30 19:45:00,English first division,2018,Liberty Stadium,Swansea City,Arsenal,Swansea City,3,1,19
+1280,2018-01-22 20:00:00,English first division,2018,Liberty Stadium,Swansea City,Liverpool,Swansea City,1,0,169
+1282,2018-01-20 17:30:00,English first division,2018,Etihad Stadium,Manchester City,Newcastle United,Manchester City,3,1,110
+1283,2018-01-20 15:00:00,English first division,2018,Emirates Stadium,Arsenal,Crystal Palace,Arsenal,4,1,431
+1284,2018-01-20 15:00:00,English first division,2018,Turf Moor,Burnley,Manchester United,Manchester United,0,1,219
+1286,2018-01-20 15:00:00,English first division,2018,King Power Stadium,Leicester City,Watford,Leicester City,2,0,429
+1289,2018-01-20 12:30:00,English first division,2018,The American Express Community Stadium,Brighton & Hove Albion,Chelsea,Chelsea,0,4,495
+1290,2018-01-15 20:00:00,English first division,2018,Old Trafford,Manchester United,Stoke City,Manchester United,3,0,433
+1291,2018-01-14 16:00:00,English first division,2018,Anfield,Liverpool,Manchester City,Liverpool,4,3,70
+1292,2018-01-14 13:30:00,English first division,2018,Vitality Stadium,AFC Bournemouth,Arsenal,AFC Bournemouth,2,1,502
+1293,2018-01-13 17:30:00,English first division,2018,Wembley Stadium,Tottenham Hotspur,Everton,Tottenham Hotspur,4,0,44
+1296,2018-01-13 15:00:00,English first division,2018,The John Smith's Stadium,Huddersfield Town,West Ham United,West Ham United,1,4,495
+1299,2018-01-13 15:00:00,English first division,2018,The Hawthorns,West Bromwich Albion,Brighton & Hove Albion,West Bromwich Albion,2,0,482
+1302,2018-01-02 19:45:00,English first division,2018,Liberty Stadium,Swansea City,Tottenham Hotspur,Tottenham Hotspur,0,2,378
+1303,2018-01-02 19:45:00,English first division,2018,London Stadium,West Ham United,West Bromwich Albion,West Ham United,2,1,197
+1304,2018-01-02 20:00:00,English first division,2018,Etihad Stadium,Manchester City,Watford,Manchester City,3,1,19
+1305,2018-01-02 19:45:00,English first division,2018,St. Mary's Stadium,Southampton,Crystal Palace,Crystal Palace,1,2,518
+1306,2018-01-01 17:30:00,English first division,2018,Goodison Park,Everton,Manchester United,Manchester United,0,2,70
+1307,2018-01-01 15:00:00,English first division,2018,Turf Moor,Burnley,Liverpool,Liverpool,1,2,162
+1308,2018-01-01 15:00:00,English first division,2018,King Power Stadium,Leicester City,Huddersfield Town,Leicester City,3,0,11
+1309,2018-01-01 15:00:00,English first division,2018,Bet365 Stadium,Stoke City,Newcastle United,Newcastle United,0,1,431
+1314,2017-12-30 15:00:00,English first division,2017,Vitality Stadium,AFC Bournemouth,Everton,AFC Bournemouth,2,1,429
+1315,2017-12-30 15:00:00,English first division,2017,Stamford Bridge,Chelsea,Stoke City,Chelsea,5,0,502
+1317,2017-12-30 15:00:00,English first division,2017,Anfield,Liverpool,Leicester City,Liverpool,2,1,169
+1319,2017-12-30 15:00:00,English first division,2017,Vicarage Road Stadium,Watford,Swansea City,Swansea City,1,2,482
+1321,2017-12-27 19:45:00,English first division,2017,St. James' Park,Newcastle United,Manchester City,Manchester City,0,1,70
+1322,2017-12-26 17:30:00,English first division,2017,Anfield,Liverpool,Swansea City,Liverpool,5,0,502
+1324,2017-12-26 15:00:00,English first division,2017,Stamford Bridge,Chelsea,Brighton & Hove Albion,Chelsea,2,0,219
+1327,2017-12-26 15:00:00,English first division,2017,Vicarage Road Stadium,Watford,Leicester City,Watford,2,1,431
+1329,2017-12-26 12:30:00,English first division,2017,Wembley Stadium,Tottenham Hotspur,Southampton,Tottenham Hotspur,5,2,11
+1332,2017-12-23 15:00:00,English first division,2017,The American Express Community Stadium,Brighton & Hove Albion,Watford,Brighton & Hove Albion,1,0,110
+1333,2017-12-23 15:00:00,English first division,2017,Etihad Stadium,Manchester City,AFC Bournemouth,Manchester City,4,0,197
+1335,2017-12-23 15:00:00,English first division,2017,Bet365 Stadium,Stoke City,West Bromwich Albion,Stoke City,3,1,169
+1337,2017-12-23 15:00:00,English first division,2017,London Stadium,West Ham United,Newcastle United,Newcastle United,2,3,19
+1340,2017-12-18 20:00:00,English first division,2017,Goodison Park,Everton,Swansea City,Everton,3,1,495
+1341,2017-12-17 16:30:00,English first division,2017,Vitality Stadium,AFC Bournemouth,Liverpool,Liverpool,0,4,70
+1342,2017-12-17 14:15:00,English first division,2017,The Hawthorns,West Bromwich Albion,Manchester United,Manchester United,1,2,433
+1343,2017-12-16 17:30:00,English first division,2017,Etihad Stadium,Manchester City,Tottenham Hotspur,Manchester City,4,1,44
+1344,2017-12-16 16:00:00,English first division,2017,Bet365 Stadium,Stoke City,West Ham United,West Ham United,0,3,11
+1345,2017-12-16 15:00:00,English first division,2017,Emirates Stadium,Arsenal,Newcastle United,Arsenal,1,0,518
+1347,2017-12-16 15:00:00,English first division,2017,Stamford Bridge,Chelsea,Southampton,Chelsea,1,0,162
+1349,2017-12-16 12:30:00,English first division,2017,King Power Stadium,Leicester City,Crystal Palace,Crystal Palace,0,3,482
+1351,2017-12-13 20:00:00,English first division,2017,Old Trafford,Manchester United,AFC Bournemouth,Manchester United,1,0,11
+1353,2017-12-13 20:00:00,English first division,2017,Wembley Stadium,Tottenham Hotspur,Brighton & Hove Albion,Tottenham Hotspur,2,0,378
+1354,2017-12-13 19:45:00,English first division,2017,Liberty Stadium,Swansea City,Manchester City,Manchester City,0,4,433
+1355,2017-12-13 19:45:00,English first division,2017,St. James' Park,Newcastle United,Everton,Everton,0,1,482
+1356,2017-12-13 19:45:00,English first division,2017,St. Mary's Stadium,Southampton,Leicester City,Leicester City,1,4,431
+1357,2017-12-12 20:00:00,English first division,2017,The John Smith's Stadium,Huddersfield Town,Chelsea,Chelsea,1,3,70
+1358,2017-12-12 20:00:00,English first division,2017,Selhurst Park,Crystal Palace,Watford,Crystal Palace,2,1,19
+1359,2017-12-12 19:45:00,English first division,2017,Turf Moor,Burnley,Stoke City,Burnley,1,0,197
+1363,2017-12-09 17:30:00,English first division,2017,St. James' Park,Newcastle United,Leicester City,Leicester City,2,3,169
+1364,2017-12-09 15:00:00,English first division,2017,Turf Moor,Burnley,Watford,Burnley,1,0,429
+1366,2017-12-09 15:00:00,English first division,2017,The John Smith's Stadium,Huddersfield Town,Brighton & Hove Albion,Huddersfield Town,2,0,518
+1367,2017-12-09 15:00:00,English first division,2017,Liberty Stadium,Swansea City,West Bromwich Albion,Swansea City,1,0,219
+1368,2017-12-09 15:00:00,English first division,2017,Wembley Stadium,Tottenham Hotspur,Stoke City,Tottenham Hotspur,5,1,162
+1369,2017-12-09 12:30:00,English first division,2017,London Stadium,West Ham United,Chelsea,West Ham United,1,0,433
+1370,2017-12-03 16:00:00,English first division,2017,Etihad Stadium,Manchester City,West Ham United,Manchester City,2,1,219
+1372,2017-12-02 17:30:00,English first division,2017,Emirates Stadium,Arsenal,Manchester United,Manchester United,1,3,70
+1373,2017-12-02 15:00:00,English first division,2017,The American Express Community Stadium,Brighton & Hove Albion,Liverpool,Liverpool,1,5,11
+1374,2017-12-02 15:00:00,English first division,2017,Goodison Park,Everton,Huddersfield Town,Everton,2,0,431
+1375,2017-12-02 15:00:00,English first division,2017,King Power Stadium,Leicester City,Burnley,Leicester City,1,0,110
+1376,2017-12-02 15:00:00,English first division,2017,Bet365 Stadium,Stoke City,Swansea City,Stoke City,2,1,44
+1379,2017-12-02 12:30:00,English first division,2017,Stamford Bridge,Chelsea,Newcastle United,Chelsea,3,1,502
+1381,2017-11-29 20:00:00,English first division,2017,Etihad Stadium,Manchester City,Southampton,Manchester City,2,1,110
+1382,2017-11-29 20:00:00,English first division,2017,Bet365 Stadium,Stoke City,Liverpool,Liverpool,0,3,482
+1383,2017-11-29 19:45:00,English first division,2017,Vitality Stadium,AFC Bournemouth,Burnley,Burnley,1,2,162
+1384,2017-11-29 19:45:00,English first division,2017,Emirates Stadium,Arsenal,Huddersfield Town,Arsenal,5,0,11
+1385,2017-11-29 19:45:00,English first division,2017,Stamford Bridge,Chelsea,Swansea City,Chelsea,1,0,169
+1386,2017-11-28 20:00:00,English first division,2017,Vicarage Road Stadium,Watford,Manchester United,Manchester United,2,4,495
+1389,2017-11-28 19:45:00,English first division,2017,King Power Stadium,Leicester City,Tottenham Hotspur,Leicester City,2,1,433
+1390,2017-11-26 16:00:00,English first division,2017,The John Smith's Stadium,Huddersfield Town,Manchester City,Manchester City,1,2,44
+1391,2017-11-26 14:00:00,English first division,2017,Turf Moor,Burnley,Arsenal,Arsenal,0,1,19
+1392,2017-11-26 13:30:00,English first division,2017,St. Mary's Stadium,Southampton,Everton,Southampton,4,1,502
+1394,2017-11-25 15:00:00,English first division,2017,Selhurst Park,Crystal Palace,Stoke City,Crystal Palace,2,1,219
+1395,2017-11-25 15:00:00,English first division,2017,Old Trafford,Manchester United,Brighton & Hove Albion,Manchester United,1,0,169
+1396,2017-11-25 15:00:00,English first division,2017,St. James' Park,Newcastle United,Watford,Watford,0,3,431
+1401,2017-11-19 16:00:00,English first division,2017,Vicarage Road Stadium,Watford,West Ham United,Watford,2,0,70
+1402,2017-11-18 17:30:00,English first division,2017,Old Trafford,Manchester United,Newcastle United,Manchester United,4,1,44
+1403,2017-11-18 15:00:00,English first division,2017,Vitality Stadium,AFC Bournemouth,Huddersfield Town,AFC Bournemouth,4,0,429
+1404,2017-11-18 15:00:00,English first division,2017,Turf Moor,Burnley,Swansea City,Burnley,2,0,482
+1406,2017-11-18 15:00:00,English first division,2017,King Power Stadium,Leicester City,Manchester City,Manchester City,0,2,11
+1407,2017-11-18 15:00:00,English first division,2017,Anfield,Liverpool,Southampton,Liverpool,3,0,197
+1408,2017-11-18 15:00:00,English first division,2017,The Hawthorns,West Bromwich Albion,Chelsea,Chelsea,0,4,495
+1409,2017-11-18 12:30:00,English first division,2017,Emirates Stadium,Arsenal,Tottenham Hotspur,Arsenal,2,0,219
+1410,2017-11-05 16:30:00,English first division,2017,Stamford Bridge,Chelsea,Manchester United,Chelsea,1,0,433
+1411,2017-11-05 16:30:00,English first division,2017,Goodison Park,Everton,Watford,Everton,3,2,11
+1413,2017-11-05 12:00:00,English first division,2017,Wembley Stadium,Tottenham Hotspur,Crystal Palace,Tottenham Hotspur,1,0,502
+1414,2017-11-04 17:30:00,English first division,2017,London Stadium,West Ham United,Liverpool,Liverpool,1,4,169
+1415,2017-11-04 15:00:00,English first division,2017,The John Smith's Stadium,Huddersfield Town,West Bromwich Albion,Huddersfield Town,1,0,162
+1416,2017-11-04 15:00:00,English first division,2017,St. James' Park,Newcastle United,AFC Bournemouth,AFC Bournemouth,0,1,110
+1417,2017-11-04 15:00:00,English first division,2017,St. Mary's Stadium,Southampton,Burnley,Burnley,0,1,429
+1418,2017-11-04 15:00:00,English first division,2017,Liberty Stadium,Swansea City,Brighton & Hove Albion,Brighton & Hove Albion,0,1,219
+1420,2017-10-30 20:00:00,English first division,2017,Turf Moor,Burnley,Newcastle United,Burnley,1,0,219
+1421,2017-10-29 16:00:00,English first division,2017,King Power Stadium,Leicester City,Everton,Leicester City,2,0,70
+1423,2017-10-28 16:30:00,English first division,2017,Vitality Stadium,AFC Bournemouth,Chelsea,Chelsea,0,1,44
+1424,2017-10-28 14:00:00,English first division,2017,Emirates Stadium,Arsenal,Swansea City,Arsenal,2,1,19
+1426,2017-10-28 14:00:00,English first division,2017,Anfield,Liverpool,Huddersfield Town,Liverpool,3,0,502
+1428,2017-10-28 14:00:00,English first division,2017,The Hawthorns,West Bromwich Albion,Manchester City,Manchester City,2,3,197
+1429,2017-10-28 11:30:00,English first division,2017,Old Trafford,Manchester United,Tottenham Hotspur,Manchester United,1,0,495
+1430,2017-10-22 15:00:00,English first division,2017,Wembley Stadium,Tottenham Hotspur,Liverpool,Tottenham Hotspur,4,1,70
+1431,2017-10-22 12:30:00,English first division,2017,Goodison Park,Everton,Arsenal,Arsenal,2,5,44
+1432,2017-10-21 16:30:00,English first division,2017,St. Mary's Stadium,Southampton,West Bromwich Albion,Southampton,1,0,11
+1433,2017-10-21 14:00:00,English first division,2017,The John Smith's Stadium,Huddersfield Town,Manchester United,Huddersfield Town,2,1,19
+1434,2017-10-21 14:00:00,English first division,2017,Etihad Stadium,Manchester City,Burnley,Manchester City,3,0,162
+1435,2017-10-21 14:00:00,English first division,2017,St. James' Park,Newcastle United,Crystal Palace,Newcastle United,1,0,518
+1436,2017-10-21 14:00:00,English first division,2017,Bet365 Stadium,Stoke City,AFC Bournemouth,AFC Bournemouth,1,2,429
+1438,2017-10-21 11:30:00,English first division,2017,Stamford Bridge,Chelsea,Watford,Chelsea,4,2,495
+1439,2017-10-20 19:00:00,English first division,2017,London Stadium,West Ham United,Brighton & Hove Albion,Brighton & Hove Albion,0,3,482
+1443,2017-10-14 16:30:00,English first division,2017,Vicarage Road Stadium,Watford,Arsenal,Watford,2,1,169
+1445,2017-10-14 14:00:00,English first division,2017,Selhurst Park,Crystal Palace,Chelsea,Crystal Palace,2,1,70
+1446,2017-10-14 14:00:00,English first division,2017,Etihad Stadium,Manchester City,Stoke City,Manchester City,7,2,44
+1447,2017-10-14 14:00:00,English first division,2017,Liberty Stadium,Swansea City,Huddersfield Town,Swansea City,2,0,110
+1448,2017-10-14 14:00:00,English first division,2017,Wembley Stadium,Tottenham Hotspur,AFC Bournemouth,Tottenham Hotspur,1,0,378
+1451,2017-10-01 13:15:00,English first division,2017,Goodison Park,Everton,Burnley,Burnley,0,1,495
+1452,2017-10-01 11:00:00,English first division,2017,Emirates Stadium,Arsenal,Brighton & Hove Albion,Arsenal,2,0,502
+1453,2017-09-30 16:30:00,English first division,2017,Stamford Bridge,Chelsea,Manchester City,Manchester City,0,1,482
+1455,2017-09-30 14:00:00,English first division,2017,Old Trafford,Manchester United,Crystal Palace,Manchester United,4,0,219
+1456,2017-09-30 14:00:00,English first division,2017,Bet365 Stadium,Stoke City,Southampton,Stoke City,2,1,197
+1458,2017-09-30 14:00:00,English first division,2017,London Stadium,West Ham United,Swansea City,West Ham United,1,0,162
+1459,2017-09-30 11:30:00,English first division,2017,The John Smith's Stadium,Huddersfield Town,Tottenham Hotspur,Tottenham Hotspur,0,4,169
+1460,2017-09-25 19:00:00,English first division,2017,Emirates Stadium,Arsenal,West Bromwich Albion,Arsenal,2,0,378
+1461,2017-09-24 15:00:00,English first division,2017,The American Express Community Stadium,Brighton & Hove Albion,Newcastle United,Brighton & Hove Albion,1,0,70
+1462,2017-09-23 16:30:00,English first division,2017,King Power Stadium,Leicester City,Liverpool,Liverpool,2,3,433
+1464,2017-09-23 14:00:00,English first division,2017,Goodison Park,Everton,AFC Bournemouth,Everton,2,1,482
+1465,2017-09-23 14:00:00,English first division,2017,Etihad Stadium,Manchester City,Crystal Palace,Manchester City,5,0,169
+1466,2017-09-23 14:00:00,English first division,2017,St. Mary's Stadium,Southampton,Manchester United,Manchester United,0,1,44
+1467,2017-09-23 14:00:00,English first division,2017,Bet365 Stadium,Stoke City,Chelsea,Chelsea,0,4,219
+1468,2017-09-23 14:00:00,English first division,2017,Liberty Stadium,Swansea City,Watford,Watford,1,2,19
+1470,2017-09-17 15:00:00,English first division,2017,Old Trafford,Manchester United,Everton,Manchester United,4,0,70
+1475,2017-09-16 14:00:00,English first division,2017,St. James' Park,Newcastle United,Stoke City,Newcastle United,2,1,518
+1476,2017-09-16 14:00:00,English first division,2017,Vicarage Road Stadium,Watford,Manchester City,Manchester City,0,6,433
+1478,2017-09-16 11:30:00,English first division,2017,Selhurst Park,Crystal Palace,Southampton,Southampton,0,1,378
+1479,2017-09-15 19:00:00,English first division,2017,Vitality Stadium,AFC Bournemouth,Brighton & Hove Albion,AFC Bournemouth,2,1,44
+1480,2017-09-11 19:00:00,English first division,2017,London Stadium,West Ham United,Huddersfield Town,West Ham United,2,0,502
+1481,2017-09-10 15:00:00,English first division,2017,Liberty Stadium,Swansea City,Newcastle United,Newcastle United,0,1,197
+1484,2017-09-09 14:00:00,English first division,2017,Emirates Stadium,Arsenal,AFC Bournemouth,Arsenal,3,0,433
+1485,2017-09-09 14:00:00,English first division,2017,The American Express Community Stadium,Brighton & Hove Albion,West Bromwich Albion,Brighton & Hove Albion,3,1,431
+1486,2017-09-09 14:00:00,English first division,2017,Goodison Park,Everton,Tottenham Hotspur,Tottenham Hotspur,0,3,11
+1487,2017-09-09 14:00:00,English first division,2017,King Power Stadium,Leicester City,Chelsea,Chelsea,1,2,19
+1488,2017-09-09 14:00:00,English first division,2017,St. Mary's Stadium,Southampton,Watford,Watford,0,2,429
+1489,2017-09-09 11:30:00,English first division,2017,Etihad Stadium,Manchester City,Liverpool,Manchester City,5,0,495
+1490,2017-08-27 15:00:00,English first division,2017,Anfield,Liverpool,Arsenal,Liverpool,4,0,482
+1492,2017-08-27 12:30:00,English first division,2017,Stamford Bridge,Chelsea,Everton,Chelsea,2,0,495
+1495,2017-08-26 14:00:00,English first division,2017,Selhurst Park,Crystal Palace,Swansea City,Swansea City,0,2,70
+1497,2017-08-26 14:00:00,English first division,2017,St. James' Park,Newcastle United,West Ham United,Newcastle United,3,0,169
+1499,2017-08-26 11:30:00,English first division,2017,Vitality Stadium,AFC Bournemouth,Manchester City,Manchester City,1,2,219
+1501,2017-08-20 15:00:00,English first division,2017,Wembley Stadium,Tottenham Hotspur,Chelsea,Chelsea,1,2,433
+1502,2017-08-20 12:30:00,English first division,2017,The John Smith's Stadium,Huddersfield Town,Newcastle United,Huddersfield Town,1,0,44
+1503,2017-08-19 16:30:00,English first division,2017,Bet365 Stadium,Stoke City,Arsenal,Stoke City,1,0,70
+1504,2017-08-19 14:00:00,English first division,2017,Vitality Stadium,AFC Bournemouth,Watford,Watford,0,2,162
+1505,2017-08-19 14:00:00,English first division,2017,Turf Moor,Burnley,West Bromwich Albion,West Bromwich Albion,0,1,482
+1506,2017-08-19 14:00:00,English first division,2017,King Power Stadium,Leicester City,Brighton & Hove Albion,Leicester City,2,0,429
+1507,2017-08-19 14:00:00,English first division,2017,Anfield,Liverpool,Crystal Palace,Liverpool,1,0,502
+1508,2017-08-19 14:00:00,English first division,2017,St. Mary's Stadium,Southampton,West Ham United,Southampton,3,2,19
+1509,2017-08-19 11:30:00,English first division,2017,Liberty Stadium,Swansea City,Manchester United,Manchester United,0,4,495
+1510,2017-08-13 15:00:00,English first division,2017,Old Trafford,Manchester United,West Ham United,Manchester United,4,0,482
+1511,2017-08-13 12:30:00,English first division,2017,St. James' Park,Newcastle United,Tottenham Hotspur,Tottenham Hotspur,0,2,70
+1513,2017-08-12 14:00:00,English first division,2017,Stamford Bridge,Chelsea,Burnley,Burnley,2,3,44
+1514,2017-08-12 14:00:00,English first division,2017,Selhurst Park,Crystal Palace,Huddersfield Town,Huddersfield Town,0,3,495
+1515,2017-08-12 14:00:00,English first division,2017,Goodison Park,Everton,Stoke City,Everton,1,0,169
+1517,2017-08-12 14:00:00,English first division,2017,The Hawthorns,West Bromwich Albion,AFC Bournemouth,West Bromwich Albion,1,0,378
+1519,2017-08-11 18:45:00,English first division,2017,Emirates Stadium,Arsenal,Leicester City,Arsenal,4,3,219
+1520,2018-05-12 13:30:00,German first division,2018,Allianz Arena,Bayern M\u00fcnchen,Stuttgart,Stuttgart,1,4,140
+1521,2018-05-12 13:30:00,German first division,2018,WIRSOL Rhein-Neckar-Arena,Hoffenheim,Borussia Dortmund,Hoffenheim,3,1,319
+1522,2018-05-12 13:30:00,German first division,2018,Olympiastadion Berlin,Hertha BSC,RB Leipzig,RB Leipzig,2,6,144
+1523,2018-05-12 13:30:00,German first division,2018,Schwarzwald-Stadion,Freiburg,Augsburg,Freiburg,2,0,318
+1524,2018-05-12 13:30:00,German first division,2018,VELTINS-Arena,Schalke 04,Eintracht Frankfurt,Schalke 04,1,0,69
+1525,2018-05-12 13:30:00,German first division,2018,BayArena,Bayer Leverkusen,Hannover 96,Bayer Leverkusen,3,2,9
+1526,2018-05-12 13:30:00,German first division,2018,Volksparkstadion,Hamburger SV,Borussia M'gladbach,Hamburger SV,2,1,574
+1527,2018-05-12 13:30:00,German first division,2018,OPEL ARENA,Mainz 05,Werder Bremen,Werder Bremen,1,2,403
+1528,2018-05-12 13:30:00,German first division,2018,VOLKSWAGEN ARENA,Wolfsburg,K\u00f6ln,Wolfsburg,4,1,269
+1529,2018-05-05 13:30:00,German first division,2018,Signal-Iduna-Park,Borussia Dortmund,Mainz 05,Mainz 05,1,2,483
+1530,2018-05-05 13:30:00,German first division,2018,Red Bull Arena,RB Leipzig,Wolfsburg,RB Leipzig,4,1,479
+1531,2018-05-05 13:30:00,German first division,2018,RheinEnergieStadion,K\u00f6ln,Bayern M\u00fcnchen,Bayern M\u00fcnchen,1,3,613
+1533,2018-05-05 13:30:00,German first division,2018,Stadion im BORUSSIA-PARK,Borussia M'gladbach,Freiburg,Borussia M'gladbach,3,1,319
+1534,2018-05-05 13:30:00,German first division,2018,Commerzbank-Arena,Eintracht Frankfurt,Hamburger SV,Eintracht Frankfurt,3,0,132
+1535,2018-05-05 13:30:00,German first division,2018,WWK Arena,Augsburg,Schalke 04,Schalke 04,1,2,519
+1536,2018-05-05 13:30:00,German first division,2018,HDI-Arena,Hannover 96,Hertha BSC,Hannover 96,3,1,151
+1537,2018-05-05 13:30:00,German first division,2018,Mercedes-Benz-Arena,Stuttgart,Hoffenheim,Stuttgart,2,0,63
+1539,2018-04-29 13:30:00,German first division,2018,OPEL ARENA,Mainz 05,RB Leipzig,Mainz 05,3,0,318
+1541,2018-04-28 13:30:00,German first division,2018,Allianz Arena,Bayern M\u00fcnchen,Eintracht Frankfurt,Bayern M\u00fcnchen,4,1,182
+1543,2018-04-28 13:30:00,German first division,2018,Schwarzwald-Stadion,Freiburg,K\u00f6ln,Freiburg,3,2,132
+1545,2018-04-28 13:30:00,German first division,2018,VOLKSWAGEN ARENA,Wolfsburg,Hamburger SV,Hamburger SV,1,3,483
+1546,2018-04-27 18:30:00,German first division,2018,WIRSOL Rhein-Neckar-Arena,Hoffenheim,Hannover 96,Hoffenheim,3,1,54
+1548,2018-04-22 13:30:00,German first division,2018,WWK Arena,Augsburg,Mainz 05,Augsburg,2,0,69
+1549,2018-04-21 16:30:00,German first division,2018,Signal-Iduna-Park,Borussia Dortmund,Bayer Leverkusen,Borussia Dortmund,4,0,269
+1551,2018-04-21 13:30:00,German first division,2018,Commerzbank-Arena,Eintracht Frankfurt,Hertha BSC,Hertha BSC,0,3,140
+1552,2018-04-21 13:30:00,German first division,2018,Volksparkstadion,Hamburger SV,Freiburg,Hamburger SV,1,0,149
+1553,2018-04-21 13:30:00,German first division,2018,HDI-Arena,Hannover 96,Bayern M\u00fcnchen,Bayern M\u00fcnchen,0,3,403
+1554,2018-04-21 13:30:00,German first division,2018,Mercedes-Benz-Arena,Stuttgart,Werder Bremen,Stuttgart,2,0,151
+1555,2018-04-20 18:30:00,German first division,2018,Stadion im BORUSSIA-PARK,Borussia M'gladbach,Wolfsburg,Borussia M'gladbach,3,0,30
+1556,2018-04-16 17:30:00,German first division,2018,OPEL ARENA,Mainz 05,Freiburg,Mainz 05,2,0,9
+1558,2018-04-15 13:30:00,German first division,2018,VELTINS-Arena,Schalke 04,Borussia Dortmund,Schalke 04,2,0,319
+1559,2018-04-14 16:30:00,German first division,2018,Allianz Arena,Bayern M\u00fcnchen,Borussia M'gladbach,Bayern M\u00fcnchen,5,1,519
+1560,2018-04-14 13:30:00,German first division,2018,WIRSOL Rhein-Neckar-Arena,Hoffenheim,Hamburger SV,Hoffenheim,2,0,2
+1561,2018-04-14 13:30:00,German first division,2018,Olympiastadion Berlin,Hertha BSC,K\u00f6ln,Hertha BSC,2,1,151
+1562,2018-04-14 13:30:00,German first division,2018,BayArena,Bayer Leverkusen,Eintracht Frankfurt,Bayer Leverkusen,4,1,574
+1565,2018-04-09 18:30:00,German first division,2018,Red Bull Arena,RB Leipzig,Bayer Leverkusen,Bayer Leverkusen,1,4,132
+1567,2018-04-08 13:30:00,German first division,2018,Signal-Iduna-Park,Borussia Dortmund,Stuttgart,Borussia Dortmund,3,0,54
+1570,2018-04-07 13:30:00,German first division,2018,Schwarzwald-Stadion,Freiburg,Wolfsburg,Wolfsburg,0,2,140
+1571,2018-04-07 13:30:00,German first division,2018,Stadion im BORUSSIA-PARK,Borussia M'gladbach,Hertha BSC,Borussia M'gladbach,2,1,613
+1572,2018-04-07 13:30:00,German first division,2018,WWK Arena,Augsburg,Bayern M\u00fcnchen,Bayern M\u00fcnchen,1,4,269
+1575,2018-04-01 13:30:00,German first division,2018,Weserstadion,Werder Bremen,Eintracht Frankfurt,Werder Bremen,2,1,63
+1577,2018-03-31 16:30:00,German first division,2018,Allianz Arena,Bayern M\u00fcnchen,Borussia Dortmund,Bayern M\u00fcnchen,6,0,318
+1578,2018-03-31 13:30:00,German first division,2018,WIRSOL Rhein-Neckar-Arena,Hoffenheim,K\u00f6ln,Hoffenheim,6,0,392
+1579,2018-03-31 13:30:00,German first division,2018,VELTINS-Arena,Schalke 04,Freiburg,Schalke 04,2,0,30
+1581,2018-03-31 13:30:00,German first division,2018,HDI-Arena,Hannover 96,RB Leipzig,RB Leipzig,2,3,9
+1583,2018-03-18 17:00:00,German first division,2018,Red Bull Arena,RB Leipzig,Bayern M\u00fcnchen,RB Leipzig,2,1,479
+1584,2018-03-18 14:30:00,German first division,2018,RheinEnergieStadion,K\u00f6ln,Bayer Leverkusen,K\u00f6ln,2,0,2
+1585,2018-03-18 12:30:00,German first division,2018,Signal-Iduna-Park,Borussia Dortmund,Hannover 96,Borussia Dortmund,1,0,54
+1586,2018-03-17 17:30:00,German first division,2018,VOLKSWAGEN ARENA,Wolfsburg,Schalke 04,Schalke 04,0,1,149
+1588,2018-03-17 14:30:00,German first division,2018,Commerzbank-Arena,Eintracht Frankfurt,Mainz 05,Eintracht Frankfurt,3,0,483
+1589,2018-03-17 14:30:00,German first division,2018,WWK Arena,Augsburg,Werder Bremen,Werder Bremen,1,3,140
+1590,2018-03-17 14:30:00,German first division,2018,Volksparkstadion,Hamburger SV,Hertha BSC,Hertha BSC,1,2,519
+1591,2018-03-16 19:30:00,German first division,2018,Schwarzwald-Stadion,Freiburg,Stuttgart,Stuttgart,1,2,143
+1592,2018-03-12 19:30:00,German first division,2018,Weserstadion,Werder Bremen,K\u00f6ln,Werder Bremen,3,1,143
+1593,2018-03-11 17:00:00,German first division,2018,Signal-Iduna-Park,Borussia Dortmund,Eintracht Frankfurt,Borussia Dortmund,3,2,132
+1595,2018-03-10 17:30:00,German first division,2018,BayArena,Bayer Leverkusen,Borussia M'gladbach,Bayer Leverkusen,2,0,392
+1596,2018-03-10 14:30:00,German first division,2018,Allianz Arena,Bayern M\u00fcnchen,Hamburger SV,Bayern M\u00fcnchen,6,0,182
+1597,2018-03-10 14:30:00,German first division,2018,WIRSOL Rhein-Neckar-Arena,Hoffenheim,Wolfsburg,Hoffenheim,3,0,319
+1599,2018-03-10 14:30:00,German first division,2018,HDI-Arena,Hannover 96,Augsburg,Augsburg,1,3,318
+1600,2018-03-09 19:30:00,German first division,2018,OPEL ARENA,Mainz 05,Schalke 04,Schalke 04,0,1,574
+1601,2018-03-04 17:00:00,German first division,2018,Schwarzwald-Stadion,Freiburg,Bayern M\u00fcnchen,Bayern M\u00fcnchen,0,4,69
+1602,2018-03-04 14:30:00,German first division,2018,RheinEnergieStadion,K\u00f6ln,Stuttgart,Stuttgart,2,3,151
+1604,2018-03-03 14:30:00,German first division,2018,VELTINS-Arena,Schalke 04,Hertha BSC,Schalke 04,1,0,140
+1605,2018-03-03 14:30:00,German first division,2018,Commerzbank-Arena,Eintracht Frankfurt,Hannover 96,Eintracht Frankfurt,1,0,479
+1606,2018-03-03 14:30:00,German first division,2018,WWK Arena,Augsburg,Hoffenheim,Hoffenheim,0,2,54
+1608,2018-03-03 14:30:00,German first division,2018,VOLKSWAGEN ARENA,Wolfsburg,Bayer Leverkusen,Bayer Leverkusen,1,2,63
+1611,2018-02-25 17:00:00,German first division,2018,Red Bull Arena,RB Leipzig,K\u00f6ln,K\u00f6ln,1,2,2
+1612,2018-02-25 14:30:00,German first division,2018,BayArena,Bayer Leverkusen,Schalke 04,Schalke 04,0,2,483
+1613,2018-02-24 17:30:00,German first division,2018,Weserstadion,Werder Bremen,Hamburger SV,Werder Bremen,1,0,63
+1616,2018-02-24 14:30:00,German first division,2018,HDI-Arena,Hannover 96,Borussia M'gladbach,Borussia M'gladbach,0,1,519
+1617,2018-02-24 14:30:00,German first division,2018,Mercedes-Benz-Arena,Stuttgart,Eintracht Frankfurt,Stuttgart,1,0,613
+1619,2018-02-19 19:30:00,German first division,2018,Commerzbank-Arena,Eintracht Frankfurt,RB Leipzig,Eintracht Frankfurt,2,1,63
+1620,2018-02-18 17:00:00,German first division,2018,Stadion im BORUSSIA-PARK,Borussia M'gladbach,Borussia Dortmund,Borussia Dortmund,0,1,318
+1621,2018-02-18 14:30:00,German first division,2018,WWK Arena,Augsburg,Stuttgart,Stuttgart,0,1,30
+1624,2018-02-17 14:30:00,German first division,2018,Schwarzwald-Stadion,Freiburg,Werder Bremen,Freiburg,1,0,392
+1625,2018-02-17 14:30:00,German first division,2018,Volksparkstadion,Hamburger SV,Bayer Leverkusen,Bayer Leverkusen,1,2,574
+1626,2018-02-17 14:30:00,German first division,2018,VOLKSWAGEN ARENA,Wolfsburg,Bayern M\u00fcnchen,Bayern M\u00fcnchen,1,2,140
+1627,2018-02-16 19:30:00,German first division,2018,Olympiastadion Berlin,Hertha BSC,Mainz 05,Mainz 05,0,2,403
+1628,2018-02-11 17:00:00,German first division,2018,Weserstadion,Werder Bremen,Wolfsburg,Werder Bremen,3,1,132
+1629,2018-02-11 14:30:00,German first division,2018,Mercedes-Benz-Arena,Stuttgart,Borussia M'gladbach,Stuttgart,1,0,69
+1630,2018-02-10 17:30:00,German first division,2018,Allianz Arena,Bayern M\u00fcnchen,Schalke 04,Bayern M\u00fcnchen,2,1,30
+1631,2018-02-10 14:30:00,German first division,2018,Signal-Iduna-Park,Borussia Dortmund,Hamburger SV,Borussia Dortmund,2,0,479
+1632,2018-02-10 14:30:00,German first division,2018,WIRSOL Rhein-Neckar-Arena,Hoffenheim,Mainz 05,Hoffenheim,4,2,149
+1633,2018-02-10 14:30:00,German first division,2018,Commerzbank-Arena,Eintracht Frankfurt,K\u00f6ln,Eintracht Frankfurt,4,2,483
+1634,2018-02-10 14:30:00,German first division,2018,BayArena,Bayer Leverkusen,Hertha BSC,Hertha BSC,0,2,54
+1635,2018-02-10 14:30:00,German first division,2018,HDI-Arena,Hannover 96,Freiburg,Hannover 96,2,1,319
+1636,2018-02-09 19:30:00,German first division,2018,Red Bull Arena,RB Leipzig,Augsburg,RB Leipzig,2,0,144
+1638,2018-02-04 14:30:00,German first division,2018,WWK Arena,Augsburg,Eintracht Frankfurt,Augsburg,3,0,2
+1639,2018-02-03 17:30:00,German first division,2018,Stadion im BORUSSIA-PARK,Borussia M'gladbach,RB Leipzig,RB Leipzig,0,1,30
+1642,2018-02-03 14:30:00,German first division,2018,VELTINS-Arena,Schalke 04,Werder Bremen,Werder Bremen,1,2,9
+1643,2018-02-03 14:30:00,German first division,2018,OPEL ARENA,Mainz 05,Bayern M\u00fcnchen,Bayern M\u00fcnchen,0,2,151
+1645,2018-02-02 19:30:00,German first division,2018,RheinEnergieStadion,K\u00f6ln,Borussia Dortmund,Borussia Dortmund,2,3,143
+1646,2018-01-28 17:00:00,German first division,2018,HDI-Arena,Hannover 96,Wolfsburg,Wolfsburg,0,1,574
+1647,2018-01-28 14:30:00,German first division,2018,BayArena,Bayer Leverkusen,Mainz 05,Bayer Leverkusen,2,0,69
+1649,2018-01-27 14:30:00,German first division,2018,Allianz Arena,Bayern M\u00fcnchen,Hoffenheim,Bayern M\u00fcnchen,5,2,319
+1653,2018-01-27 14:30:00,German first division,2018,Mercedes-Benz-Arena,Stuttgart,Schalke 04,Schalke 04,0,2,63
+1654,2018-01-26 19:30:00,German first division,2018,Commerzbank-Arena,Eintracht Frankfurt,Borussia M'gladbach,Eintracht Frankfurt,2,0,479
+1656,2018-01-21 14:30:00,German first division,2018,Allianz Arena,Bayern M\u00fcnchen,Werder Bremen,Bayern M\u00fcnchen,4,2,519
+1657,2018-01-20 17:30:00,German first division,2018,Volksparkstadion,Hamburger SV,K\u00f6ln,K\u00f6ln,0,2,9
+1658,2018-01-20 14:30:00,German first division,2018,WIRSOL Rhein-Neckar-Arena,Hoffenheim,Bayer Leverkusen,Bayer Leverkusen,1,4,30
+1659,2018-01-20 14:30:00,German first division,2018,Schwarzwald-Stadion,Freiburg,RB Leipzig,Freiburg,2,1,143
+1660,2018-01-20 14:30:00,German first division,2018,Stadion im BORUSSIA-PARK,Borussia M'gladbach,Augsburg,Borussia M'gladbach,2,0,613
+1661,2018-01-20 14:30:00,German first division,2018,OPEL ARENA,Mainz 05,Stuttgart,Mainz 05,3,2,2
+1662,2018-01-20 14:30:00,German first division,2018,VOLKSWAGEN ARENA,Wolfsburg,Eintracht Frankfurt,Eintracht Frankfurt,1,3,269
+1665,2018-01-14 14:30:00,German first division,2018,RheinEnergieStadion,K\u00f6ln,Borussia M'gladbach,K\u00f6ln,2,1,63
+1666,2018-01-13 17:30:00,German first division,2018,Red Bull Arena,RB Leipzig,Schalke 04,RB Leipzig,3,1,132
+1669,2018-01-13 14:30:00,German first division,2018,WWK Arena,Augsburg,Hamburger SV,Augsburg,1,0,319
+1670,2018-01-13 14:30:00,German first division,2018,HDI-Arena,Hannover 96,Mainz 05,Hannover 96,3,2,318
+1671,2018-01-13 14:30:00,German first division,2018,Mercedes-Benz-Arena,Stuttgart,Hertha BSC,Stuttgart,1,0,574
+1672,2018-01-12 19:30:00,German first division,2018,BayArena,Bayer Leverkusen,Bayern M\u00fcnchen,Bayern M\u00fcnchen,1,3,483
+1673,2017-12-17 17:00:00,German first division,2017,Red Bull Arena,RB Leipzig,Hertha BSC,Hertha BSC,2,3,69
+1675,2017-12-16 17:30:00,German first division,2017,Signal-Iduna-Park,Borussia Dortmund,Hoffenheim,Borussia Dortmund,2,1,2
+1677,2017-12-16 14:30:00,German first division,2017,RheinEnergieStadion,K\u00f6ln,Wolfsburg,K\u00f6ln,1,0,143
+1680,2017-12-16 14:30:00,German first division,2017,Mercedes-Benz-Arena,Stuttgart,Bayern M\u00fcnchen,Bayern M\u00fcnchen,0,1,54
+1681,2017-12-15 19:30:00,German first division,2017,Stadion im BORUSSIA-PARK,Borussia M'gladbach,Hamburger SV,Borussia M'gladbach,3,1,269
+1682,2017-12-13 19:30:00,German first division,2017,Allianz Arena,Bayern M\u00fcnchen,K\u00f6ln,Bayern M\u00fcnchen,1,0,483
+1683,2017-12-13 19:30:00,German first division,2017,Olympiastadion Berlin,Hertha BSC,Hannover 96,Hertha BSC,3,1,392
+1684,2017-12-13 19:30:00,German first division,2017,VELTINS-Arena,Schalke 04,Augsburg,Schalke 04,3,2,144
+1685,2017-12-13 19:30:00,German first division,2017,BayArena,Bayer Leverkusen,Werder Bremen,Bayer Leverkusen,1,0,30
+1686,2017-12-13 17:30:00,German first division,2017,WIRSOL Rhein-Neckar-Arena,Hoffenheim,Stuttgart,Hoffenheim,1,0,613
+1687,2017-12-12 19:30:00,German first division,2017,Volksparkstadion,Hamburger SV,Eintracht Frankfurt,Eintracht Frankfurt,1,2,319
+1688,2017-12-12 19:30:00,German first division,2017,OPEL ARENA,Mainz 05,Borussia Dortmund,Borussia Dortmund,0,2,143
+1689,2017-12-12 19:30:00,German first division,2017,Schwarzwald-Stadion,Freiburg,Borussia M'gladbach,Freiburg,1,0,132
+1692,2017-12-10 14:30:00,German first division,2017,HDI-Arena,Hannover 96,Hoffenheim,Hannover 96,2,0,269
+1693,2017-12-10 12:30:00,German first division,2017,RheinEnergieStadion,K\u00f6ln,Freiburg,Freiburg,3,4,519
+1695,2017-12-09 14:30:00,German first division,2017,Signal-Iduna-Park,Borussia Dortmund,Werder Bremen,Werder Bremen,1,2,319
+1697,2017-12-09 14:30:00,German first division,2017,Commerzbank-Arena,Eintracht Frankfurt,Bayern M\u00fcnchen,Bayern M\u00fcnchen,0,1,2
+1699,2017-12-08 19:30:00,German first division,2017,Mercedes-Benz-Arena,Stuttgart,Bayer Leverkusen,Bayer Leverkusen,0,2,132
+1700,2017-12-03 17:00:00,German first division,2017,VOLKSWAGEN ARENA,Wolfsburg,Borussia M'gladbach,Wolfsburg,3,0,149
+1701,2017-12-03 14:30:00,German first division,2017,Olympiastadion Berlin,Hertha BSC,Eintracht Frankfurt,Eintracht Frankfurt,1,2,151
+1703,2017-12-02 14:30:00,German first division,2017,Allianz Arena,Bayern M\u00fcnchen,Hannover 96,Bayern M\u00fcnchen,3,1,9
+1704,2017-12-02 14:30:00,German first division,2017,WIRSOL Rhein-Neckar-Arena,Hoffenheim,RB Leipzig,Hoffenheim,4,0,483
+1705,2017-12-02 14:30:00,German first division,2017,Weserstadion,Werder Bremen,Stuttgart,Werder Bremen,1,0,318
+1707,2017-12-02 14:30:00,German first division,2017,OPEL ARENA,Mainz 05,Augsburg,Augsburg,1,3,69
+1709,2017-11-26 17:00:00,German first division,2017,RheinEnergieStadion,K\u00f6ln,Hertha BSC,Hertha BSC,0,2,613
+1710,2017-11-26 14:30:00,German first division,2017,Volksparkstadion,Hamburger SV,Hoffenheim,Hamburger SV,3,0,318
+1711,2017-11-25 17:30:00,German first division,2017,Stadion im BORUSSIA-PARK,Borussia M'gladbach,Bayern M\u00fcnchen,Borussia M'gladbach,2,1,319
+1713,2017-11-25 14:30:00,German first division,2017,Red Bull Arena,RB Leipzig,Werder Bremen,RB Leipzig,2,0,140
+1714,2017-11-25 14:30:00,German first division,2017,Schwarzwald-Stadion,Freiburg,Mainz 05,Freiburg,2,1,483
+1715,2017-11-25 14:30:00,German first division,2017,WWK Arena,Augsburg,Wolfsburg,Augsburg,2,1,30
+1716,2017-11-25 14:30:00,German first division,2017,Commerzbank-Arena,Eintracht Frankfurt,Bayer Leverkusen,Bayer Leverkusen,0,1,54
+1718,2017-11-19 17:00:00,German first division,2017,Weserstadion,Werder Bremen,Hannover 96,Werder Bremen,4,0,149
+1719,2017-11-19 14:30:00,German first division,2017,VELTINS-Arena,Schalke 04,Hamburger SV,Schalke 04,2,0,392
+1720,2017-11-18 17:30:00,German first division,2017,Olympiastadion Berlin,Hertha BSC,Borussia M'gladbach,Borussia M'gladbach,2,4,318
+1721,2017-11-18 14:30:00,German first division,2017,Allianz Arena,Bayern M\u00fcnchen,Augsburg,Bayern M\u00fcnchen,3,0,269
+1724,2017-11-18 14:30:00,German first division,2017,OPEL ARENA,Mainz 05,K\u00f6ln,Mainz 05,1,0,574
+1725,2017-11-18 14:30:00,German first division,2017,VOLKSWAGEN ARENA,Wolfsburg,Freiburg,Wolfsburg,3,1,319
+1726,2017-11-17 19:30:00,German first division,2017,Mercedes-Benz-Arena,Stuttgart,Borussia Dortmund,Stuttgart,2,1,69
+1728,2017-11-05 14:30:00,German first division,2017,RheinEnergieStadion,K\u00f6ln,Hoffenheim,Hoffenheim,0,3,132
+1729,2017-11-04 17:30:00,German first division,2017,Signal-Iduna-Park,Borussia Dortmund,Bayern M\u00fcnchen,Bayern M\u00fcnchen,1,3,30
+1730,2017-11-04 14:30:00,German first division,2017,Red Bull Arena,RB Leipzig,Hannover 96,RB Leipzig,2,1,403
+1731,2017-11-04 14:30:00,German first division,2017,Schwarzwald-Stadion,Freiburg,Schalke 04,Schalke 04,0,1,574
+1734,2017-11-04 14:30:00,German first division,2017,Volksparkstadion,Hamburger SV,Stuttgart,Hamburger SV,3,1,9
+1735,2017-11-03 19:30:00,German first division,2017,Commerzbank-Arena,Eintracht Frankfurt,Werder Bremen,Eintracht Frankfurt,2,1,143
+1736,2017-10-29 17:00:00,German first division,2017,Mercedes-Benz-Arena,Stuttgart,Freiburg,Stuttgart,3,0,30
+1737,2017-10-29 14:30:00,German first division,2017,Weserstadion,Werder Bremen,Augsburg,Augsburg,0,3,151
+1738,2017-10-28 16:30:00,German first division,2017,Allianz Arena,Bayern M\u00fcnchen,RB Leipzig,Bayern M\u00fcnchen,2,0,483
+1739,2017-10-28 13:30:00,German first division,2017,WIRSOL Rhein-Neckar-Arena,Hoffenheim,Borussia M'gladbach,Borussia M'gladbach,1,3,2
+1740,2017-10-28 13:30:00,German first division,2017,Olympiastadion Berlin,Hertha BSC,Hamburger SV,Hertha BSC,2,1,574
+1742,2017-10-28 13:30:00,German first division,2017,BayArena,Bayer Leverkusen,K\u00f6ln,Bayer Leverkusen,2,1,319
+1743,2017-10-28 13:30:00,German first division,2017,HDI-Arena,Hannover 96,Borussia Dortmund,Hannover 96,4,2,54
+1748,2017-10-21 16:30:00,German first division,2017,Volksparkstadion,Hamburger SV,Bayern M\u00fcnchen,Bayern M\u00fcnchen,0,1,479
+1749,2017-10-21 13:30:00,German first division,2017,Red Bull Arena,RB Leipzig,Stuttgart,RB Leipzig,1,0,144
+1750,2017-10-21 13:30:00,German first division,2017,Stadion im BORUSSIA-PARK,Borussia M'gladbach,Bayer Leverkusen,Bayer Leverkusen,1,5,318
+1752,2017-10-21 13:30:00,German first division,2017,WWK Arena,Augsburg,Hannover 96,Hannover 96,1,2,140
+1753,2017-10-20 18:30:00,German first division,2017,VELTINS-Arena,Schalke 04,Mainz 05,Schalke 04,2,0,613
+1754,2017-10-15 16:00:00,German first division,2017,Weserstadion,Werder Bremen,Borussia M'gladbach,Borussia M'gladbach,0,2,269
+1756,2017-10-14 16:30:00,German first division,2017,Signal-Iduna-Park,Borussia Dortmund,RB Leipzig,RB Leipzig,2,3,132
+1757,2017-10-14 13:30:00,German first division,2017,Allianz Arena,Bayern M\u00fcnchen,Freiburg,Bayern M\u00fcnchen,5,0,69
+1759,2017-10-14 13:30:00,German first division,2017,Olympiastadion Berlin,Hertha BSC,Schalke 04,Schalke 04,0,2,143
+1760,2017-10-14 13:30:00,German first division,2017,OPEL ARENA,Mainz 05,Hamburger SV,Mainz 05,3,2,574
+1761,2017-10-14 13:30:00,German first division,2017,HDI-Arena,Hannover 96,Eintracht Frankfurt,Eintracht Frankfurt,1,2,318
+1762,2017-10-13 18:30:00,German first division,2017,Mercedes-Benz-Arena,Stuttgart,K\u00f6ln,Stuttgart,2,1,149
+1763,2017-10-01 16:00:00,German first division,2017,RheinEnergieStadion,K\u00f6ln,RB Leipzig,RB Leipzig,1,2,63
+1765,2017-10-01 11:30:00,German first division,2017,Schwarzwald-Stadion,Freiburg,Hoffenheim,Freiburg,3,2,483
+1767,2017-09-30 13:30:00,German first division,2017,Stadion im BORUSSIA-PARK,Borussia M'gladbach,Hannover 96,Borussia M'gladbach,2,1,182
+1768,2017-09-30 13:30:00,German first division,2017,Commerzbank-Arena,Eintracht Frankfurt,Stuttgart,Eintracht Frankfurt,2,1,574
+1769,2017-09-30 13:30:00,German first division,2017,WWK Arena,Augsburg,Borussia Dortmund,Borussia Dortmund,1,2,479
+1772,2017-09-24 16:00:00,German first division,2017,BayArena,Bayer Leverkusen,Hamburger SV,Bayer Leverkusen,3,0,519
+1774,2017-09-23 16:30:00,German first division,2017,Signal-Iduna-Park,Borussia Dortmund,Borussia M'gladbach,Borussia Dortmund,6,1,319
+1775,2017-09-23 13:30:00,German first division,2017,Red Bull Arena,RB Leipzig,Eintracht Frankfurt,RB Leipzig,2,1,143
+1776,2017-09-23 13:30:00,German first division,2017,WIRSOL Rhein-Neckar-Arena,Hoffenheim,Schalke 04,Hoffenheim,2,0,140
+1778,2017-09-23 13:30:00,German first division,2017,OPEL ARENA,Mainz 05,Hertha BSC,Mainz 05,1,0,30
+1781,2017-09-20 18:30:00,German first division,2017,Olympiastadion Berlin,Hertha BSC,Bayer Leverkusen,Hertha BSC,2,1,132
+1783,2017-09-20 18:30:00,German first division,2017,Volksparkstadion,Hamburger SV,Borussia Dortmund,Borussia Dortmund,0,3,63
+1784,2017-09-20 18:30:00,German first division,2017,OPEL ARENA,Mainz 05,Hoffenheim,Hoffenheim,2,3,319
+1785,2017-09-20 16:30:00,German first division,2017,RheinEnergieStadion,K\u00f6ln,Eintracht Frankfurt,Eintracht Frankfurt,0,1,403
+1786,2017-09-19 18:30:00,German first division,2017,VELTINS-Arena,Schalke 04,Bayern M\u00fcnchen,Bayern M\u00fcnchen,0,3,479
+1787,2017-09-19 18:30:00,German first division,2017,WWK Arena,Augsburg,RB Leipzig,Augsburg,1,0,483
+1789,2017-09-19 16:30:00,German first division,2017,Stadion im BORUSSIA-PARK,Borussia M'gladbach,Stuttgart,Borussia M'gladbach,2,0,151
+1790,2017-09-17 16:00:00,German first division,2017,Signal-Iduna-Park,Borussia Dortmund,K\u00f6ln,Borussia Dortmund,5,0,54
+1791,2017-09-17 13:30:00,German first division,2017,BayArena,Bayer Leverkusen,Freiburg,Bayer Leverkusen,4,0,144
+1794,2017-09-16 13:30:00,German first division,2017,Allianz Arena,Bayern M\u00fcnchen,Mainz 05,Bayern M\u00fcnchen,4,0,140
+1795,2017-09-16 13:30:00,German first division,2017,Weserstadion,Werder Bremen,Schalke 04,Schalke 04,1,2,143
+1796,2017-09-16 13:30:00,German first division,2017,Commerzbank-Arena,Eintracht Frankfurt,Augsburg,Augsburg,1,2,182
+1797,2017-09-16 13:30:00,German first division,2017,Mercedes-Benz-Arena,Stuttgart,Wolfsburg,Stuttgart,1,0,9
+1798,2017-09-15 18:30:00,German first division,2017,HDI-Arena,Hannover 96,Hamburger SV,Hannover 96,2,0,392
+1799,2017-09-10 16:00:00,German first division,2017,VELTINS-Arena,Schalke 04,Stuttgart,Schalke 04,3,1,69
+1801,2017-09-09 16:30:00,German first division,2017,WIRSOL Rhein-Neckar-Arena,Hoffenheim,Bayern M\u00fcnchen,Hoffenheim,2,0,483
+1803,2017-09-09 13:30:00,German first division,2017,Stadion im BORUSSIA-PARK,Borussia M'gladbach,Eintracht Frankfurt,Eintracht Frankfurt,0,1,519
+1804,2017-09-09 13:30:00,German first division,2017,WWK Arena,Augsburg,K\u00f6ln,Augsburg,3,0,30
+1805,2017-09-09 13:30:00,German first division,2017,OPEL ARENA,Mainz 05,Bayer Leverkusen,Mainz 05,3,1,269
+1807,2017-09-08 18:30:00,German first division,2017,Volksparkstadion,Hamburger SV,RB Leipzig,RB Leipzig,0,2,132
+1808,2017-08-27 16:00:00,German first division,2017,HDI-Arena,Hannover 96,Schalke 04,Hannover 96,1,0,54
+1809,2017-08-27 13:30:00,German first division,2017,Red Bull Arena,RB Leipzig,Freiburg,RB Leipzig,4,1,182
+1810,2017-08-26 16:30:00,German first division,2017,Signal-Iduna-Park,Borussia Dortmund,Hertha BSC,Borussia Dortmund,2,0,479
+1811,2017-08-26 13:30:00,German first division,2017,Weserstadion,Werder Bremen,Bayern M\u00fcnchen,Bayern M\u00fcnchen,0,2,318
+1812,2017-08-26 13:30:00,German first division,2017,Commerzbank-Arena,Eintracht Frankfurt,Wolfsburg,Wolfsburg,0,1,149
+1815,2017-08-26 13:30:00,German first division,2017,Mercedes-Benz-Arena,Stuttgart,Mainz 05,Stuttgart,1,0,143
+1816,2017-08-25 18:30:00,German first division,2017,RheinEnergieStadion,K\u00f6ln,Hamburger SV,Hamburger SV,1,3,151
+1817,2017-08-20 16:00:00,German first division,2017,Stadion im BORUSSIA-PARK,Borussia M'gladbach,K\u00f6ln,Borussia M'gladbach,1,0,132
+1819,2017-08-19 16:30:00,German first division,2017,VELTINS-Arena,Schalke 04,RB Leipzig,Schalke 04,2,0,63
+1820,2017-08-19 13:30:00,German first division,2017,WIRSOL Rhein-Neckar-Arena,Hoffenheim,Werder Bremen,Hoffenheim,1,0,9
+1821,2017-08-19 13:30:00,German first division,2017,Olympiastadion Berlin,Hertha BSC,Stuttgart,Hertha BSC,2,0,140
+1822,2017-08-19 13:30:00,German first division,2017,Volksparkstadion,Hamburger SV,Augsburg,Hamburger SV,1,0,483
+1823,2017-08-19 13:30:00,German first division,2017,OPEL ARENA,Mainz 05,Hannover 96,Hannover 96,0,1,574
+1824,2017-08-19 13:30:00,German first division,2017,VOLKSWAGEN ARENA,Wolfsburg,Borussia Dortmund,Borussia Dortmund,0,3,392
+1825,2017-08-18 18:30:00,German first division,2017,Allianz Arena,Bayern M\u00fcnchen,Bayer Leverkusen,Bayern M\u00fcnchen,3,1,30

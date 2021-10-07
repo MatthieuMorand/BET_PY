@@ -1,0 +1,143 @@
+id,name,officialname,country
+0,Newcastle United,Newcastle United FC,England
+1,Celta de Vigo,Real Club Celta de Vigo,Spain
+2,Espanyol,Reial Club Deportiu Espanyol,Spain
+3,Deportivo Alav\u00e9s,Deportivo Alav\u00e9s,Spain
+4,Levante,Levante UD,Spain
+5,Troyes,Esp\u00e9rance Sportive Troyes Aube Champagne,France
+6,Getafe,Getafe Club de F\u00fatbol,Spain
+7,Borussia M'gladbach,Borussia VfL M\u00f6nchengladbach,Germany
+8,Huddersfield Town,Huddersfield Town FC,England
+9,Athletic Club,Athletic Club Bilbao,Spain
+10,Atl\u00e9tico Madrid,Club Atl\u00e9tico de Madrid,Spain
+11,Olympique Lyonnais,Olympique Lyonnais,France
+12,PSG,Paris Saint-Germain FC,France
+13,Valencia,Valencia Club de F\u00fatbol,Spain
+14,Real Madrid,Real Madrid Club de F\u00fatbol,Spain
+15,Barcelona,FC Barcelona,Spain
+16,Las Palmas,UD Las Palmas,Spain
+17,Legan\u00e9s,CD Legan\u00e9s,Spain
+18,SPAL,Societ\u00e0 Polisportiva Ars et Labor 2013,Italy
+19,Swansea City,Swansea City AFC,Wales
+20,Olympique Marseille,Olympique de Marseille,France
+21,Nantes,FC Nantes,France
+22,Nice,O.G.C. Nice C\u00f4te d'Azur,France
+23,Rennes,Stade Rennais FC,France
+24,Strasbourg,RC Strasbourg Alsace,France
+25,Eibar,SD Eibar,Spain
+26,AFC Bournemouth,AFC Bournemouth,England
+27,Brighton & Hove Albion,Brighton & Hove Albion FC,England
+28,Werder Bremen,SV Werder Bremen,Germany
+29,Bayer Leverkusen,TSV Bayer 04 Leverkusen,Germany
+30,Borussia Dortmund,BV Borussia 09 Dortmund,Germany
+31,Bayern M\u00fcnchen,FC Bayern M\u00fcnchen,Germany
+32,Stuttgart,VfB Stuttgart 1893,Germany
+33,Schalke 04,FC Schalke 04,Germany
+34,Milan,AC Milan,Italy
+35,Angers,Angers SCO,France
+36,Juventus,Juventus FC,Italy
+37,Roma,AS Roma,Italy
+38,Sassuolo,US Sassuolo Calcio,Italy
+39,Burnley,Burnley FC,England
+40,Bordeaux,FC Girondins de Bordeaux,France
+41,Hannover 96,Hannover 96,Germany
+42,Dijon,Dijon FCO,France
+43,Hertha BSC,Hertha BSC,Germany
+44,Wolfsburg,VfL Wolfsburg,Germany
+45,Hamburger SV,Hamburger SV,Germany
+46,Freiburg,SC Freiburg,Germany
+47,Bologna,Bologna FC 1909,Italy
+48,Metz,FC Metz,France
+49,Sampdoria,UC Sampdoria,Italy
+50,Chievo,AC Chievo Verona,Italy
+51,Lazio,SS Lazio,Italy
+52,Udinese,Udinese Calcio,Italy
+53,Internazionale,FC Internazionale Milano,Italy
+54,Leicester City,Leicester City FC,England
+55,West Ham United,West Ham United FC,England
+56,Stoke City,Stoke City FC,England
+57,Benevento,Benevento Calcio,Italy
+58,Saint-\u00c9tienne,AS Saint-\u00c9tienne,France
+59,Girona,Girona FC,Spain
+60,Watford,Watford FC,England
+61,Hoffenheim,TSG 1899 Hoffenheim,Germany
+62,Cagliari,Cagliari Calcio,Italy
+63,Atalanta,Atalanta Bergamasca Calcio,Italy
+64,Fiorentina,ACF Fiorentina,Italy
+65,Everton,Everton FC,England
+66,West Bromwich Albion,West Bromwich Albion FC,England
+67,Manchester City,Manchester City FC,England
+68,Tottenham Hotspur,Tottenham Hotspur FC,England
+69,Augsburg,FC Augsburg,Germany
+70,Crystal Palace,Crystal Palace FC,England
+71,Monaco,AS Monaco FC,Monaco
+72,Mainz 05,1. FSV Mainz 05,Germany
+73,Lille,Lille OSC M\u00e9tropole,France
+74,Eintracht Frankfurt,Eintracht Frankfurt,Germany
+75,Southampton,Southampton FC,England
+76,K\u00f6ln,1. FC K\u00f6ln,Germany
+77,Liverpool,Liverpool FC,England
+78,Chelsea,Chelsea FC,England
+79,Manchester United,Manchester United FC,England
+80,Torino,Torino FC,Italy
+81,Napoli,SSC Napoli,Italy
+82,Deportivo La Coru\u00f1a,Real Club Deportivo de La Coru\u00f1a,Spain
+83,RB Leipzig,Rasen Ballsport Leipzig,Germany
+84,Arsenal,Arsenal FC,England
+85,Caen,Stade Malherbe Caen,France
+86,Toulouse,Toulouse FC,France
+87,Montpellier,Montpellier HSC,France
+88,Guingamp,En Avant Guingamp,France
+89,Amiens SC,Amiens SC,France
+90,Crotone,FC Crotone,Italy
+91,Hellas Verona,Hellas Verona FC,Italy
+92,Genoa,Genoa CFC,Italy
+93,Real Betis,Real Betis Balompi\u00e9,Spain
+94,Real Sociedad,Real Sociedad de F\u00fatbol,Spain
+95,Sevilla,Sevilla FC,Spain
+96,M\u00e1laga,M\u00e1laga Club de F\u00fatbol,Spain
+97,Villarreal,Villarreal Club de F\u00fatbol,Spain
+98,Korea Republic,Korea Republic,Korea Republic
+99,Hungary,Hungary,Hungary
+100,Turkey,Turkey,Turkey
+101,Russia,Russia,Russia
+102,Sweden,Sweden,Sweden
+103,Tunisia,Tunisia,Tunisia
+104,Brazil,Brazil,Brazil
+105,Germany,Germany,Germany
+106,Albania,Albania,Albania
+107,Romania,Romania,Romania
+108,Ukraine,Ukraine,Ukraine
+109,Morocco,Morocco,Morocco
+110,Slovakia,Slovakia,Slovakia
+111,Colombia,Colombia,Colombia
+112,Panama,Panama,Panama
+113,Australia,Australia,Australia
+114,Argentina,Argentina,Argentina
+115,Northern Ireland,Northern Ireland,Northern Ireland
+116,Portugal,Portugal,Portugal
+117,Belgium,Belgium,Belgium
+118,Denmark,Denmark,Denmark
+119,Uruguay,Uruguay,Uruguay
+120,Wales,Wales,Wales
+121,Costa Rica,Costa Rica,Costa Rica
+122,England,England,England
+123,Egypt,Egypt,Egypt
+124,Japan,Japan,Japan
+125,Iran,Iran,Iran
+126,Austria,Austria,Austria
+127,Iceland,Iceland,Iceland
+128,Croatia,Croatia,Croatia
+129,Mexico,Mexico,Mexico
+130,Republic of Ireland,Republic of Ireland,Ireland Republic
+131,Czech Republic,Czech Republic,Czech Republic
+132,Senegal,Senegal,Senegal
+133,Italy,Italy,Italy
+134,Peru,Peru,Peru
+135,France,France,France
+136,Saudi Arabia,Saudi Arabia,Saudi Arabia
+137,Spain,Spain,Spain
+138,Serbia,Serbia,Serbia
+139,Switzerland,Switzerland,Switzerland
+140,Poland,Poland,Poland
+141,Nigeria,Nigeria,Nigeria
