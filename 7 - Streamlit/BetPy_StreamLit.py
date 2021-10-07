@@ -129,6 +129,8 @@ def display_ROC(algo, y_test, probs):
 ## INITIALISATION                                                            ##
 ###############################################################################
 
+# https://github.com/MatthieuMorand/BET_PY/tree/main/7%20-%20Streamlit
+
 chdir(r'D:\Users\User\Documents\GitHub\BET_PY_\7 - Streamlit')
 
 path_data = '1 - Data\\'
@@ -226,6 +228,10 @@ if menu_sel == menu_lst[0]:
                    Les meilleurs résultats que nous avons pu obtenir ne sont pas encore présent dans le *streamlit*, mais la partie **Machine Learning** vous permet
                    de tester vous même les variables que nous avons créées sur différents algorithmes.
                 """)
+    
+    # TEST
+    from os import getcwd
+    st.write(getcwd)
 
 
 ###############################################################################
