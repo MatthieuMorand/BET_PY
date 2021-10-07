@@ -40,7 +40,6 @@ from sklearn.linear_model    import LogisticRegression
 from sklearn.metrics         import accuracy_score, auc, classification_report, roc_curve
 from sklearn.model_selection import GridSearchCV, train_test_split
 from time                    import sleep
-from urllib.request          import urlopen
 
 
 ###############################################################################
@@ -129,8 +128,8 @@ def display_ROC(algo, y_test, probs):
 ## INITIALISATION                                                            ##
 ###############################################################################
 
-path_data = r'https://github.com/MatthieuMorand/BET_PY/tree/main/7 - Streamlit/1 - Data'
-path_imag = r'https://github.com/MatthieuMorand/BET_PY/tree/main/7 - Streamlit/0 - Images'
+path_data = r'https://github.com/MatthieuMorand/BET_PY/tree/main/7 - Streamlit/1 - Data/'
+path_imag = r'https://github.com/MatthieuMorand/BET_PY/tree/main/7 - Streamlit/0 - Images/'
 
 
 ###############################################################################
